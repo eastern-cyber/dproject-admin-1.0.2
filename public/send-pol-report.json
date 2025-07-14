@@ -11787,11 +11787,5 @@
     "sentAmount": "120",
     "sentDate": "14/07/2025 12:25:24",
     "txHash": "0x1bd6a4f40b31e3d6b46b3f08c83240dc9aa13a80d2bffa5ffaa48d973ad0e79b"
-  },
-  {
-    "walletAddress": "0xE3d3642A18692074E1a18B30Dee5A9471eeB10e3",
-    "sentAmount": "108",
-    "sentDate": "14/07/2025 12:25:44",
-    "txHash": "0xf1190e0dee13cba9f3240899df67247eafb847f5e01f5b07161799ebacaeaff3"
   }
 ]
