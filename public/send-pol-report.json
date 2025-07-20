@@ -12335,13 +12335,13 @@
     "txHash": "0x42e19544d5dfe8359aed13c8b34bb4f311c07e8f9f4686b816dfcceb30d72d44"
   },
   {
-    "walletAddress": "0xa989ffbece21bd71b2533333ae0fdaf3d19d446f",
+    "walletAddress": "0xa989FFbECE21bD71b2533333ae0FdAf3D19d446f",
     "sentAmount": "132",
     "sentDate": "20/07/2025 02:18:04",
     "txHash": "0x6ed82b1e58e59fcf71c28f76d1c480240a41abc22faaccfb407bc7b8af3f5f64"
   },
   {
-    "walletAddress": "0xd887ce217a47d41663ab0e4ec229ddf83f4350ac",
+    "walletAddress": "0xd887CE217A47D41663AB0E4Ec229ddF83F4350AC",
     "sentAmount": "876",
     "sentDate": "20/07/2025 02:18:08",
     "txHash": "0xa78ae7e22fd53f404c76e81791202f57dceb3672d1be33030d2ff418067221e9"
@@ -12353,7 +12353,7 @@
     "txHash": "0x0436b028a51410afdf88e36068ad3ada6119c87c6e333c041acb07f0d6fdb949"
   },
   {
-    "walletAddress": "0x0c7c43990f99ec3c314b6c121ab1224b10eb769f",
+    "walletAddress": "0x0c7c43990f99Ec3C314B6C121Ab1224B10eB769F",
     "sentAmount": "144",
     "sentDate": "20/07/2025 02:18:24",
     "txHash": "0x75f48878b4d608a3c2811f0780169ca9649fb409c3d791a00f0a493ad283aba2"
@@ -12389,7 +12389,7 @@
     "txHash": "0xa22b9d3d1b3bfbe9fd3584f38aaeb8fba892ad4bd18447a6f37245acf0aa4e74"
   },
   {
-    "walletAddress": "0x56678f0cc491e6ba6bcdcad1176ccd5e7131e77f",
+    "walletAddress": "0x56678F0Cc491e6Ba6BCdCAD1176CCD5E7131e77f",
     "sentAmount": "420",
     "sentDate": "20/07/2025 10:11:25",
     "txHash": "0x2ab40749aa8713d3fc22320d37388f443f46343db0d75e74b7b9ca0ebfe4b005"
