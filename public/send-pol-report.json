@@ -12747,5 +12747,17 @@
     "sentAmount": "12",
     "sentDate": "27/07/2025 22:16:32",
     "txHash": "0x650eb879306c45c48d53343bd420ab9a203debb17ebd5f5966dbbeb671920945"
+  },
+  {
+    "walletAddress": "0x69fbC04CBA3844df53dd95A5c4bab1c397569b4c",
+    "sentAmount": "24",
+    "sentDate": "28/07/2025 07:00:55",
+    "txHash": "0xdde6ab0796bda34801e78fb52c6a97958d74f121a382136c1ba87635e0536f32"
+  },
+  {
+    "walletAddress": "0x4A7C5ce23a812fBD627EE6F848E3ef5D8065AAcF",
+    "sentAmount": "36",
+    "sentDate": "28/07/2025 07:01:36",
+    "txHash": "0x0f0feae56eada5cee28a2f94f3f9c9a27d86bd7e71ccefc97aa21b4a5d0150be"
   }
 ]
