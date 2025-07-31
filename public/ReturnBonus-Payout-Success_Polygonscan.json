@@ -4,314 +4,314 @@
     "DateTime (UTC)": "2025-07-13 17:54:37",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xe10e469d765f51e1a46488f08403dcb87f4292be",
-    "Value_OUT(POL)": "4978.8"
+    "Value_OUT(POL)": "4978.80"
   },
   {
     "Transaction Hash": "0xe206d22a0479b22f82667baa3fee8cf2e544e011662127c968d8159b9e2f89b5",
     "DateTime (UTC)": "2025-07-13 17:55:57",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x0a11986fd85aae898ee34757ebba93454647c63d",
-    "Value_OUT(POL)": "534.6"
+    "Value_OUT(POL)": "534.60"
   },
   {
     "Transaction Hash": "0x8bd0e49ab3a63073e02bc160078a36dd9b1ccaa9a0160ef2bd6ba375b06d42e0",
     "DateTime (UTC)": "2025-07-13 17:58:09",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xc5d27268e858fab26cfa2bd29511e214d9d8f779",
-    "Value_OUT(POL)": "549"
+    "Value_OUT(POL)": "549.00"
   },
   {
     "Transaction Hash": "0x79110a4596aab49c6612ac204d0a0cbfdf23ebd9bdf3ad2e861977ca884eb969",
     "DateTime (UTC)": "2025-07-13 17:59:05",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x12e43878ab2a41aca0545a7dca3536d92e16e8b7",
-    "Value_OUT(POL)": "3.6"
+    "Value_OUT(POL)": "3.60"
   },
   {
     "Transaction Hash": "0x6d59f0c894edefc732aa814b41abad4589bc0cfafcddd92adcbf6c83fb380337",
     "DateTime (UTC)": "2025-07-13 18:00:27",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x284b0577d6da27e4414e97dadc82b9e3a0aafd6d",
-    "Value_OUT(POL)": "10.2"
+    "Value_OUT(POL)": "10.20"
   },
   {
     "Transaction Hash": "0x46ee893f044bcd9c9cc63cd281c844509286a437d432f31f31073d30c22d02bb",
     "DateTime (UTC)": "2025-07-13 18:02:47",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x849a4ee9455d93cb9ac3932056faba3cf341b080",
-    "Value_OUT(POL)": "489"
+    "Value_OUT(POL)": "489.00"
   },
   {
     "Transaction Hash": "0x0cbdbfa32765c1c62a618199378a153dc47d094c80e067e44fc594cbebefae63",
     "DateTime (UTC)": "2025-07-13 18:04:55",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xb21ac8ac6e2dcce7f5264f214bc58f1634b8d8ab",
-    "Value_OUT(POL)": "1277.4"
+    "Value_OUT(POL)": "1277.40"
   },
   {
     "Transaction Hash": "0xa8071e0403e13423f64818af2c1b985c34b0e7882a5e175ac92786147aec9263",
     "DateTime (UTC)": "2025-07-13 18:07:27",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x0c20e00690fd7b7c660206a5f0ee06d664650f1a",
-    "Value_OUT(POL)": "2025.6"
+    "Value_OUT(POL)": "2025.60"
   },
   {
     "Transaction Hash": "0x4b062e089f1dc853c20dc52372ecba510da3b773ddcac24d26f533011ea50452",
     "DateTime (UTC)": "2025-07-13 18:09:15",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xb9cb4e7c1174877c9d06a7d519ed0edcf97e4dbf",
-    "Value_OUT(POL)": "410.4"
+    "Value_OUT(POL)": "410.40"
   },
   {
     "Transaction Hash": "0x5bd9f3a6f683cbce0f65aa43947cccb39633e0f90e96a7a50b6a454ba6d455e9",
     "DateTime (UTC)": "2025-07-15 04:51:59",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x1fecc92383b1cebcf1a3e9b2f90452ead0fc864a",
-    "Value_OUT(POL)": "1.2"
+    "Value_OUT(POL)": "1.20"
   },
   {
     "Transaction Hash": "0x6000cf429c8e798a28467ef834a09afca4efcca1136515c5cf04bcfbcae08790",
     "DateTime (UTC)": "2025-07-15 05:04:05",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x039981752ae767b68786aaec6c165c1969bf3b97",
-    "Value_OUT(POL)": "33.6"
+    "Value_OUT(POL)": "33.60"
   },
   {
     "Transaction Hash": "0xe8aa41dc51fd14599086f54fc96e0856958f1ea11d3bcb38b258509d55e7f731",
     "DateTime (UTC)": "2025-07-15 05:05:07",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xfafd5620bb742dc3c76bde0ece29a2ccabb3293d",
-    "Value_OUT(POL)": "79.2"
+    "Value_OUT(POL)": "79.20"
   },
   {
     "Transaction Hash": "0x6f8850ac95f64b1f2d5a2e456ccdef7f578a53dc518f6b36230cf5c522daf4d7",
     "DateTime (UTC)": "2025-07-15 05:06:53",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x36c83d6a147efa23ba870cc0e6afa2fce0e10fb7",
-    "Value_OUT(POL)": "68.4"
+    "Value_OUT(POL)": "68.40"
   },
   {
     "Transaction Hash": "0x73bf6a151362258ca8541d06ee62cdb68814563e0137905eb4441030c98a4a36",
     "DateTime (UTC)": "2025-07-15 05:10:31",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x62f38ed6e9a042ae853480b563f0cbe858ac13c3",
-    "Value_OUT(POL)": "1.8"
+    "Value_OUT(POL)": "1.80"
   },
   {
     "Transaction Hash": "0x32aae7c8356d3cc9832686f4f3d16951d83564bc3fbdbea59f6d97bcb7e49e92",
     "DateTime (UTC)": "2025-07-15 05:11:53",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x3bb1bbc33c1bdb751a7b00b18ad9dd9b88e7e618",
-    "Value_OUT(POL)": "95.4"
+    "Value_OUT(POL)": "95.40"
   },
   {
     "Transaction Hash": "0x1b3504fbb0bd12fad06da4c12b5fc5ec9fffa22477a601be16a7348c2970ce73",
     "DateTime (UTC)": "2025-07-15 05:12:35",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x12552583bf58694d92bbb2963a85ef1a835a1bb8",
-    "Value_OUT(POL)": "1996.2"
+    "Value_OUT(POL)": "1996.20"
   },
   {
     "Transaction Hash": "0x529f7e3db5815ba0377b371697d460f93f78a3c007c653d20892193ff5830f33",
     "DateTime (UTC)": "2025-07-15 05:13:27",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x3d4ebc6eacea478ada718984faca16cecefe50ae",
-    "Value_OUT(POL)": "0.6"
+    "Value_OUT(POL)": "0.60"
   },
   {
     "Transaction Hash": "0x6f8153d56af4df36ff0fe5f13ccde2dcc9fa79ad184319aa05199f2733351915",
     "DateTime (UTC)": "2025-07-15 05:14:11",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x35a119fd73b9d9c975245bfb6e02e3400438e017",
-    "Value_OUT(POL)": "45.6"
+    "Value_OUT(POL)": "45.60"
   },
   {
     "Transaction Hash": "0x5d21b3b0405af007edc2b022d829d39ef966d0a15b1e7c7c58562f16d60a7a39",
     "DateTime (UTC)": "2025-07-15 05:15:27",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x39eb18cd3910744ae4ecf055a519b3ef9633e127",
-    "Value_OUT(POL)": "24.6"
+    "Value_OUT(POL)": "24.60"
   },
   {
     "Transaction Hash": "0x3641f518451484d64a4deab0004de53492616394c1401e0c303086a0616c1573",
     "DateTime (UTC)": "2025-07-15 05:19:03",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xe56b4672bffa76321734cda4eb0b0c77ac3f73dd",
-    "Value_OUT(POL)": "0.6"
+    "Value_OUT(POL)": "0.60"
   },
   {
     "Transaction Hash": "0x5e8399d1d9f3fa1e4858e0b908f1b1cbf903e9c79f9aec87694a6f5c3d8420d7",
     "DateTime (UTC)": "2025-07-15 05:20:39",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xbbb2c94d2eeeb8acf016ef7dd64f1bbc2c645155",
-    "Value_OUT(POL)": "179.4"
+    "Value_OUT(POL)": "179.40"
   },
   {
     "Transaction Hash": "0x9a068581196266b954bd3d734b65c40d87dfa94a077b8ad15c815a34f1555a76",
     "DateTime (UTC)": "2025-07-15 05:21:31",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xb73044218386e1462fae125489b38de273ee6b05",
-    "Value_OUT(POL)": "37.2"
+    "Value_OUT(POL)": "37.20"
   },
   {
     "Transaction Hash": "0xa0dc6ed05cb4ee1a8684047b60c5b3bbf274dc2b2dc34abcb45e03d577562feb",
     "DateTime (UTC)": "2025-07-15 05:21:57",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x6dbb744ba4845e401e0a85629402ea3b3fa8b29a",
-    "Value_OUT(POL)": "2.4"
+    "Value_OUT(POL)": "2.40"
   },
   {
     "Transaction Hash": "0x69df20bfcb63f2a257b557732eb941302480fadf9ef671520226f30400540336",
     "DateTime (UTC)": "2025-07-15 05:22:25",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xe044ef9c25997fb463a9637f96b15d4f89e6b8e2",
-    "Value_OUT(POL)": "1.8"
+    "Value_OUT(POL)": "1.80"
   },
   {
     "Transaction Hash": "0xa2dc2c4fc1b5f556b5913e180c6ca813f4393ba52ba6d2cff10076684e497a11",
     "DateTime (UTC)": "2025-07-15 05:23:01",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x88c7bcaaa15a2571f220c80af09aaeaec32e4742",
-    "Value_OUT(POL)": "225.6"
+    "Value_OUT(POL)": "225.60"
   },
   {
     "Transaction Hash": "0x9e8a6dfb69bb757694df15dcb3e7d588a3aa2a6238995270bbf29d0af32dc67a",
     "DateTime (UTC)": "2025-07-15 05:23:39",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xe2bd645188757084470707ac34b6988b31b78da5",
-    "Value_OUT(POL)": "1.2"
+    "Value_OUT(POL)": "1.20"
   },
   {
     "Transaction Hash": "0x65d697ecb1980fbf4cf8738518cf15f1d79fcf7d227e84bebf104353a68b62e1",
     "DateTime (UTC)": "2025-07-25 06:44:50",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x49f3c3d9b775d4ee14cf89e9e8e0800de3037eb2",
-    "Value_OUT(POL)": "1253.4"
+    "Value_OUT(POL)": "1253.40"
   },
   {
     "Transaction Hash": "0x0594384cf7e45f8a8e1c453352831fa6a63e9dadf7e32d85cf7c61269915e85b",
     "DateTime (UTC)": "2025-07-25 06:46:02",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xc5c847848eea77992e65d98ea80672de4b4dbaaa",
-    "Value_OUT(POL)": "1195.2"
+    "Value_OUT(POL)": "1195.20"
   },
   {
     "Transaction Hash": "0xaea8852ee8d95d2d8a51294bbed4ac1112dd3d59431933d49814b3ac7ce6d3a7",
     "DateTime (UTC)": "2025-07-25 06:49:36",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xd0181791883fd4923bfcbce8104bb1af2edf771e",
-    "Value_OUT(POL)": "632.4"
+    "Value_OUT(POL)": "632.40"
   },
   {
     "Transaction Hash": "0xf3df1b0aa163eb5a18bf998f1cfd6565fc8df58d2699036bc0f91ce8309214d5",
     "DateTime (UTC)": "2025-07-25 06:53:00",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xfd09acf15c61d987440ae816f1a72c1354fea0d9",
-    "Value_OUT(POL)": "214.8"
+    "Value_OUT(POL)": "214.80"
   },
   {
     "Transaction Hash": "0x252ee1435697f73cefdaf816928014c362ceda09de908dc37583e770a8e19d1c",
     "DateTime (UTC)": "2025-07-25 06:54:54",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xd3a8ef8a959bcf3a11ea3efce70f4da9b99924fe",
-    "Value_OUT(POL)": "154.2"
+    "Value_OUT(POL)": "154.20"
   },
   {
     "Transaction Hash": "0x09159c7c6d9368ea85db856b7e7d24a1eb364689e6f5ebee4d25f794e82946cf",
     "DateTime (UTC)": "2025-07-25 07:25:40",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x5e5243e76eb6b80ab50c626376def2a8e0c8dd4c",
-    "Value_OUT(POL)": "120.6"
+    "Value_OUT(POL)": "120.60"
   },
   {
     "Transaction Hash": "0x7f5c9bc2da65faf91d32aafff6484f785e856975ff8e9ac36f3f4846a1351434",
     "DateTime (UTC)": "2025-07-25 07:29:48",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x14ab2951b1b4e998bf10a34385d0c9ca40ff04b5",
-    "Value_OUT(POL)": "378.6"
+    "Value_OUT(POL)": "378.60"
   },
   {
     "Transaction Hash": "0x3bb57ad65ac5bafc7af30c86fc80e03f9cd60c11884bce44888f3c8eea961590",
     "DateTime (UTC)": "2025-07-25 07:33:22",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xc550e56121d86f6c3ab4d77e05b977a9e9e47c3d",
-    "Value_OUT(POL)": "149.4"
+    "Value_OUT(POL)": "149.40"
   },
   {
     "Transaction Hash": "0xd5ef7bb9f5bd43a56ab00b6834bd72f2998cc30b5f5a762ceaf4adb9375a39a3",
     "DateTime (UTC)": "2025-07-26 10:11:17",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x8bcd0d82aba56934443b3c00f029422f80f2a251",
-    "Value_OUT(POL)": "1994.4"
+    "Value_OUT(POL)": "1994.40"
   },
   {
     "Transaction Hash": "0xbee6dcd775bb8533132d8ce5ca47cfc3f8cc1e9685f69dc1d7010694b091deba",
     "DateTime (UTC)": "2025-07-26 10:39:53",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xc10df7f457363a3f9aac951d1e7aea60f1c677ee",
-    "Value_OUT(POL)": "1993.8"
+    "Value_OUT(POL)": "1993.80"
   },
   {
     "Transaction Hash": "0x8e8109b55c7d668096cf9d43f943045a5c0c2ff2fb20f8671a71e6b165aa3386",
     "DateTime (UTC)": "2025-07-26 10:46:31",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x437b861f790b2e78d636b69b5ff7c59286952e89",
-    "Value_OUT(POL)": "1986.6"
+    "Value_OUT(POL)": "1986.60"
   },
   {
     "Transaction Hash": "0x6ed2b5e41b6d75c9847ac81413f6ae070ef164b0f0e2cb4d158b8ebd20893926",
     "DateTime (UTC)": "2025-07-26 10:50:01",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x862f8ed7726176fb052075957c7a9963df9c4841",
-    "Value_OUT(POL)": "1051.2"
+    "Value_OUT(POL)": "1051.20"
   },
   {
     "Transaction Hash": "0x5d03469f9aeff23147758bf52a6984dd0dba165c7df60f7f5a0a5a8226e6213d",
     "DateTime (UTC)": "2025-07-26 10:51:37",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xabe20502c7915874cd4ebbdfe6dd06b9cc090877",
-    "Value_OUT(POL)": "149.4"
+    "Value_OUT(POL)": "149.40"
   },
   {
     "Transaction Hash": "0xf2b23fb87f9032b3f4dd9dd890936b4fbbea4b35ea77b3b0d89cdf9359fa768c",
     "DateTime (UTC)": "2025-07-26 10:54:45",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x684979a53e3654db5c3e4b3fd53ac5db35229940",
-    "Value_OUT(POL)": "246"
+    "Value_OUT(POL)": "246.00"
   },
   {
     "Transaction Hash": "0x36f1388f83228876bb5f7fe57bf4dcc7a6192b2320478a793ad43fb760403e24",
     "DateTime (UTC)": "2025-07-26 10:57:13",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x553c4ac2c5e7fe18080650e6d0d182eebfedc705",
-    "Value_OUT(POL)": "123"
+    "Value_OUT(POL)": "123.00"
   },
   {
     "Transaction Hash": "0x601a1de67e3f6eb4d333120584d32cd3c963e0f08c7e389be318bf6239a5c8a8",
     "DateTime (UTC)": "2025-07-26 10:59:41",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xe86b3e02999b62dea683877816b7fcee46f8484c",
-    "Value_OUT(POL)": "771.6"
+    "Value_OUT(POL)": "771.60"
   },
   {
     "Transaction Hash": "0xc42aa3bbe5de76e1463bbb89ff065f0d487680edc2f9d443e0d172a63f9a625f",
     "DateTime (UTC)": "2025-07-26 11:00:43",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0x645b2a988e9c85491ea1465cdf51aef8c9491203",
-    "Value_OUT(POL)": "536.4"
+    "Value_OUT(POL)": "536.40"
   },
   {
     "Transaction Hash": "0x81d260dded40a6802e98d4e13493ee74200dd7efc3f70e1dd351cdcb98a1480b",
     "DateTime (UTC)": "2025-07-26 11:01:43",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xc888a4cc8161abfb2b8ee44e84cd6f6185ab43bf",
-    "Value_OUT(POL)": "133.2"
+    "Value_OUT(POL)": "133.20"
   },
   {
     "Transaction Hash": "0x95175cd3cf4d5bcde98d3e5c5f2b2d4f353fd800d7e6c1cb51682369943dd5ed",
     "DateTime (UTC)": "2025-07-26 11:03:53",
     "From": "0x74cc6588be3d30b32c4601ff4eb48d6c2ad4a804",
     "To": "0xf555109b8e84d64afa835c5c8dffc087780b26ba",
-    "Value_OUT(POL)": "138.6"
+    "Value_OUT(POL)": "138.60"
   }
 ]
