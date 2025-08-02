@@ -148846,7 +148846,8 @@
     "userCreated": "Jul 31, 2025",
     "planA": {
       "dateTime": "31/07/2025, 21:25:46",
-      "POL": 40
+      "POL": 40,
+      "rateTHBPOL": 6.65
     }
   },
   {
@@ -148858,7 +148859,8 @@
     "userCreated": "Jul 31, 2025",
     "planA": {
       "dateTime": "01/08/2025, 05:34:12",
-      "POL": 40
+      "POL": 40,
+      "rateTHBPOL": 6.65
     }
   },
   {
@@ -148870,7 +148872,8 @@
     "userCreated": "Jul 31, 2025",
     "planA": {
       "dateTime": "01/08/2025, 14:16:00",
-      "POL": 40
+      "POL": 40,
+      "rateTHBPOL": 6.65
     }
   },
   {
@@ -148882,7 +148885,8 @@
     "userCreated": "Aug 01, 2025",
     "planA": {
       "dateTime": "01/08/2025, 20:09:18",
-      "POL": 40
+      "POL": 40,
+      "rateTHBPOL": 6.65
     }
   },
   {
@@ -148894,7 +148898,8 @@
     "userCreated": "Aug 01, 2025",
     "planA": {
       "dateTime": "01/08/2025, 20:14:44",
-      "POL": 40
+      "POL": 40,
+      "rateTHBPOL": 6.65
     }
   }
 ]
