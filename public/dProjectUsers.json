@@ -143542,5 +143542,17 @@
       "POL": 52.15,
       "rateTHBPOL": 7.67
     }
+  },
+  {
+    "userId": "0xCc5959cB43E71B3317d17C3198303044F9552698",
+    "referrerId": "0x77a66893E2Be3E6BA9d86B2ba9B606620f699C50",
+    "email": null,
+    "name": null,
+    "tokenId": "11969",
+    "planA": {
+      "dateTime": "28/08/2025, 11:04:59",
+      "POL": 52.02,
+      "rateTHBPOL": 7.69
+    }
   }
 ]
