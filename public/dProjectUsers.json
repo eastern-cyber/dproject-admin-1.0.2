@@ -144355,7 +144355,7 @@
     "tokenId": "12036",
     "planA": {
       "dateTime": "31/08/2025, 16:09:04",
-      "POL": 40,
+      "POL": 45.56,
       "rateTHBPOL": 8.78
     }
   },
@@ -144367,8 +144367,8 @@
     "tokenId": "12037",
     "planA": {
       "dateTime": "31/08/2025, 16:16:16",
-      "POL": 45.56,
-      "rateTHBPOL": 10
+      "POL": 45.61,
+      "rateTHBPOL": 8.77
     }
   },
   {
@@ -144379,8 +144379,8 @@
     "tokenId": "12038",
     "planA": {
       "dateTime": "31/08/2025, 16:23:48",
-      "POL": 40,
-      "rateTHBPOL": 10
+      "POL": 45.10,
+      "rateTHBPOL": 8.87
     }
   },
   {
