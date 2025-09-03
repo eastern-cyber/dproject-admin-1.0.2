@@ -108327,17 +108327,9 @@
   {
     "userId": "0x9941Bd781D5E590e1F0b72781027044Cff498c4e",
     "referrerId": "0xaA5cf022A2089E6e894B7fc6f90b3A11937E1111",
-    "email": null,
-    "name": null,
+    "email": "duncanjk919@gmail.com",
+    "name": "duncanjk919",
     "tokenId": "12054",
     "planA": "03/09/2025, 21:14:24"
-  },
-  {
-    "userId": "0x930CF7598491D955f588B17Cd4C0A81C5B6C9247",
-    "referrerId": "0x12E43878Ab2a41ACA0545a7dCa3536D92e16E8b7",
-    "email": "malate@mail.com",
-    "name": "malate",
-    "tokenId": "12055",
-    "planA": "03/09/2025, 21:31:24"
   }
 ]
