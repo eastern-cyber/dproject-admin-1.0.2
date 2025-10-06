@@ -1,0 +1,4482 @@
+[
+  {
+    "userId": "1",
+    "referrerId": "X",
+    "name": "001",
+    "tokenId": "1",
+    "d1Id": "1",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 93.262,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 13.4047,
+      "checkPol": 13.4047,
+      "dateTime": "01/09/2025, 00:00:01"
+    }
+  },
+  {
+    "userId": "2",
+    "referrerId": "1",
+    "name": "002",
+    "tokenId": "2",
+    "d1Id": "2",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 174.0035,
+      "requiredPol": 106.6667,
+      "remainingPol": 67.3368,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "01/09/2025, 00:00:02"
+    }
+  },
+  {
+    "userId": "3",
+    "referrerId": "1",
+    "name": "003",
+    "tokenId": "3",
+    "d1Id": "3",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 37.12,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 69.5467,
+      "checkPol": 69.5467,
+      "dateTime": "01/09/2025, 00:00:03"
+    }
+  },
+  {
+    "userId": "4",
+    "referrerId": "2",
+    "name": "004",
+    "tokenId": "4",
+    "d1Id": "4",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 290.1855,
+      "requiredPol": 106.6667,
+      "remainingPol": 183.5188,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "01/09/2025, 00:00:04"
+    }
+  },
+  {
+    "userId": "5",
+    "referrerId": "2",
+    "name": "005",
+    "tokenId": "5",
+    "d1Id": "5",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 29.24,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 77.4267,
+      "checkPol": 77.4267,
+      "dateTime": "01/09/2025, 00:00:05"
+    }
+  },
+  {
+    "userId": "6",
+    "referrerId": "3",
+    "name": "006",
+    "tokenId": "6",
+    "d1Id": "6",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 29.72,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 76.9467,
+      "checkPol": 76.9467,
+      "dateTime": "01/09/2025, 00:00:06"
+    }
+  },
+  {
+    "userId": "7",
+    "referrerId": "3",
+    "name": "007",
+    "tokenId": "7",
+    "d1Id": "7",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 30.32,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 76.3467,
+      "checkPol": 76.3467,
+      "dateTime": "01/09/2025, 00:00:07"
+    }
+  },
+  {
+    "userId": "8",
+    "referrerId": "4",
+    "name": "008",
+    "tokenId": "8",
+    "d1Id": "8",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 406.728,
+      "requiredPol": 106.6667,
+      "remainingPol": 300.0613,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "01/09/2025, 00:00:08"
+    }
+  },
+  {
+    "userId": "9",
+    "referrerId": "4",
+    "name": "009",
+    "tokenId": "9",
+    "d1Id": "9",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 29.44,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 77.2267,
+      "checkPol": 77.2267,
+      "dateTime": "01/09/2025, 00:00:09"
+    }
+  },
+  {
+    "userId": "10",
+    "referrerId": "5",
+    "name": "010",
+    "tokenId": "10",
+    "d1Id": "10",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 29.44,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 77.2267,
+      "checkPol": 77.2267,
+      "dateTime": "01/09/2025, 00:00:10"
+    }
+  },
+  {
+    "userId": "11",
+    "referrerId": "5",
+    "name": "011",
+    "tokenId": "11",
+    "d1Id": "11",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 29.44,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 77.2267,
+      "checkPol": 77.2267,
+      "dateTime": "01/09/2025, 00:00:11"
+    }
+  },
+  {
+    "userId": "12",
+    "referrerId": "6",
+    "name": "012",
+    "tokenId": "12",
+    "d1Id": "12",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 29.44,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 77.2267,
+      "checkPol": 77.2267,
+      "dateTime": "01/09/2025, 00:00:12"
+    }
+  },
+  {
+    "userId": "13",
+    "referrerId": "6",
+    "name": "013",
+    "tokenId": "13",
+    "d1Id": "13",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 29.44,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 77.2267,
+      "checkPol": 77.2267,
+      "dateTime": "01/09/2025, 00:00:13"
+    }
+  },
+  {
+    "userId": "14",
+    "referrerId": "7",
+    "name": "014",
+    "tokenId": "14",
+    "d1Id": "14",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 29.44,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 77.2267,
+      "checkPol": 77.2267,
+      "dateTime": "01/09/2025, 00:00:14"
+    }
+  },
+  {
+    "userId": "15",
+    "referrerId": "7",
+    "name": "015",
+    "tokenId": "15",
+    "d1Id": "15",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 29.44,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 77.2267,
+      "checkPol": 77.2267,
+      "dateTime": "01/09/2025, 00:00:15"
+    }
+  },
+  {
+    "userId": "16",
+    "referrerId": "8",
+    "name": "016",
+    "tokenId": "16",
+    "d1Id": "16",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 524.7515,
+      "requiredPol": 106.6667,
+      "remainingPol": 418.0848,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "01/09/2025, 00:00:16"
+    }
+  },
+  {
+    "userId": "17",
+    "referrerId": "8",
+    "name": "017",
+    "tokenId": "17",
+    "d1Id": "17",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 28.16,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 78.5067,
+      "checkPol": 78.5067,
+      "dateTime": "01/09/2025, 00:00:17"
+    }
+  },
+  {
+    "userId": "18",
+    "referrerId": "9",
+    "name": "018",
+    "tokenId": "18",
+    "d1Id": "18",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 28.16,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 78.5067,
+      "checkPol": 78.5067,
+      "dateTime": "01/09/2025, 00:00:18"
+    }
+  },
+  {
+    "userId": "19",
+    "referrerId": "9",
+    "name": "019",
+    "tokenId": "19",
+    "d1Id": "19",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 28.16,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 78.5067,
+      "checkPol": 78.5067,
+      "dateTime": "01/09/2025, 00:00:19"
+    }
+  },
+  {
+    "userId": "20",
+    "referrerId": "10",
+    "name": "020",
+    "tokenId": "20",
+    "d1Id": "20",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 28.16,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 78.5067,
+      "checkPol": 78.5067,
+      "dateTime": "01/09/2025, 00:00:20"
+    }
+  },
+  {
+    "userId": "21",
+    "referrerId": "10",
+    "name": "021",
+    "tokenId": "21",
+    "d1Id": "21",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 28.16,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 78.5067,
+      "checkPol": 78.5067,
+      "dateTime": "01/09/2025, 00:00:21"
+    }
+  },
+  {
+    "userId": "22",
+    "referrerId": "11",
+    "name": "022",
+    "tokenId": "22",
+    "d1Id": "22",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 28.16,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 78.5067,
+      "checkPol": 78.5067,
+      "dateTime": "01/09/2025, 00:00:22"
+    }
+  },
+  {
+    "userId": "23",
+    "referrerId": "11",
+    "name": "023",
+    "tokenId": "23",
+    "d1Id": "23",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 28.16,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 78.5067,
+      "checkPol": 78.5067,
+      "dateTime": "01/09/2025, 00:00:23"
+    }
+  },
+  {
+    "userId": "24",
+    "referrerId": "12",
+    "name": "024",
+    "tokenId": "24",
+    "d1Id": "24",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 28.16,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 78.5067,
+      "checkPol": 78.5067,
+      "dateTime": "01/09/2025, 00:00:24"
+    }
+  },
+  {
+    "userId": "25",
+    "referrerId": "12",
+    "name": "025",
+    "tokenId": "25",
+    "d1Id": "25",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 28.16,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 78.5067,
+      "checkPol": 78.5067,
+      "dateTime": "01/09/2025, 00:00:25"
+    }
+  },
+  {
+    "userId": "26",
+    "referrerId": "13",
+    "name": "026",
+    "tokenId": "26",
+    "d1Id": "26",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 28.16,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 78.5067,
+      "checkPol": 78.5067,
+      "dateTime": "01/09/2025, 00:00:26"
+    }
+  },
+  {
+    "userId": "27",
+    "referrerId": "13",
+    "name": "027",
+    "tokenId": "27",
+    "d1Id": "27",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 28.16,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 78.5067,
+      "checkPol": 78.5067,
+      "dateTime": "01/09/2025, 00:00:27"
+    }
+  },
+  {
+    "userId": "28",
+    "referrerId": "14",
+    "name": "028",
+    "tokenId": "28",
+    "d1Id": "28",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 28.16,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 78.5067,
+      "checkPol": 78.5067,
+      "dateTime": "01/09/2025, 00:00:28"
+    }
+  },
+  {
+    "userId": "29",
+    "referrerId": "14",
+    "name": "029",
+    "tokenId": "29",
+    "d1Id": "29",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 28.16,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 78.5067,
+      "checkPol": 78.5067,
+      "dateTime": "01/09/2025, 00:00:29"
+    }
+  },
+  {
+    "userId": "30",
+    "referrerId": "15",
+    "name": "030",
+    "tokenId": "30",
+    "d1Id": "30",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 28.16,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 78.5067,
+      "checkPol": 78.5067,
+      "dateTime": "01/09/2025, 00:00:30"
+    }
+  },
+  {
+    "userId": "31",
+    "referrerId": "15",
+    "name": "031",
+    "tokenId": "31",
+    "d1Id": "31",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 28.16,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 78.5067,
+      "checkPol": 78.5067,
+      "dateTime": "01/09/2025, 00:00:31"
+    }
+  },
+  {
+    "userId": "32",
+    "referrerId": "16",
+    "name": "032",
+    "tokenId": "32",
+    "d1Id": "32",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 645.486,
+      "requiredPol": 106.6667,
+      "remainingPol": 538.8193,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "01/09/2025, 00:00:32"
+    }
+  },
+  {
+    "userId": "33",
+    "referrerId": "16",
+    "name": "033",
+    "tokenId": "33",
+    "d1Id": "33",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:33"
+    }
+  },
+  {
+    "userId": "34",
+    "referrerId": "17",
+    "name": "034",
+    "tokenId": "34",
+    "d1Id": "34",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:34"
+    }
+  },
+  {
+    "userId": "35",
+    "referrerId": "17",
+    "name": "035",
+    "tokenId": "35",
+    "d1Id": "35",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:35"
+    }
+  },
+  {
+    "userId": "36",
+    "referrerId": "18",
+    "name": "036",
+    "tokenId": "36",
+    "d1Id": "36",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:36"
+    }
+  },
+  {
+    "userId": "37",
+    "referrerId": "18",
+    "name": "037",
+    "tokenId": "37",
+    "d1Id": "37",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:37"
+    }
+  },
+  {
+    "userId": "38",
+    "referrerId": "19",
+    "name": "038",
+    "tokenId": "38",
+    "d1Id": "38",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:38"
+    }
+  },
+  {
+    "userId": "39",
+    "referrerId": "19",
+    "name": "039",
+    "tokenId": "39",
+    "d1Id": "39",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:39"
+    }
+  },
+  {
+    "userId": "40",
+    "referrerId": "20",
+    "name": "040",
+    "tokenId": "40",
+    "d1Id": "40",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:40"
+    }
+  },
+  {
+    "userId": "41",
+    "referrerId": "20",
+    "name": "041",
+    "tokenId": "41",
+    "d1Id": "41",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:41"
+    }
+  },
+  {
+    "userId": "42",
+    "referrerId": "21",
+    "name": "042",
+    "tokenId": "42",
+    "d1Id": "42",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:42"
+    }
+  },
+  {
+    "userId": "43",
+    "referrerId": "21",
+    "name": "043",
+    "tokenId": "43",
+    "d1Id": "43",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:43"
+    }
+  },
+  {
+    "userId": "44",
+    "referrerId": "22",
+    "name": "044",
+    "tokenId": "44",
+    "d1Id": "44",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:44"
+    }
+  },
+  {
+    "userId": "45",
+    "referrerId": "22",
+    "name": "045",
+    "tokenId": "45",
+    "d1Id": "45",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:45"
+    }
+  },
+  {
+    "userId": "46",
+    "referrerId": "23",
+    "name": "046",
+    "tokenId": "46",
+    "d1Id": "46",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:46"
+    }
+  },
+  {
+    "userId": "47",
+    "referrerId": "23",
+    "name": "047",
+    "tokenId": "47",
+    "d1Id": "47",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:47"
+    }
+  },
+  {
+    "userId": "48",
+    "referrerId": "24",
+    "name": "048",
+    "tokenId": "48",
+    "d1Id": "48",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:48"
+    }
+  },
+  {
+    "userId": "49",
+    "referrerId": "24",
+    "name": "049",
+    "tokenId": "49",
+    "d1Id": "49",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:49"
+    }
+  },
+  {
+    "userId": "50",
+    "referrerId": "25",
+    "name": "050",
+    "tokenId": "50",
+    "d1Id": "50",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:50"
+    }
+  },
+  {
+    "userId": "51",
+    "referrerId": "25",
+    "name": "051",
+    "tokenId": "51",
+    "d1Id": "51",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:51"
+    }
+  },
+  {
+    "userId": "52",
+    "referrerId": "26",
+    "name": "052",
+    "tokenId": "52",
+    "d1Id": "52",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:52"
+    }
+  },
+  {
+    "userId": "53",
+    "referrerId": "26",
+    "name": "053",
+    "tokenId": "53",
+    "d1Id": "53",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:53"
+    }
+  },
+  {
+    "userId": "54",
+    "referrerId": "27",
+    "name": "054",
+    "tokenId": "54",
+    "d1Id": "54",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:54"
+    }
+  },
+  {
+    "userId": "55",
+    "referrerId": "27",
+    "name": "055",
+    "tokenId": "55",
+    "d1Id": "55",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:55"
+    }
+  },
+  {
+    "userId": "56",
+    "referrerId": "28",
+    "name": "056",
+    "tokenId": "56",
+    "d1Id": "56",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:56"
+    }
+  },
+  {
+    "userId": "57",
+    "referrerId": "28",
+    "name": "057",
+    "tokenId": "57",
+    "d1Id": "57",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:57"
+    }
+  },
+  {
+    "userId": "58",
+    "referrerId": "29",
+    "name": "058",
+    "tokenId": "58",
+    "d1Id": "58",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:58"
+    }
+  },
+  {
+    "userId": "59",
+    "referrerId": "29",
+    "name": "059",
+    "tokenId": "59",
+    "d1Id": "59",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:00:59"
+    }
+  },
+  {
+    "userId": "60",
+    "referrerId": "30",
+    "name": "060",
+    "tokenId": "60",
+    "d1Id": "60",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 27.52,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.1467,
+      "checkPol": 79.1467,
+      "dateTime": "01/09/2025, 00:01:00"
+    }
+  },
+  {
+    "userId": "61",
+    "referrerId": "30",
+    "name": "061",
+    "tokenId": "61",
+    "d1Id": "61",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 26.88,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.7867,
+      "checkPol": 79.7867,
+      "dateTime": "01/09/2025, 00:01:01"
+    }
+  },
+  {
+    "userId": "62",
+    "referrerId": "31",
+    "name": "062",
+    "tokenId": "62",
+    "d1Id": "62",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 26.88,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.7867,
+      "checkPol": 79.7867,
+      "dateTime": "01/09/2025, 00:01:02"
+    }
+  },
+  {
+    "userId": "63",
+    "referrerId": "31",
+    "name": "063",
+    "tokenId": "63",
+    "d1Id": "63",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 26.88,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 79.7867,
+      "checkPol": 79.7867,
+      "dateTime": "01/09/2025, 00:01:03"
+    }
+  },
+  {
+    "userId": "64",
+    "referrerId": "32",
+    "name": "064",
+    "tokenId": "64",
+    "d1Id": "64",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 760.337,
+      "requiredPol": 106.6667,
+      "remainingPol": 653.6703,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "01/09/2025, 00:01:04"
+    }
+  },
+  {
+    "userId": "65",
+    "referrerId": "32",
+    "name": "065",
+    "tokenId": "65",
+    "d1Id": "65",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.1005,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5662,
+      "checkPol": 90.5662,
+      "dateTime": "01/09/2025, 00:01:05"
+    }
+  },
+  {
+    "userId": "66",
+    "referrerId": "33",
+    "name": "066",
+    "tokenId": "66",
+    "d1Id": "66",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.1,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5667,
+      "checkPol": 90.5667,
+      "dateTime": "01/09/2025, 00:01:06"
+    }
+  },
+  {
+    "userId": "67",
+    "referrerId": "33",
+    "name": "067",
+    "tokenId": "67",
+    "d1Id": "67",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.101,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5657,
+      "checkPol": 90.5657,
+      "dateTime": "01/09/2025, 00:01:07"
+    }
+  },
+  {
+    "userId": "68",
+    "referrerId": "34",
+    "name": "068",
+    "tokenId": "68",
+    "d1Id": "68",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.102,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5647,
+      "checkPol": 90.5647,
+      "dateTime": "01/09/2025, 00:01:08"
+    }
+  },
+  {
+    "userId": "69",
+    "referrerId": "34",
+    "name": "069",
+    "tokenId": "69",
+    "d1Id": "69",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.101,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5657,
+      "checkPol": 90.5657,
+      "dateTime": "01/09/2025, 00:01:09"
+    }
+  },
+  {
+    "userId": "70",
+    "referrerId": "35",
+    "name": "070",
+    "tokenId": "70",
+    "d1Id": "70",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.101,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5657,
+      "checkPol": 90.5657,
+      "dateTime": "01/09/2025, 00:01:10"
+    }
+  },
+  {
+    "userId": "71",
+    "referrerId": "35",
+    "name": "071",
+    "tokenId": "71",
+    "d1Id": "71",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.0995,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5672,
+      "checkPol": 90.5672,
+      "dateTime": "01/09/2025, 00:01:11"
+    }
+  },
+  {
+    "userId": "72",
+    "referrerId": "36",
+    "name": "072",
+    "tokenId": "72",
+    "d1Id": "72",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.1035,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5632,
+      "checkPol": 90.5632,
+      "dateTime": "01/09/2025, 00:01:12"
+    }
+  },
+  {
+    "userId": "73",
+    "referrerId": "36",
+    "name": "073",
+    "tokenId": "73",
+    "d1Id": "73",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.102,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5647,
+      "checkPol": 90.5647,
+      "dateTime": "01/09/2025, 00:01:13"
+    }
+  },
+  {
+    "userId": "74",
+    "referrerId": "37",
+    "name": "074",
+    "tokenId": "74",
+    "d1Id": "74",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.0885,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5782,
+      "checkPol": 90.5782,
+      "dateTime": "01/09/2025, 00:01:14"
+    }
+  },
+  {
+    "userId": "75",
+    "referrerId": "37",
+    "name": "075",
+    "tokenId": "75",
+    "d1Id": "75",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.087,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5797,
+      "checkPol": 90.5797,
+      "dateTime": "01/09/2025, 00:01:15"
+    }
+  },
+  {
+    "userId": "76",
+    "referrerId": "38",
+    "name": "076",
+    "tokenId": "76",
+    "d1Id": "76",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.0855,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5812,
+      "checkPol": 90.5812,
+      "dateTime": "01/09/2025, 00:01:16"
+    }
+  },
+  {
+    "userId": "77",
+    "referrerId": "38",
+    "name": "077",
+    "tokenId": "77",
+    "d1Id": "77",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.082,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5847,
+      "checkPol": 90.5847,
+      "dateTime": "01/09/2025, 00:01:17"
+    }
+  },
+  {
+    "userId": "78",
+    "referrerId": "39",
+    "name": "078",
+    "tokenId": "78",
+    "d1Id": "78",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.084,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5827,
+      "checkPol": 90.5827,
+      "dateTime": "01/09/2025, 00:01:18"
+    }
+  },
+  {
+    "userId": "79",
+    "referrerId": "39",
+    "name": "079",
+    "tokenId": "79",
+    "d1Id": "79",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.077,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5897,
+      "checkPol": 90.5897,
+      "dateTime": "01/09/2025, 00:01:19"
+    }
+  },
+  {
+    "userId": "80",
+    "referrerId": "40",
+    "name": "080",
+    "tokenId": "80",
+    "d1Id": "80",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.0805,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5862,
+      "checkPol": 90.5862,
+      "dateTime": "01/09/2025, 00:01:20"
+    }
+  },
+  {
+    "userId": "81",
+    "referrerId": "40",
+    "name": "081",
+    "tokenId": "81",
+    "d1Id": "81",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.0875,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5792,
+      "checkPol": 90.5792,
+      "dateTime": "01/09/2025, 00:01:21"
+    }
+  },
+  {
+    "userId": "82",
+    "referrerId": "41",
+    "name": "082",
+    "tokenId": "82",
+    "d1Id": "82",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.086,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5807,
+      "checkPol": 90.5807,
+      "dateTime": "01/09/2025, 00:01:22"
+    }
+  },
+  {
+    "userId": "83",
+    "referrerId": "41",
+    "name": "083",
+    "tokenId": "83",
+    "d1Id": "83",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.083,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5837,
+      "checkPol": 90.5837,
+      "dateTime": "01/09/2025, 00:01:23"
+    }
+  },
+  {
+    "userId": "84",
+    "referrerId": "42",
+    "name": "084",
+    "tokenId": "84",
+    "d1Id": "84",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.0725,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5942,
+      "checkPol": 90.5942,
+      "dateTime": "01/09/2025, 00:01:24"
+    }
+  },
+  {
+    "userId": "85",
+    "referrerId": "42",
+    "name": "085",
+    "tokenId": "85",
+    "d1Id": "85",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.069,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5977,
+      "checkPol": 90.5977,
+      "dateTime": "01/09/2025, 00:01:25"
+    }
+  },
+  {
+    "userId": "86",
+    "referrerId": "43",
+    "name": "086",
+    "tokenId": "86",
+    "d1Id": "86",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.0675,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5992,
+      "checkPol": 90.5992,
+      "dateTime": "01/09/2025, 00:01:26"
+    }
+  },
+  {
+    "userId": "87",
+    "referrerId": "43",
+    "name": "087",
+    "tokenId": "87",
+    "d1Id": "87",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.07,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5967,
+      "checkPol": 90.5967,
+      "dateTime": "01/09/2025, 00:01:27"
+    }
+  },
+  {
+    "userId": "88",
+    "referrerId": "44",
+    "name": "088",
+    "tokenId": "88",
+    "d1Id": "88",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.071,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5957,
+      "checkPol": 90.5957,
+      "dateTime": "01/09/2025, 00:01:28"
+    }
+  },
+  {
+    "userId": "89",
+    "referrerId": "44",
+    "name": "089",
+    "tokenId": "89",
+    "d1Id": "89",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.083,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5837,
+      "checkPol": 90.5837,
+      "dateTime": "01/09/2025, 00:01:29"
+    }
+  },
+  {
+    "userId": "90",
+    "referrerId": "45",
+    "name": "090",
+    "tokenId": "90",
+    "d1Id": "90",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.0975,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5692,
+      "checkPol": 90.5692,
+      "dateTime": "01/09/2025, 00:01:30"
+    }
+  },
+  {
+    "userId": "91",
+    "referrerId": "45",
+    "name": "091",
+    "tokenId": "91",
+    "d1Id": "91",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.0945,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5722,
+      "checkPol": 90.5722,
+      "dateTime": "01/09/2025, 00:01:31"
+    }
+  },
+  {
+    "userId": "92",
+    "referrerId": "46",
+    "name": "092",
+    "tokenId": "92",
+    "d1Id": "92",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.093,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5737,
+      "checkPol": 90.5737,
+      "dateTime": "01/09/2025, 00:01:32"
+    }
+  },
+  {
+    "userId": "93",
+    "referrerId": "46",
+    "name": "093",
+    "tokenId": "93",
+    "d1Id": "93",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.089,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5777,
+      "checkPol": 90.5777,
+      "dateTime": "01/09/2025, 00:01:33"
+    }
+  },
+  {
+    "userId": "94",
+    "referrerId": "47",
+    "name": "094",
+    "tokenId": "94",
+    "d1Id": "94",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.0845,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5822,
+      "checkPol": 90.5822,
+      "dateTime": "01/09/2025, 00:01:34"
+    }
+  },
+  {
+    "userId": "95",
+    "referrerId": "47",
+    "name": "095",
+    "tokenId": "95",
+    "d1Id": "95",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.083,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5837,
+      "checkPol": 90.5837,
+      "dateTime": "01/09/2025, 00:01:35"
+    }
+  },
+  {
+    "userId": "96",
+    "referrerId": "48",
+    "name": "096",
+    "tokenId": "96",
+    "d1Id": "96",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.088,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5787,
+      "checkPol": 90.5787,
+      "dateTime": "01/09/2025, 00:01:36"
+    }
+  },
+  {
+    "userId": "97",
+    "referrerId": "48",
+    "name": "097",
+    "tokenId": "97",
+    "d1Id": "97",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.091,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5757,
+      "checkPol": 90.5757,
+      "dateTime": "01/09/2025, 00:01:37"
+    }
+  },
+  {
+    "userId": "98",
+    "referrerId": "49",
+    "name": "098",
+    "tokenId": "98",
+    "d1Id": "98",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.0915,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5752,
+      "checkPol": 90.5752,
+      "dateTime": "01/09/2025, 00:01:38"
+    }
+  },
+  {
+    "userId": "99",
+    "referrerId": "49",
+    "name": "099",
+    "tokenId": "99",
+    "d1Id": "99",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.0915,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5752,
+      "checkPol": 90.5752,
+      "dateTime": "01/09/2025, 00:01:39"
+    }
+  },
+  {
+    "userId": "100",
+    "referrerId": "50",
+    "name": "100",
+    "tokenId": "100",
+    "d1Id": "100",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.093,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5737,
+      "checkPol": 90.5737,
+      "dateTime": "01/09/2025, 00:01:40"
+    }
+  },
+  {
+    "userId": "101",
+    "referrerId": "50",
+    "name": "101",
+    "tokenId": "101",
+    "d1Id": "101",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.094,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5727,
+      "checkPol": 90.5727,
+      "dateTime": "01/09/2025, 00:01:41"
+    }
+  },
+  {
+    "userId": "102",
+    "referrerId": "51",
+    "name": "102",
+    "tokenId": "102",
+    "d1Id": "102",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.085,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5817,
+      "checkPol": 90.5817,
+      "dateTime": "01/09/2025, 00:01:42"
+    }
+  },
+  {
+    "userId": "103",
+    "referrerId": "51",
+    "name": "103",
+    "tokenId": "103",
+    "d1Id": "103",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.0835,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5832,
+      "checkPol": 90.5832,
+      "dateTime": "01/09/2025, 00:01:43"
+    }
+  },
+  {
+    "userId": "104",
+    "referrerId": "52",
+    "name": "104",
+    "tokenId": "104",
+    "d1Id": "104",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.083,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5837,
+      "checkPol": 90.5837,
+      "dateTime": "01/09/2025, 00:01:44"
+    }
+  },
+  {
+    "userId": "105",
+    "referrerId": "52",
+    "name": "105",
+    "tokenId": "105",
+    "d1Id": "105",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.085,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5817,
+      "checkPol": 90.5817,
+      "dateTime": "01/09/2025, 00:01:45"
+    }
+  },
+  {
+    "userId": "106",
+    "referrerId": "53",
+    "name": "106",
+    "tokenId": "106",
+    "d1Id": "106",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.0865,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5802,
+      "checkPol": 90.5802,
+      "dateTime": "01/09/2025, 00:01:46"
+    }
+  },
+  {
+    "userId": "107",
+    "referrerId": "53",
+    "name": "107",
+    "tokenId": "107",
+    "d1Id": "107",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.0875,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5792,
+      "checkPol": 90.5792,
+      "dateTime": "01/09/2025, 00:01:47"
+    }
+  },
+  {
+    "userId": "108",
+    "referrerId": "54",
+    "name": "108",
+    "tokenId": "108",
+    "d1Id": "108",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.089,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.5777,
+      "checkPol": 90.5777,
+      "dateTime": "01/09/2025, 00:01:48"
+    }
+  },
+  {
+    "userId": "109",
+    "referrerId": "54",
+    "name": "109",
+    "tokenId": "109",
+    "d1Id": "109",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.175,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.4917,
+      "checkPol": 90.4917,
+      "dateTime": "01/09/2025, 00:01:49"
+    }
+  },
+  {
+    "userId": "110",
+    "referrerId": "55",
+    "name": "110",
+    "tokenId": "110",
+    "d1Id": "110",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.1855,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.4812,
+      "checkPol": 90.4812,
+      "dateTime": "01/09/2025, 00:01:50"
+    }
+  },
+  {
+    "userId": "111",
+    "referrerId": "55",
+    "name": "111",
+    "tokenId": "111",
+    "d1Id": "111",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.184,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.4827,
+      "checkPol": 90.4827,
+      "dateTime": "01/09/2025, 00:01:51"
+    }
+  },
+  {
+    "userId": "112",
+    "referrerId": "56",
+    "name": "112",
+    "tokenId": "112",
+    "d1Id": "112",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.186,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.4807,
+      "checkPol": 90.4807,
+      "dateTime": "01/09/2025, 00:01:52"
+    }
+  },
+  {
+    "userId": "113",
+    "referrerId": "56",
+    "name": "113",
+    "tokenId": "113",
+    "d1Id": "113",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.1785,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.4882,
+      "checkPol": 90.4882,
+      "dateTime": "01/09/2025, 00:01:53"
+    }
+  },
+  {
+    "userId": "114",
+    "referrerId": "57",
+    "name": "114",
+    "tokenId": "114",
+    "d1Id": "114",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 16.1775,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.4892,
+      "checkPol": 90.4892,
+      "dateTime": "01/09/2025, 00:01:54"
+    }
+  },
+  {
+    "userId": "115",
+    "referrerId": "57",
+    "name": "115",
+    "tokenId": "115",
+    "d1Id": "115",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 15.972,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.6947,
+      "checkPol": 90.6947,
+      "dateTime": "01/09/2025, 00:01:55"
+    }
+  },
+  {
+    "userId": "116",
+    "referrerId": "58",
+    "name": "116",
+    "tokenId": "116",
+    "d1Id": "116",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 15.7665,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.9002,
+      "checkPol": 90.9002,
+      "dateTime": "01/09/2025, 00:01:56"
+    }
+  },
+  {
+    "userId": "117",
+    "referrerId": "58",
+    "name": "117",
+    "tokenId": "117",
+    "d1Id": "117",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 15.7665,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.9002,
+      "checkPol": 90.9002,
+      "dateTime": "01/09/2025, 00:01:57"
+    }
+  },
+  {
+    "userId": "118",
+    "referrerId": "59",
+    "name": "118",
+    "tokenId": "118",
+    "d1Id": "118",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 15.756,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.9107,
+      "checkPol": 90.9107,
+      "dateTime": "01/09/2025, 00:01:58"
+    }
+  },
+  {
+    "userId": "119",
+    "referrerId": "59",
+    "name": "119",
+    "tokenId": "119",
+    "d1Id": "119",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 15.752,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.9147,
+      "checkPol": 90.9147,
+      "dateTime": "01/09/2025, 00:01:59"
+    }
+  },
+  {
+    "userId": "120",
+    "referrerId": "60",
+    "name": "120",
+    "tokenId": "120",
+    "d1Id": "120",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 15.7525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.9142,
+      "checkPol": 90.9142,
+      "dateTime": "01/09/2025, 00:02:00"
+    }
+  },
+  {
+    "userId": "121",
+    "referrerId": "60",
+    "name": "121",
+    "tokenId": "121",
+    "d1Id": "121",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 15.7575,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.9092,
+      "checkPol": 90.9092,
+      "dateTime": "01/09/2025, 00:02:01"
+    }
+  },
+  {
+    "userId": "122",
+    "referrerId": "61",
+    "name": "122",
+    "tokenId": "122",
+    "d1Id": "122",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 15.678,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.9887,
+      "checkPol": 90.9887,
+      "dateTime": "01/09/2025, 00:02:02"
+    }
+  },
+  {
+    "userId": "123",
+    "referrerId": "61",
+    "name": "123",
+    "tokenId": "123",
+    "d1Id": "123",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 15.665,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 91.0017,
+      "checkPol": 91.0017,
+      "dateTime": "01/09/2025, 00:02:03"
+    }
+  },
+  {
+    "userId": "124",
+    "referrerId": "62",
+    "name": "124",
+    "tokenId": "124",
+    "d1Id": "124",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 15.685,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.9817,
+      "checkPol": 90.9817,
+      "dateTime": "01/09/2025, 00:02:04"
+    }
+  },
+  {
+    "userId": "125",
+    "referrerId": "62",
+    "name": "125",
+    "tokenId": "125",
+    "d1Id": "125",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 15.6895,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.9772,
+      "checkPol": 90.9772,
+      "dateTime": "01/09/2025, 00:02:05"
+    }
+  },
+  {
+    "userId": "126",
+    "referrerId": "63",
+    "name": "126",
+    "tokenId": "126",
+    "d1Id": "126",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 15.6915,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.9752,
+      "checkPol": 90.9752,
+      "dateTime": "01/09/2025, 00:02:06"
+    }
+  },
+  {
+    "userId": "127",
+    "referrerId": "63",
+    "name": "127",
+    "tokenId": "127",
+    "d1Id": "127",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 15.6935,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 90.9732,
+      "checkPol": 90.9732,
+      "dateTime": "01/09/2025, 00:02:07"
+    }
+  },
+  {
+    "userId": "0x4B7db47A586d5b7D3d8e9aFC6E78CDD35a909040",
+    "referrerId": "64",
+    "name": "128",
+    "tokenId": "128",
+    "d1Id": "128",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 856.9025,
+      "requiredPol": 106.6667,
+      "remainingPol": 750.2358,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "01/09/2025, 00:02:08"
+    }
+  },
+  {
+    "userId": "129",
+    "referrerId": "64",
+    "name": "129",
+    "tokenId": "129",
+    "d1Id": "129",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6535,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0132,
+      "checkPol": 103.0132,
+      "dateTime": "01/09/2025, 00:02:09"
+    }
+  },
+  {
+    "userId": "130",
+    "referrerId": "65",
+    "name": "130",
+    "tokenId": "130",
+    "d1Id": "130",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0142,
+      "checkPol": 103.0142,
+      "dateTime": "01/09/2025, 00:02:10"
+    }
+  },
+  {
+    "userId": "131",
+    "referrerId": "65",
+    "name": "131",
+    "tokenId": "131",
+    "d1Id": "131",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0142,
+      "checkPol": 103.0142,
+      "dateTime": "01/09/2025, 00:02:11"
+    }
+  },
+  {
+    "userId": "132",
+    "referrerId": "66",
+    "name": "132",
+    "tokenId": "132",
+    "d1Id": "132",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0142,
+      "checkPol": 103.0142,
+      "dateTime": "01/09/2025, 00:02:12"
+    }
+  },
+  {
+    "userId": "133",
+    "referrerId": "66",
+    "name": "133",
+    "tokenId": "133",
+    "d1Id": "133",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0142,
+      "checkPol": 103.0142,
+      "dateTime": "01/09/2025, 00:02:13"
+    }
+  },
+  {
+    "userId": "134",
+    "referrerId": "67",
+    "name": "134",
+    "tokenId": "134",
+    "d1Id": "134",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0142,
+      "checkPol": 103.0142,
+      "dateTime": "01/09/2025, 00:02:14"
+    }
+  },
+  {
+    "userId": "135",
+    "referrerId": "67",
+    "name": "135",
+    "tokenId": "135",
+    "d1Id": "135",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0142,
+      "checkPol": 103.0142,
+      "dateTime": "01/09/2025, 00:02:15"
+    }
+  },
+  {
+    "userId": "136",
+    "referrerId": "68",
+    "name": "136",
+    "tokenId": "136",
+    "d1Id": "136",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0142,
+      "checkPol": 103.0142,
+      "dateTime": "01/09/2025, 00:02:16"
+    }
+  },
+  {
+    "userId": "137",
+    "referrerId": "68",
+    "name": "137",
+    "tokenId": "137",
+    "d1Id": "137",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.653,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0137,
+      "checkPol": 103.0137,
+      "dateTime": "01/09/2025, 00:02:17"
+    }
+  },
+  {
+    "userId": "138",
+    "referrerId": "69",
+    "name": "138",
+    "tokenId": "138",
+    "d1Id": "138",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0142,
+      "checkPol": 103.0142,
+      "dateTime": "01/09/2025, 00:02:18"
+    }
+  },
+  {
+    "userId": "139",
+    "referrerId": "69",
+    "name": "139",
+    "tokenId": "139",
+    "d1Id": "139",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0142,
+      "checkPol": 103.0142,
+      "dateTime": "01/09/2025, 00:02:19"
+    }
+  },
+  {
+    "userId": "140",
+    "referrerId": "70",
+    "name": "140",
+    "tokenId": "140",
+    "d1Id": "140",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0142,
+      "checkPol": 103.0142,
+      "dateTime": "01/09/2025, 00:02:20"
+    }
+  },
+  {
+    "userId": "141",
+    "referrerId": "70",
+    "name": "141",
+    "tokenId": "141",
+    "d1Id": "141",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0142,
+      "checkPol": 103.0142,
+      "dateTime": "01/09/2025, 00:02:21"
+    }
+  },
+  {
+    "userId": "142",
+    "referrerId": "71",
+    "name": "142",
+    "tokenId": "142",
+    "d1Id": "142",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0142,
+      "checkPol": 103.0142,
+      "dateTime": "01/09/2025, 00:02:22"
+    }
+  },
+  {
+    "userId": "143",
+    "referrerId": "71",
+    "name": "143",
+    "tokenId": "143",
+    "d1Id": "143",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0142,
+      "checkPol": 103.0142,
+      "dateTime": "01/09/2025, 00:02:23"
+    }
+  },
+  {
+    "userId": "144",
+    "referrerId": "72",
+    "name": "144",
+    "tokenId": "144",
+    "d1Id": "144",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.653,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0137,
+      "checkPol": 103.0137,
+      "dateTime": "01/09/2025, 00:02:24"
+    }
+  },
+  {
+    "userId": "145",
+    "referrerId": "72",
+    "name": "145",
+    "tokenId": "145",
+    "d1Id": "145",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.653,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0137,
+      "checkPol": 103.0137,
+      "dateTime": "01/09/2025, 00:02:25"
+    }
+  },
+  {
+    "userId": "146",
+    "referrerId": "73",
+    "name": "146",
+    "tokenId": "146",
+    "d1Id": "146",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.653,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0137,
+      "checkPol": 103.0137,
+      "dateTime": "01/09/2025, 00:02:26"
+    }
+  },
+  {
+    "userId": "147",
+    "referrerId": "73",
+    "name": "147",
+    "tokenId": "147",
+    "d1Id": "147",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0142,
+      "checkPol": 103.0142,
+      "dateTime": "01/09/2025, 00:02:27"
+    }
+  },
+  {
+    "userId": "148",
+    "referrerId": "74",
+    "name": "148",
+    "tokenId": "148",
+    "d1Id": "148",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.651,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0157,
+      "checkPol": 103.0157,
+      "dateTime": "01/09/2025, 00:02:28"
+    }
+  },
+  {
+    "userId": "149",
+    "referrerId": "74",
+    "name": "149",
+    "tokenId": "149",
+    "d1Id": "149",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.651,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0157,
+      "checkPol": 103.0157,
+      "dateTime": "01/09/2025, 00:02:29"
+    }
+  },
+  {
+    "userId": "150",
+    "referrerId": "75",
+    "name": "150",
+    "tokenId": "150",
+    "d1Id": "150",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.651,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0157,
+      "checkPol": 103.0157,
+      "dateTime": "01/09/2025, 00:02:30"
+    }
+  },
+  {
+    "userId": "151",
+    "referrerId": "75",
+    "name": "151",
+    "tokenId": "151",
+    "d1Id": "151",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.651,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0157,
+      "checkPol": 103.0157,
+      "dateTime": "01/09/2025, 00:02:31"
+    }
+  },
+  {
+    "userId": "152",
+    "referrerId": "76",
+    "name": "152",
+    "tokenId": "152",
+    "d1Id": "152",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:02:32"
+    }
+  },
+  {
+    "userId": "153",
+    "referrerId": "76",
+    "name": "153",
+    "tokenId": "153",
+    "d1Id": "153",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.651,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0157,
+      "checkPol": 103.0157,
+      "dateTime": "01/09/2025, 00:02:33"
+    }
+  },
+  {
+    "userId": "154",
+    "referrerId": "77",
+    "name": "154",
+    "tokenId": "154",
+    "d1Id": "154",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.65,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0167,
+      "checkPol": 103.0167,
+      "dateTime": "01/09/2025, 00:02:34"
+    }
+  },
+  {
+    "userId": "155",
+    "referrerId": "77",
+    "name": "155",
+    "tokenId": "155",
+    "d1Id": "155",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:02:35"
+    }
+  },
+  {
+    "userId": "156",
+    "referrerId": "78",
+    "name": "156",
+    "tokenId": "156",
+    "d1Id": "156",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:02:36"
+    }
+  },
+  {
+    "userId": "157",
+    "referrerId": "78",
+    "name": "157",
+    "tokenId": "157",
+    "d1Id": "157",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:02:37"
+    }
+  },
+  {
+    "userId": "158",
+    "referrerId": "79",
+    "name": "158",
+    "tokenId": "158",
+    "d1Id": "158",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.65,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0167,
+      "checkPol": 103.0167,
+      "dateTime": "01/09/2025, 00:02:38"
+    }
+  },
+  {
+    "userId": "159",
+    "referrerId": "79",
+    "name": "159",
+    "tokenId": "159",
+    "d1Id": "159",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.649,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0177,
+      "checkPol": 103.0177,
+      "dateTime": "01/09/2025, 00:02:39"
+    }
+  },
+  {
+    "userId": "160",
+    "referrerId": "80",
+    "name": "160",
+    "tokenId": "160",
+    "d1Id": "160",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6495,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0172,
+      "checkPol": 103.0172,
+      "dateTime": "01/09/2025, 00:02:40"
+    }
+  },
+  {
+    "userId": "161",
+    "referrerId": "80",
+    "name": "161",
+    "tokenId": "161",
+    "d1Id": "161",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:02:41"
+    }
+  },
+  {
+    "userId": "162",
+    "referrerId": "81",
+    "name": "162",
+    "tokenId": "162",
+    "d1Id": "162",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.651,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0157,
+      "checkPol": 103.0157,
+      "dateTime": "01/09/2025, 00:02:42"
+    }
+  },
+  {
+    "userId": "163",
+    "referrerId": "81",
+    "name": "163",
+    "tokenId": "163",
+    "d1Id": "163",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.651,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0157,
+      "checkPol": 103.0157,
+      "dateTime": "01/09/2025, 00:02:43"
+    }
+  },
+  {
+    "userId": "164",
+    "referrerId": "82",
+    "name": "164",
+    "tokenId": "164",
+    "d1Id": "164",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:02:44"
+    }
+  },
+  {
+    "userId": "165",
+    "referrerId": "82",
+    "name": "165",
+    "tokenId": "165",
+    "d1Id": "165",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.651,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0157,
+      "checkPol": 103.0157,
+      "dateTime": "01/09/2025, 00:02:45"
+    }
+  },
+  {
+    "userId": "166",
+    "referrerId": "83",
+    "name": "166",
+    "tokenId": "166",
+    "d1Id": "166",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:02:46"
+    }
+  },
+  {
+    "userId": "167",
+    "referrerId": "83",
+    "name": "167",
+    "tokenId": "167",
+    "d1Id": "167",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.65,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0167,
+      "checkPol": 103.0167,
+      "dateTime": "01/09/2025, 00:02:47"
+    }
+  },
+  {
+    "userId": "168",
+    "referrerId": "84",
+    "name": "168",
+    "tokenId": "168",
+    "d1Id": "168",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:02:48"
+    }
+  },
+  {
+    "userId": "169",
+    "referrerId": "84",
+    "name": "169",
+    "tokenId": "169",
+    "d1Id": "169",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.648,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0187,
+      "checkPol": 103.0187,
+      "dateTime": "01/09/2025, 00:02:49"
+    }
+  },
+  {
+    "userId": "170",
+    "referrerId": "85",
+    "name": "170",
+    "tokenId": "170",
+    "d1Id": "170",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.649,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0177,
+      "checkPol": 103.0177,
+      "dateTime": "01/09/2025, 00:02:50"
+    }
+  },
+  {
+    "userId": "171",
+    "referrerId": "85",
+    "name": "171",
+    "tokenId": "171",
+    "d1Id": "171",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6485,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0182,
+      "checkPol": 103.0182,
+      "dateTime": "01/09/2025, 00:02:51"
+    }
+  },
+  {
+    "userId": "172",
+    "referrerId": "86",
+    "name": "172",
+    "tokenId": "172",
+    "d1Id": "172",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.648,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0187,
+      "checkPol": 103.0187,
+      "dateTime": "01/09/2025, 00:02:52"
+    }
+  },
+  {
+    "userId": "173",
+    "referrerId": "86",
+    "name": "173",
+    "tokenId": "173",
+    "d1Id": "173",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6485,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0182,
+      "checkPol": 103.0182,
+      "dateTime": "01/09/2025, 00:02:53"
+    }
+  },
+  {
+    "userId": "174",
+    "referrerId": "87",
+    "name": "174",
+    "tokenId": "174",
+    "d1Id": "174",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6485,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0182,
+      "checkPol": 103.0182,
+      "dateTime": "01/09/2025, 00:02:54"
+    }
+  },
+  {
+    "userId": "175",
+    "referrerId": "87",
+    "name": "175",
+    "tokenId": "175",
+    "d1Id": "175",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.649,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0177,
+      "checkPol": 103.0177,
+      "dateTime": "01/09/2025, 00:02:55"
+    }
+  },
+  {
+    "userId": "176",
+    "referrerId": "88",
+    "name": "176",
+    "tokenId": "176",
+    "d1Id": "176",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.649,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0177,
+      "checkPol": 103.0177,
+      "dateTime": "01/09/2025, 00:02:56"
+    }
+  },
+  {
+    "userId": "177",
+    "referrerId": "88",
+    "name": "177",
+    "tokenId": "177",
+    "d1Id": "177",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.649,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0177,
+      "checkPol": 103.0177,
+      "dateTime": "01/09/2025, 00:02:57"
+    }
+  },
+  {
+    "userId": "178",
+    "referrerId": "89",
+    "name": "178",
+    "tokenId": "178",
+    "d1Id": "178",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:02:58"
+    }
+  },
+  {
+    "userId": "179",
+    "referrerId": "89",
+    "name": "179",
+    "tokenId": "179",
+    "d1Id": "179",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:02:59"
+    }
+  },
+  {
+    "userId": "180",
+    "referrerId": "90",
+    "name": "180",
+    "tokenId": "180",
+    "d1Id": "180",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0142,
+      "checkPol": 103.0142,
+      "dateTime": "01/09/2025, 00:03:00"
+    }
+  },
+  {
+    "userId": "181",
+    "referrerId": "90",
+    "name": "181",
+    "tokenId": "181",
+    "d1Id": "181",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.652,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0147,
+      "checkPol": 103.0147,
+      "dateTime": "01/09/2025, 00:03:01"
+    }
+  },
+  {
+    "userId": "182",
+    "referrerId": "91",
+    "name": "182",
+    "tokenId": "182",
+    "d1Id": "182",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.652,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0147,
+      "checkPol": 103.0147,
+      "dateTime": "01/09/2025, 00:03:02"
+    }
+  },
+  {
+    "userId": "183",
+    "referrerId": "91",
+    "name": "183",
+    "tokenId": "183",
+    "d1Id": "183",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.652,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0147,
+      "checkPol": 103.0147,
+      "dateTime": "01/09/2025, 00:03:03"
+    }
+  },
+  {
+    "userId": "184",
+    "referrerId": "92",
+    "name": "184",
+    "tokenId": "184",
+    "d1Id": "184",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6515,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0152,
+      "checkPol": 103.0152,
+      "dateTime": "01/09/2025, 00:03:04"
+    }
+  },
+  {
+    "userId": "185",
+    "referrerId": "92",
+    "name": "185",
+    "tokenId": "185",
+    "d1Id": "185",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.652,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0147,
+      "checkPol": 103.0147,
+      "dateTime": "01/09/2025, 00:03:05"
+    }
+  },
+  {
+    "userId": "186",
+    "referrerId": "93",
+    "name": "186",
+    "tokenId": "186",
+    "d1Id": "186",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6515,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0152,
+      "checkPol": 103.0152,
+      "dateTime": "01/09/2025, 00:03:06"
+    }
+  },
+  {
+    "userId": "187",
+    "referrerId": "93",
+    "name": "187",
+    "tokenId": "187",
+    "d1Id": "187",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:03:07"
+    }
+  },
+  {
+    "userId": "188",
+    "referrerId": "94",
+    "name": "188",
+    "tokenId": "188",
+    "d1Id": "188",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:03:08"
+    }
+  },
+  {
+    "userId": "189",
+    "referrerId": "94",
+    "name": "189",
+    "tokenId": "189",
+    "d1Id": "189",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:03:09"
+    }
+  },
+  {
+    "userId": "190",
+    "referrerId": "95",
+    "name": "190",
+    "tokenId": "190",
+    "d1Id": "190",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:03:10"
+    }
+  },
+  {
+    "userId": "191",
+    "referrerId": "95",
+    "name": "191",
+    "tokenId": "191",
+    "d1Id": "191",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:03:11"
+    }
+  },
+  {
+    "userId": "192",
+    "referrerId": "96",
+    "name": "192",
+    "tokenId": "192",
+    "d1Id": "192",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:03:12"
+    }
+  },
+  {
+    "userId": "193",
+    "referrerId": "96",
+    "name": "193",
+    "tokenId": "193",
+    "d1Id": "193",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6515,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0152,
+      "checkPol": 103.0152,
+      "dateTime": "01/09/2025, 00:03:13"
+    }
+  },
+  {
+    "userId": "194",
+    "referrerId": "97",
+    "name": "194",
+    "tokenId": "194",
+    "d1Id": "194",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6515,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0152,
+      "checkPol": 103.0152,
+      "dateTime": "01/09/2025, 00:03:14"
+    }
+  },
+  {
+    "userId": "195",
+    "referrerId": "97",
+    "name": "195",
+    "tokenId": "195",
+    "d1Id": "195",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6515,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0152,
+      "checkPol": 103.0152,
+      "dateTime": "01/09/2025, 00:03:15"
+    }
+  },
+  {
+    "userId": "196",
+    "referrerId": "98",
+    "name": "196",
+    "tokenId": "196",
+    "d1Id": "196",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6515,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0152,
+      "checkPol": 103.0152,
+      "dateTime": "01/09/2025, 00:03:16"
+    }
+  },
+  {
+    "userId": "197",
+    "referrerId": "98",
+    "name": "197",
+    "tokenId": "197",
+    "d1Id": "197",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6515,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0152,
+      "checkPol": 103.0152,
+      "dateTime": "01/09/2025, 00:03:17"
+    }
+  },
+  {
+    "userId": "198",
+    "referrerId": "99",
+    "name": "198",
+    "tokenId": "198",
+    "d1Id": "198",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6515,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0152,
+      "checkPol": 103.0152,
+      "dateTime": "01/09/2025, 00:03:18"
+    }
+  },
+  {
+    "userId": "199",
+    "referrerId": "99",
+    "name": "199",
+    "tokenId": "199",
+    "d1Id": "199",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6515,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0152,
+      "checkPol": 103.0152,
+      "dateTime": "01/09/2025, 00:03:19"
+    }
+  },
+  {
+    "userId": "200",
+    "referrerId": "100",
+    "name": "200",
+    "tokenId": "200",
+    "d1Id": "200",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.651,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0157,
+      "checkPol": 103.0157,
+      "dateTime": "01/09/2025, 00:03:20"
+    }
+  },
+  {
+    "userId": "201",
+    "referrerId": "100",
+    "name": "201",
+    "tokenId": "201",
+    "d1Id": "201",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6525,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0142,
+      "checkPol": 103.0142,
+      "dateTime": "01/09/2025, 00:03:21"
+    }
+  },
+  {
+    "userId": "202",
+    "referrerId": "101",
+    "name": "202",
+    "tokenId": "202",
+    "d1Id": "202",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.653,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0137,
+      "checkPol": 103.0137,
+      "dateTime": "01/09/2025, 00:03:22"
+    }
+  },
+  {
+    "userId": "203",
+    "referrerId": "101",
+    "name": "203",
+    "tokenId": "203",
+    "d1Id": "203",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:03:23"
+    }
+  },
+  {
+    "userId": "204",
+    "referrerId": "102",
+    "name": "204",
+    "tokenId": "204",
+    "d1Id": "204",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:03:24"
+    }
+  },
+  {
+    "userId": "205",
+    "referrerId": "102",
+    "name": "205",
+    "tokenId": "205",
+    "d1Id": "205",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:03:25"
+    }
+  },
+  {
+    "userId": "206",
+    "referrerId": "103",
+    "name": "206",
+    "tokenId": "206",
+    "d1Id": "206",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.651,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0157,
+      "checkPol": 103.0157,
+      "dateTime": "01/09/2025, 00:03:26"
+    }
+  },
+  {
+    "userId": "207",
+    "referrerId": "103",
+    "name": "207",
+    "tokenId": "207",
+    "d1Id": "207",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.65,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0167,
+      "checkPol": 103.0167,
+      "dateTime": "01/09/2025, 00:03:27"
+    }
+  },
+  {
+    "userId": "208",
+    "referrerId": "104",
+    "name": "208",
+    "tokenId": "208",
+    "d1Id": "208",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:03:28"
+    }
+  },
+  {
+    "userId": "209",
+    "referrerId": "104",
+    "name": "209",
+    "tokenId": "209",
+    "d1Id": "209",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:03:29"
+    }
+  },
+  {
+    "userId": "210",
+    "referrerId": "105",
+    "name": "210",
+    "tokenId": "210",
+    "d1Id": "210",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:03:30"
+    }
+  },
+  {
+    "userId": "211",
+    "referrerId": "105",
+    "name": "211",
+    "tokenId": "211",
+    "d1Id": "211",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:03:31"
+    }
+  },
+  {
+    "userId": "212",
+    "referrerId": "106",
+    "name": "212",
+    "tokenId": "212",
+    "d1Id": "212",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6505,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0162,
+      "checkPol": 103.0162,
+      "dateTime": "01/09/2025, 00:03:32"
+    }
+  },
+  {
+    "userId": "213",
+    "referrerId": "106",
+    "name": "213",
+    "tokenId": "213",
+    "d1Id": "213",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.651,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0157,
+      "checkPol": 103.0157,
+      "dateTime": "01/09/2025, 00:03:33"
+    }
+  },
+  {
+    "userId": "214",
+    "referrerId": "107",
+    "name": "214",
+    "tokenId": "214",
+    "d1Id": "214",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.651,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0157,
+      "checkPol": 103.0157,
+      "dateTime": "01/09/2025, 00:03:34"
+    }
+  },
+  {
+    "userId": "215",
+    "referrerId": "107",
+    "name": "215",
+    "tokenId": "215",
+    "d1Id": "215",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.651,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0157,
+      "checkPol": 103.0157,
+      "dateTime": "01/09/2025, 00:03:35"
+    }
+  },
+  {
+    "userId": "216",
+    "referrerId": "108",
+    "name": "216",
+    "tokenId": "216",
+    "d1Id": "216",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.651,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0157,
+      "checkPol": 103.0157,
+      "dateTime": "01/09/2025, 00:03:36"
+    }
+  },
+  {
+    "userId": "217",
+    "referrerId": "108",
+    "name": "217",
+    "tokenId": "217",
+    "d1Id": "217",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.651,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0157,
+      "checkPol": 103.0157,
+      "dateTime": "01/09/2025, 00:03:37"
+    }
+  },
+  {
+    "userId": "218",
+    "referrerId": "109",
+    "name": "218",
+    "tokenId": "218",
+    "d1Id": "218",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6615,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0052,
+      "checkPol": 103.0052,
+      "dateTime": "01/09/2025, 00:03:38"
+    }
+  },
+  {
+    "userId": "219",
+    "referrerId": "109",
+    "name": "219",
+    "tokenId": "219",
+    "d1Id": "219",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6615,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0052,
+      "checkPol": 103.0052,
+      "dateTime": "01/09/2025, 00:03:39"
+    }
+  },
+  {
+    "userId": "220",
+    "referrerId": "110",
+    "name": "220",
+    "tokenId": "220",
+    "d1Id": "220",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.663,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0037,
+      "checkPol": 103.0037,
+      "dateTime": "01/09/2025, 00:03:40"
+    }
+  },
+  {
+    "userId": "221",
+    "referrerId": "110",
+    "name": "221",
+    "tokenId": "221",
+    "d1Id": "221",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.663,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0037,
+      "checkPol": 103.0037,
+      "dateTime": "01/09/2025, 00:03:41"
+    }
+  },
+  {
+    "userId": "222",
+    "referrerId": "111",
+    "name": "222",
+    "tokenId": "222",
+    "d1Id": "222",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.663,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0037,
+      "checkPol": 103.0037,
+      "dateTime": "01/09/2025, 00:03:42"
+    }
+  },
+  {
+    "userId": "223",
+    "referrerId": "111",
+    "name": "223",
+    "tokenId": "223",
+    "d1Id": "223",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.663,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0037,
+      "checkPol": 103.0037,
+      "dateTime": "01/09/2025, 00:03:43"
+    }
+  },
+  {
+    "userId": "224",
+    "referrerId": "112",
+    "name": "224",
+    "tokenId": "224",
+    "d1Id": "224",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6635,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0032,
+      "checkPol": 103.0032,
+      "dateTime": "01/09/2025, 00:03:44"
+    }
+  },
+  {
+    "userId": "225",
+    "referrerId": "112",
+    "name": "225",
+    "tokenId": "225",
+    "d1Id": "225",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.663,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0037,
+      "checkPol": 103.0037,
+      "dateTime": "01/09/2025, 00:03:45"
+    }
+  },
+  {
+    "userId": "226",
+    "referrerId": "113",
+    "name": "226",
+    "tokenId": "226",
+    "d1Id": "226",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6625,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0042,
+      "checkPol": 103.0042,
+      "dateTime": "01/09/2025, 00:03:46"
+    }
+  },
+  {
+    "userId": "227",
+    "referrerId": "113",
+    "name": "227",
+    "tokenId": "227",
+    "d1Id": "227",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6625,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0042,
+      "checkPol": 103.0042,
+      "dateTime": "01/09/2025, 00:03:47"
+    }
+  },
+  {
+    "userId": "228",
+    "referrerId": "114",
+    "name": "228",
+    "tokenId": "228",
+    "d1Id": "228",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6625,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0042,
+      "checkPol": 103.0042,
+      "dateTime": "01/09/2025, 00:03:48"
+    }
+  },
+  {
+    "userId": "229",
+    "referrerId": "114",
+    "name": "229",
+    "tokenId": "229",
+    "d1Id": "229",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.662,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0047,
+      "checkPol": 103.0047,
+      "dateTime": "01/09/2025, 00:03:49"
+    }
+  },
+  {
+    "userId": "230",
+    "referrerId": "115",
+    "name": "230",
+    "tokenId": "230",
+    "d1Id": "230",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6615,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0052,
+      "checkPol": 103.0052,
+      "dateTime": "01/09/2025, 00:03:50"
+    }
+  },
+  {
+    "userId": "231",
+    "referrerId": "115",
+    "name": "231",
+    "tokenId": "231",
+    "d1Id": "231",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.611,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0557,
+      "checkPol": 103.0557,
+      "dateTime": "01/09/2025, 00:03:51"
+    }
+  },
+  {
+    "userId": "232",
+    "referrerId": "116",
+    "name": "232",
+    "tokenId": "232",
+    "d1Id": "232",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.611,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0557,
+      "checkPol": 103.0557,
+      "dateTime": "01/09/2025, 00:03:52"
+    }
+  },
+  {
+    "userId": "233",
+    "referrerId": "116",
+    "name": "233",
+    "tokenId": "233",
+    "d1Id": "233",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.611,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0557,
+      "checkPol": 103.0557,
+      "dateTime": "01/09/2025, 00:03:53"
+    }
+  },
+  {
+    "userId": "234",
+    "referrerId": "117",
+    "name": "234",
+    "tokenId": "234",
+    "d1Id": "234",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.611,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0557,
+      "checkPol": 103.0557,
+      "dateTime": "01/09/2025, 00:03:54"
+    }
+  },
+  {
+    "userId": "235",
+    "referrerId": "117",
+    "name": "235",
+    "tokenId": "235",
+    "d1Id": "235",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.611,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0557,
+      "checkPol": 103.0557,
+      "dateTime": "01/09/2025, 00:03:55"
+    }
+  },
+  {
+    "userId": "236",
+    "referrerId": "118",
+    "name": "236",
+    "tokenId": "236",
+    "d1Id": "236",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6095,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0572,
+      "checkPol": 103.0572,
+      "dateTime": "01/09/2025, 00:03:56"
+    }
+  },
+  {
+    "userId": "237",
+    "referrerId": "118",
+    "name": "237",
+    "tokenId": "237",
+    "d1Id": "237",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6095,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0572,
+      "checkPol": 103.0572,
+      "dateTime": "01/09/2025, 00:03:57"
+    }
+  },
+  {
+    "userId": "238",
+    "referrerId": "119",
+    "name": "238",
+    "tokenId": "238",
+    "d1Id": "238",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.609,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0577,
+      "checkPol": 103.0577,
+      "dateTime": "01/09/2025, 00:03:58"
+    }
+  },
+  {
+    "userId": "239",
+    "referrerId": "119",
+    "name": "239",
+    "tokenId": "239",
+    "d1Id": "239",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.609,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0577,
+      "checkPol": 103.0577,
+      "dateTime": "01/09/2025, 00:03:59"
+    }
+  },
+  {
+    "userId": "240",
+    "referrerId": "120",
+    "name": "240",
+    "tokenId": "240",
+    "d1Id": "240",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.609,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0577,
+      "checkPol": 103.0577,
+      "dateTime": "01/09/2025, 00:04:00"
+    }
+  },
+  {
+    "userId": "241",
+    "referrerId": "120",
+    "name": "241",
+    "tokenId": "241",
+    "d1Id": "241",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6095,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0572,
+      "checkPol": 103.0572,
+      "dateTime": "01/09/2025, 00:04:01"
+    }
+  },
+  {
+    "userId": "242",
+    "referrerId": "121",
+    "name": "242",
+    "tokenId": "242",
+    "d1Id": "242",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.6095,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0572,
+      "checkPol": 103.0572,
+      "dateTime": "01/09/2025, 00:04:02"
+    }
+  },
+  {
+    "userId": "243",
+    "referrerId": "121",
+    "name": "243",
+    "tokenId": "243",
+    "d1Id": "243",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.61,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0567,
+      "checkPol": 103.0567,
+      "dateTime": "01/09/2025, 00:04:03"
+    }
+  },
+  {
+    "userId": "244",
+    "referrerId": "122",
+    "name": "244",
+    "tokenId": "244",
+    "d1Id": "244",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.5695,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0972,
+      "checkPol": 103.0972,
+      "dateTime": "01/09/2025, 00:04:04"
+    }
+  },
+  {
+    "userId": "245",
+    "referrerId": "122",
+    "name": "245",
+    "tokenId": "245",
+    "d1Id": "245",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.5695,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0972,
+      "checkPol": 103.0972,
+      "dateTime": "01/09/2025, 00:04:05"
+    }
+  },
+  {
+    "userId": "246",
+    "referrerId": "123",
+    "name": "246",
+    "tokenId": "246",
+    "d1Id": "246",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.5675,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0992,
+      "checkPol": 103.0992,
+      "dateTime": "01/09/2025, 00:04:06"
+    }
+  },
+  {
+    "userId": "247",
+    "referrerId": "123",
+    "name": "247",
+    "tokenId": "247",
+    "d1Id": "247",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.5685,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0982,
+      "checkPol": 103.0982,
+      "dateTime": "01/09/2025, 00:04:07"
+    }
+  },
+  {
+    "userId": "248",
+    "referrerId": "124",
+    "name": "248",
+    "tokenId": "248",
+    "d1Id": "248",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.5695,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0972,
+      "checkPol": 103.0972,
+      "dateTime": "01/09/2025, 00:04:08"
+    }
+  },
+  {
+    "userId": "249",
+    "referrerId": "124",
+    "name": "249",
+    "tokenId": "249",
+    "d1Id": "249",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.572,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0947,
+      "checkPol": 103.0947,
+      "dateTime": "01/09/2025, 00:04:09"
+    }
+  },
+  {
+    "userId": "250",
+    "referrerId": "125",
+    "name": "250",
+    "tokenId": "250",
+    "d1Id": "250",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.571,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0957,
+      "checkPol": 103.0957,
+      "dateTime": "01/09/2025, 00:04:10"
+    }
+  },
+  {
+    "userId": "251",
+    "referrerId": "125",
+    "name": "251",
+    "tokenId": "251",
+    "d1Id": "251",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.5715,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0952,
+      "checkPol": 103.0952,
+      "dateTime": "01/09/2025, 00:04:11"
+    }
+  },
+  {
+    "userId": "252",
+    "referrerId": "126",
+    "name": "252",
+    "tokenId": "252",
+    "d1Id": "252",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.5715,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0952,
+      "checkPol": 103.0952,
+      "dateTime": "01/09/2025, 00:04:12"
+    }
+  },
+  {
+    "userId": "253",
+    "referrerId": "126",
+    "name": "253",
+    "tokenId": "253",
+    "d1Id": "253",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.5715,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0952,
+      "checkPol": 103.0952,
+      "dateTime": "01/09/2025, 00:04:13"
+    }
+  },
+  {
+    "userId": "254",
+    "referrerId": "127",
+    "name": "254",
+    "tokenId": "254",
+    "d1Id": "254",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.5715,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0952,
+      "checkPol": 103.0952,
+      "dateTime": "01/09/2025, 00:04:14"
+    }
+  },
+  {
+    "userId": "255",
+    "referrerId": "127",
+    "name": "255",
+    "tokenId": "255",
+    "d1Id": "255",
+    "planB": {
+      "rateTHBPOL": 7.5,
+      "cumulativePol": 3.572,
+      "requiredPol": 106.6667,
+      "remainingPol": 0,
+      "appendPol": 103.0947,
+      "checkPol": 103.0947,
+      "dateTime": "01/09/2025, 00:04:15"
+    }
+  },
+  {
+    "userId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "referrerId": "0x4B7db47A586d5b7D3d8e9aFC6E78CDD35a909040",
+    "name": "อ.กิจการ",
+    "tokenId": "256",
+    "d1Id": "256",
+    "planB": {
+      "rateTHBPOL": 7.55,
+      "cumulativePol": 918.4285,
+      "requiredPol": 105.9603,
+      "remainingPol": 812.4682,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "22/09/2025, 10:48:08"
+    }
+  },
+  {
+    "userId": "0x0a11986fd85aae898ee34757ebba93454647c63d",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "Sunyapakorn 1958",
+    "tokenId": "257",
+    "d1Id": "257",
+    "planB": {
+      "rateTHBPOL": 7.55,
+      "cumulativePol": 146.5305,
+      "requiredPol": 105.9603,
+      "remainingPol": 40.5702,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "22/09/2025, 15:42:46"
+    }
+  },
+  {
+    "userId": "0xc5D27268E858fAB26CFA2bd29511E214D9d8f779",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "หัวหน้าสายัณห์",
+    "tokenId": "258",
+    "d1Id": "258",
+    "planB": {
+      "rateTHBPOL": 7.55,
+      "cumulativePol": 161.1175,
+      "requiredPol": 105.9603,
+      "remainingPol": 55.1572,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "22/09/2025, 15:48:49"
+    }
+  },
+  {
+    "userId": "0x12E43878Ab2a41ACA0545a7dCa3536D92e16E8b7",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "MacKatawut 0x12E4",
+    "tokenId": "259",
+    "d1Id": "259",
+    "planB": {
+      "rateTHBPOL": 7.06,
+      "cumulativePol": 9.9325,
+      "requiredPol": 113.3144,
+      "remainingPol": 0,
+      "appendPol": 103.3819,
+      "checkPol": 103.3819,
+      "dateTime": "22/09/2025, 07:48:10"
+    }
+  },
+  {
+    "userId": "0x3eef6fbBbfaf6255D428fe0F83c705dB1305BAE0",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "อ.ซี",
+    "tokenId": "260",
+    "d1Id": "260",
+    "planB": {
+      "rateTHBPOL": 7.55,
+      "cumulativePol": 1.8125,
+      "requiredPol": 105.9603,
+      "remainingPol": 0,
+      "appendPol": 104.1478,
+      "checkPol": 104.1478,
+      "dateTime": "22/09/2025, 19:32:05"
+    }
+  },
+  {
+    "userId": "0x284B0577D6da27E4414e97dAdc82b9E3a0aaFd6D",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "ประธานหมี",
+    "tokenId": "261",
+    "d1Id": "261",
+    "planB": {
+      "rateTHBPOL": 7.55,
+      "cumulativePol": 14.9325,
+      "requiredPol": 105.9603,
+      "remainingPol": 0,
+      "appendPol": 91.0278,
+      "checkPol": 91.0278,
+      "dateTime": "22/09/2025, 19:51:25"
+    }
+  },
+  {
+    "userId": "0x6DBe340868077E56620a92ee1903f97d3757be02",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "พล.ร.อ. ชัย",
+    "tokenId": "262",
+    "d1Id": "262",
+    "planB": {
+      "rateTHBPOL": 7.55,
+      "cumulativePol": 1.8125,
+      "requiredPol": 105.9603,
+      "remainingPol": 0,
+      "appendPol": 104.1478,
+      "checkPol": 104.1478,
+      "dateTime": "22/09/2025, 20:51:25"
+    }
+  },
+  {
+    "userId": "0x849A4EE9455d93Cb9Ac3932056faba3Cf341b080",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "ครูใหญ่วิ",
+    "tokenId": "263",
+    "d1Id": "263",
+    "planB": {
+      "rateTHBPOL": 7.55,
+      "cumulativePol": 126.0965,
+      "requiredPol": 105.9603,
+      "remainingPol": 20.1362,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "22/09/2025, 19:56:25"
+    }
+  },
+  {
+    "userId": "0xb21aC8ac6E2DCCe7F5264F214BC58f1634B8D8AB",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "หมอฟ้า",
+    "tokenId": "264",
+    "d1Id": "264",
+    "planB": {
+      "rateTHBPOL": 7.55,
+      "cumulativePol": 212.7035,
+      "requiredPol": 105.9603,
+      "remainingPol": 106.7432,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "24/09/2025, 14:04:17"
+    }
+  },
+  {
+    "userId": "0x1feCc92383B1cEbcf1A3e9b2f90452ead0fc864a",
+    "referrerId": "0xb21aC8ac6E2DCCe7F5264F214BC58f1634B8D8AB",
+    "name": "อ.มดแดง",
+    "tokenId": "265",
+    "d1Id": "265",
+    "planB": {
+      "rateTHBPOL": 7.18,
+      "cumulativePol": 2.813,
+      "requiredPol": 111.4206,
+      "remainingPol": 0,
+      "appendPol": 108.6076,
+      "checkPol": 108.6076,
+      "dateTime": "22/09/2025, 11:28:12"
+    }
+  },
+  {
+    "userId": "0xb9cB4e7C1174877C9D06A7D519eD0edcf97E4DbF",
+    "referrerId": "0x0a11986fd85AAe898Ee34757eBbA93454647C63D",
+    "name": "อ.หนึ่ง",
+    "tokenId": "266",
+    "d1Id": "266",
+    "planB": {
+      "rateTHBPOL": 7.1246,
+      "cumulativePol": 122.6725,
+      "requiredPol": 112.287,
+      "remainingPol": 10.3855,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "22/09/2025, 23:59:50"
+    }
+  },
+  {
+    "userId": "0xfAFd5620BB742dC3C76bDe0ece29A2CCABB3293d",
+    "referrerId": "0x849A4EE9455d93Cb9Ac3932056faba3Cf341b080",
+    "name": "อ.เดวิท",
+    "tokenId": "268",
+    "d1Id": "267",
+    "planB": {
+      "rateTHBPOL": 7.0999,
+      "cumulativePol": 62.9325,
+      "requiredPol": 112.6776,
+      "remainingPol": 0,
+      "appendPol": 49.7451,
+      "checkPol": 49.7451,
+      "dateTime": "22/09/2025, 22:59:14"
+    }
+  },
+  {
+    "userId": "0x36C83D6a147EfA23BA870Cc0e6afa2fcE0e10Fb7",
+    "referrerId": "0x849A4EE9455d93Cb9Ac3932056faba3Cf341b080",
+    "name": "อ.นิรุตต์",
+    "tokenId": "269",
+    "d1Id": "268",
+    "planB": {
+      "rateTHBPOL": 6.99,
+      "cumulativePol": 50.6925,
+      "requiredPol": 114.4492,
+      "remainingPol": 0,
+      "appendPol": 63.7567,
+      "checkPol": 63.7567,
+      "dateTime": "22/09/2025, 17:12:54"
+    }
+  },
+  {
+    "userId": "0x0c20e00690Fd7B7c660206A5F0Ee06D664650f1a",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "Arwut Law MOH",
+    "tokenId": "270",
+    "d1Id": "269",
+    "planB": {
+      "rateTHBPOL": 7.7854,
+      "cumulativePol": 451.8615,
+      "requiredPol": 102.7564,
+      "remainingPol": 349.1051,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "20/09/2025, 02:29:52"
+    }
+  },
+  {
+    "userId": "0x62f38eD6e9a042aE853480B563f0cBe858Ac13C3",
+    "referrerId": "0x284B0577D6da27E4414e97dAdc82b9E3a0aaFd6D",
+    "name": "Sopon Saekee",
+    "tokenId": "271",
+    "d1Id": "270",
+    "planB": {
+      "rateTHBPOL": 7.3285,
+      "cumulativePol": 11.2925,
+      "requiredPol": 109.1629,
+      "remainingPol": 0,
+      "appendPol": 97.8704,
+      "checkPol": 97.8704,
+      "dateTime": "25/09/2025, 01:21:29"
+    }
+  },
+  {
+    "userId": "0x3BB1bBC33C1Bdb751A7B00B18Ad9dD9B88e7e618",
+    "referrerId": "0xb9cB4e7C1174877C9D06A7D519eD0edcf97E4DbF",
+    "name": "อ.พะงา",
+    "tokenId": "272",
+    "d1Id": "271",
+    "planB": {
+      "rateTHBPOL": 7.9854,
+      "cumulativePol": 118.893,
+      "requiredPol": 100.1828,
+      "remainingPol": 18.7102,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "20/09/2025, 09:53:54"
+    }
+  },
+  {
+    "userId": "0x12552583Bf58694D92BBb2963A85ef1a835A1BB8",
+    "referrerId": "0x0c20e00690Fd7B7c660206A5F0Ee06D664650f1a",
+    "name": "อ.สีนวน",
+    "tokenId": "273",
+    "d1Id": "272",
+    "planB": {
+      "rateTHBPOL": 8.0475,
+      "cumulativePol": 444.062,
+      "requiredPol": 99.4098,
+      "remainingPol": 344.6522,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "20/09/2025, 13:21:58"
+    }
+  },
+  {
+    "userId": "0x3D4eBC6eaCEa478adA718984fAcA16CEcEFe50AE",
+    "referrerId": "0xb21aC8ac6E2DCCe7F5264F214BC58f1634B8D8AB",
+    "name": "อ.มด โชติรส",
+    "tokenId": "274",
+    "d1Id": "273",
+    "planB": {
+      "rateTHBPOL": 7.1199,
+      "cumulativePol": 6.933,
+      "requiredPol": 112.3611,
+      "remainingPol": 0,
+      "appendPol": 105.4281,
+      "checkPol": 105.4281,
+      "dateTime": "24/09/2025, 01:25:07"
+    }
+  },
+  {
+    "userId": "0x35A119Fd73B9D9C975245Bfb6e02E3400438e017",
+    "referrerId": "0xb9cB4e7C1174877C9D06A7D519eD0edcf97E4DbF",
+    "name": "ดร.นิชาพัฒน์",
+    "tokenId": "275",
+    "d1Id": "274",
+    "planB": {
+      "rateTHBPOL": 7.03,
+      "cumulativePol": 27.8125,
+      "requiredPol": 113.798,
+      "remainingPol": 0,
+      "appendPol": 85.9855,
+      "checkPol": 85.9855,
+      "dateTime": "25/09/2025, 14:53:16"
+    }
+  },
+  {
+    "userId": "0x39eB18cD3910744AE4eCF055a519B3Ef9633e127",
+    "referrerId": "0x35A119Fd73B9D9C975245Bfb6e02E3400438e017",
+    "name": "อ.ริญณารัตน์",
+    "tokenId": "276",
+    "d1Id": "275",
+    "planB": {
+      "rateTHBPOL": 7.2,
+      "cumulativePol": 22.491,
+      "requiredPol": 111.1111,
+      "remainingPol": 0,
+      "appendPol": 88.6201,
+      "checkPol": 88.6201,
+      "dateTime": "30/09/2025, 12:40:27"
+    }
+  },
+  {
+    "userId": "0xE56b4672bffa76321734cda4EB0b0c77Ac3f73Dd",
+    "referrerId": "0xb21aC8ac6E2DCCe7F5264F214BC58f1634B8D8AB",
+    "name": "อ.หนั่ย",
+    "tokenId": "277",
+    "d1Id": "276",
+    "planB": {
+      "rateTHBPOL": 7.14,
+      "cumulativePol": 29.713,
+      "requiredPol": 112.0448,
+      "remainingPol": 0,
+      "appendPol": 82.3318,
+      "checkPol": 82.3318,
+      "dateTime": "24/09/2025, 20:37:59"
+    }
+  },
+  {
+    "userId": "0x62591d73C6a4B65d49c18CD2544419630E0b40e5",
+    "referrerId": "0x3D4eBC6eaCEa478adA718984fAcA16CEcEFe50AE",
+    "name": "ปลัดหนุ่ม",
+    "tokenId": "278",
+    "d1Id": "277",
+    "planB": {
+      "rateTHBPOL": 7.22,
+      "cumulativePol": 2.651,
+      "requiredPol": 110.8033,
+      "remainingPol": 0,
+      "appendPol": 108.1523,
+      "checkPol": 108.1523,
+      "dateTime": "24/09/2025, 04:52:41"
+    }
+  },
+  {
+    "userId": "0xBbB2c94d2Eeeb8acf016ef7Dd64F1Bbc2C645155",
+    "referrerId": "0x88C7BCAAA15a2571F220C80af09AAEAeC32e4742",
+    "name": "ติ๊ก ธนภรณ์",
+    "tokenId": "279",
+    "d1Id": "278",
+    "planB": {
+      "rateTHBPOL": 7.22,
+      "cumulativePol": 117.771,
+      "requiredPol": 110.8033,
+      "remainingPol": 6.9677,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "24/09/2025, 04:55:41"
+    }
+  },
+  {
+    "userId": "0xE50A391463238c49c9449aF78e15Dd02c14F51bC",
+    "referrerId": "0x0a11986fd85AAe898Ee34757eBbA93454647C63D",
+    "name": "หมูหมู",
+    "tokenId": "296",
+    "d1Id": "279",
+    "planB": {
+      "rateTHBPOL": 7.14,
+      "cumulativePol": 10.2105,
+      "requiredPol": 112.0448,
+      "remainingPol": 0,
+      "appendPol": 101.8343,
+      "checkPol": 101.8343,
+      "dateTime": "22/09/2025, 10:36:24"
+    }
+  },
+  {
+    "userId": "0x26638Aeda2df3c49f03765A5E235D01b5A6aBff5",
+    "referrerId": "0xb73044218386E1462Fae125489B38dE273Ee6b05",
+    "name": "Khun Ying 659",
+    "tokenId": "413",
+    "d1Id": "280",
+    "planB": {
+      "rateTHBPOL": 7.02,
+      "cumulativePol": 35.96,
+      "requiredPol": 113.9601,
+      "remainingPol": 0,
+      "appendPol": 78.0001,
+      "checkPol": 78.0001,
+      "dateTime": "22/09/2025, 17:00:42"
+    }
+  }
+]
