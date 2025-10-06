@@ -4478,5 +4478,21 @@
       "checkPol": 78.0001,
       "dateTime": "22/09/2025, 17:00:42"
     }
+  },
+  {
+    "userId": "0xe86B3e02999b62DEA683877816B7fCee46F8484c",
+    "referrerId": "0x437b861f790b2e78D636b69B5Ff7c59286952E89",
+    "name": "pintanin",
+    "tokenId": "1352",
+    "d1Id": "281",
+    "planB": {
+      "rateTHBPOL": 7.96,
+      "cumulativePol": 251.082,
+      "requiredPol": 100.5025,
+      "remainingPol": 150.5795,
+      "appendPol": 0,
+      "checkPol": 0.01,
+      "dateTime": "22/09/2025, 04:32:44"
+    }
   }
 ]
