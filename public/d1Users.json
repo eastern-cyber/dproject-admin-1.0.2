@@ -16046,5 +16046,5365 @@
       "checkPol": 101.14,
       "dateTime": "03/10/2025, 03:01:11"
     }
+  },
+  {
+    "userId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "referrerId": "0x4B7db47A586d5b7D3d8e9aFC6E78CDD35a909040",
+    "name": "อ.กิจการ",
+    "tokenId": "256",
+    "d1Id": "1004",
+    "planB": {
+      "rateTHBPOL": 3.34,
+      "cumulativePol": 1141.22,
+      "requiredPol": 239.521,
+      "remainingPol": 901.6987,
+      "appendPol": 0.01,
+      "checkPol": 0.01,
+      "dateTime": "18/12/2025, 06:56:41"
+    }
+  },
+  {
+    "userId": "0x0a11986fd85AAe898Ee34757eBbA93454647C63D",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "Sunyapakorn 1958",
+    "tokenId": "257",
+    "d1Id": "1005",
+    "planB": {
+      "rateTHBPOL": 3.34,
+      "cumulativePol": 135.2797,
+      "requiredPol": 239.521,
+      "remainingPol": 0,
+      "appendPol": 104.2448,
+      "checkPol": 104.2448,
+      "dateTime": "18/12/2025, 07:33:15"
+    }
+  },
+  {
+    "userId": "0xc5D27268E858fAB26CFA2bd29511E214D9d8f779",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "หัวหน้าสายัณห์",
+    "tokenId": "258",
+    "d1Id": "1006",
+    "planB": {
+      "rateTHBPOL": 3.31,
+      "cumulativePol": 124.1784,
+      "requiredPol": 241.6918,
+      "remainingPol": 0,
+      "appendPol": 117.5116,
+      "checkPol": 117.5116,
+      "dateTime": "23/12/2025, 23:48:58"
+    }
+  },
+  {
+    "userId": "0x849A4EE9455d93Cb9Ac3932056faba3Cf341b080",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "คุณพิมพ์วิ",
+    "tokenId": "263",
+    "d1Id": "1007",
+    "planB": {
+      "rateTHBPOL": 3.56,
+      "cumulativePol": 84.9097,
+      "requiredPol": 224.7191,
+      "remainingPol": 84.9097,
+      "appendPol": 224.7191,
+      "checkPol": 224.7191,
+      "dateTime": "17/12/2025, 02:22:05"
+    }
+  },
+  {
+    "userId": "0xb21aC8ac6E2DCCe7F5264F214BC58f1634B8D8AB",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "หมอฟ้า",
+    "tokenId": "264",
+    "d1Id": "1008",
+    "planB": {
+      "rateTHBPOL": 3.48,
+      "cumulativePol": 191.8497,
+      "requiredPol": 229.8850575,
+      "remainingPol": 0,
+      "appendPol": 38.0384,
+      "checkPol": 38.0384,
+      "dateTime": "20/12/2025, 14:53:08"
+    }
+  },
+  {
+    "userId": "0xbc99Ff8935A4383C6Ad0da4416A654f8153D6119",
+    "referrerId": "0xb9cB4e7C1174877C9D06A7D519eD0edcf97E4DbF",
+    "name": "Dedagoodra",
+    "tokenId": "297",
+    "d1Id": "1009",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 13.322,
+      "requiredPol": 243.902439,
+      "remainingPol": 0,
+      "appendPol": 230.5779,
+      "checkPol": 230.5779,
+      "dateTime": "19/12/2025, 07:17:31"
+    }
+  },
+  {
+    "userId": "0x51B78D9B758e4445f5b56D5B367B94e73566a892",
+    "referrerId": "0x36C83D6a147EfA23BA870Cc0e6afa2fcE0e10Fb7",
+    "name": "สุพัตรา",
+    "tokenId": "320",
+    "d1Id": "1010",
+    "planB": {
+      "rateTHBPOL": 3.4,
+      "cumulativePol": 0.6295,
+      "requiredPol": 235.2941,
+      "remainingPol": 0,
+      "appendPol": 234.6626,
+      "checkPol": 234.6626,
+      "dateTime": "18/12/2025, 03:21:23"
+    }
+  },
+  {
+    "userId": "0xCB41b952d399774b01b3F02b714D948B20B2fe6F",
+    "referrerId": "0x35A119Fd73B9D9C975245Bfb6e02E3400438e017",
+    "name": "WJ Jomtarak 65",
+    "tokenId": "322",
+    "d1Id": "1011",
+    "planB": {
+      "rateTHBPOL": 6.42,
+      "cumulativePol": 3.8115,
+      "requiredPol": 124.6106,
+      "remainingPol": 0.6285,
+      "appendPol": 120.7991,
+      "checkPol": 120.7991,
+      "dateTime": "13/10/2025, 11:56:26"
+    }
+  },
+  {
+    "userId": "0x3B16949e2fec02E1f9A2557cE7FEBe74f780fADc",
+    "referrerId": "0x12E43878Ab2a41ACA0545a7dCa3536D92e16E8b7",
+    "name": "Eastern Cyber Co., Ltd. aaa",
+    "tokenId": "370",
+    "d1Id": "1012",
+    "planB": {
+      "rateTHBPOL": 3.56,
+      "cumulativePol": 3.25,
+      "requiredPol": 224.7191,
+      "remainingPol": 2.5645,
+      "appendPol": 224.0336,
+      "checkPol": 224.0336,
+      "dateTime": "16/12/2025, 16:27:31"
+    }
+  },
+  {
+    "userId": "0xB16561f9B71d9d784e7F8f344d979C5523522d5b",
+    "referrerId": "0xc5D27268E858fAB26CFA2bd29511E214D9d8f779",
+    "name": "Preeyaphon 1845",
+    "tokenId": "387",
+    "d1Id": "1013",
+    "planB": {
+      "rateTHBPOL": 3.4,
+      "cumulativePol": 89.42,
+      "requiredPol": 235.2941,
+      "remainingPol": 85.8375,
+      "appendPol": 231.7116,
+      "checkPol": 231.7116,
+      "dateTime": "18/12/2025, 06:02:38"
+    }
+  },
+  {
+    "userId": "0xD8BE84199Bc2b2fb84Ca06E62245bf6fc6B497Ad",
+    "referrerId": "0xc5D27268E858fAB26CFA2bd29511E214D9d8f779",
+    "name": "Nuttaya 8",
+    "tokenId": "389",
+    "d1Id": "1014",
+    "planB": {
+      "rateTHBPOL": 3.37,
+      "cumulativePol": 161.04,
+      "requiredPol": 237.3887,
+      "remainingPol": 120.7555,
+      "appendPol": 197.1042,
+      "checkPol": 197.1042,
+      "dateTime": "23/12/2025, 02:46:55"
+    }
+  },
+  {
+    "userId": "0x26638Aeda2df3c49f03765A5E235D01b5A6aBff5",
+    "referrerId": "0xb73044218386E1462Fae125489B38dE273Ee6b05",
+    "name": "Khun Ying 659",
+    "tokenId": "413",
+    "d1Id": "1015",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 146.13,
+      "requiredPol": 243.9024,
+      "remainingPol": 35.963,
+      "appendPol": 133.7354,
+      "checkPol": 133.7354,
+      "dateTime": "19/12/2025, 03:20:00"
+    }
+  },
+  {
+    "userId": "0x3190B07F0D8593Fb905cA0855c9787073dC3C136",
+    "referrerId": "0x3BB1bBC33C1Bdb751A7B00B18Ad9dD9B88e7e618",
+    "name": "Nattakan Kampeera",
+    "tokenId": "459",
+    "d1Id": "1016",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 86.55,
+      "requiredPol": 243.9024,
+      "remainingPol": 85.843,
+      "appendPol": 243.1954,
+      "checkPol": 243.1954,
+      "dateTime": "19/12/2025, 07:15:31"
+    }
+  },
+  {
+    "userId": "0x265744eed63eDd99D6b5b785c434Aa88669d6b3A",
+    "referrerId": "0xD75cC35997C2dDC389C8aF498ea42405Abf93c2B",
+    "name": "Charthra 1234",
+    "tokenId": "471",
+    "d1Id": "1017",
+    "planB": {
+      "rateTHBPOL": 3.33,
+      "cumulativePol": 2.46,
+      "requiredPol": 240.2402,
+      "remainingPol": 1.759,
+      "appendPol": 239.5392,
+      "checkPol": 239.5392,
+      "dateTime": "23/12/2025, 06:01:57"
+    }
+  },
+  {
+    "userId": "0xF2f945665124586486A329219F983242295C9F32",
+    "referrerId": "0xD47934ca4eCF7B0305B97D87C2A3F5091f7852Ca",
+    "name": "Aranta12325",
+    "tokenId": "477",
+    "d1Id": "1018",
+    "planB": {
+      "rateTHBPOL": 6.4,
+      "cumulativePol": 2.48,
+      "requiredPol": 125,
+      "remainingPol": 0.708,
+      "appendPol": 123.228,
+      "checkPol": 123.228,
+      "dateTime": "28/10/2025, 12:54:44"
+    }
+  },
+  {
+    "userId": "0x2450282D72eFb230ce588A116a7dBD366aC41C06",
+    "referrerId": "0x5B17cba29045dB56ba0ca552bf13139D548Bd050",
+    "name": "Chananyu Numdee",
+    "tokenId": "524",
+    "d1Id": "1019",
+    "planB": {
+      "rateTHBPOL": 4.09,
+      "cumulativePol": 2.21,
+      "requiredPol": 195.599,
+      "remainingPol": 0.3175,
+      "appendPol": 193.7065,
+      "checkPol": 193.7065,
+      "dateTime": "09/12/2025, 23:16:59"
+    }
+  },
+  {
+    "userId": "0x2FAaB9737685A3958084C8bd1995F0cBbC52199E",
+    "referrerId": "0x3BB1bBC33C1Bdb751A7B00B18Ad9dD9B88e7e618",
+    "name": "Nidpom 381",
+    "tokenId": "526",
+    "d1Id": "1020",
+    "planB": {
+      "rateTHBPOL": 7.9208,
+      "cumulativePol": 0,
+      "requiredPol": 101,
+      "remainingPol": 0,
+      "appendPol": 101,
+      "checkPol": 101,
+      "dateTime": "16/12/2025, 17:36:18"
+    }
+  },
+  {
+    "userId": "0x69EBf3a9ded82270F67f2A4d6Ece1600a4F351D9",
+    "referrerId": "0xb9cB4e7C1174877C9D06A7D519eD0edcf97E4DbF",
+    "name": "Ampha Lulita",
+    "tokenId": "570",
+    "d1Id": "1021",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 120.3,
+      "requiredPol": 243.9024,
+      "remainingPol": 100.6685,
+      "appendPol": 224.2709,
+      "checkPol": 224.2709,
+      "dateTime": "19/12/2025, 08:09:09"
+    }
+  },
+  {
+    "userId": "0x7dcC5e2950A3296B35387EceCd2AE93ec60484e9",
+    "referrerId": "0x69EBf3a9ded82270F67f2A4d6Ece1600a4F351D9",
+    "name": "Orasapaekg",
+    "tokenId": "579",
+    "d1Id": "1022",
+    "planB": {
+      "rateTHBPOL": 3.31,
+      "cumulativePol": 103.8,
+      "requiredPol": 241.6918,
+      "remainingPol": 72.118,
+      "appendPol": 210.0098,
+      "checkPol": 210.0098,
+      "dateTime": "25/12/2025, 05:28:34"
+    }
+  },
+  {
+    "userId": "0xC6bb21dFFD24ba06B570b8b1b3AcC3ea665F769C",
+    "referrerId": "0x69EBf3a9ded82270F67f2A4d6Ece1600a4F351D9",
+    "name": "Pischa Neng",
+    "tokenId": "581",
+    "d1Id": "1023",
+    "planB": {
+      "rateTHBPOL": 3.31,
+      "cumulativePol": 101.38,
+      "requiredPol": 241.6918,
+      "remainingPol": 48.3035,
+      "appendPol": 188.6153,
+      "checkPol": 188.6153,
+      "dateTime": "25/12/2025, 05:04:34"
+    }
+  },
+  {
+    "userId": "0xA5Fd41A6712439DaB493BBe2929D8ACD0657706A",
+    "referrerId": "0x72d59Ce9283CBf5352EeD8e956Dc8bD4FD1db360",
+    "name": "Tarchawee 1971",
+    "tokenId": "599",
+    "d1Id": "1024",
+    "planB": {
+      "rateTHBPOL": 5.3,
+      "cumulativePol": 2.13,
+      "requiredPol": 150.9434,
+      "remainingPol": 0.319,
+      "appendPol": 149.1324,
+      "checkPol": 149.1324,
+      "dateTime": "06/11/2025, 12:48:25"
+    }
+  },
+  {
+    "userId": "0x6c228189509b77655c0F77A6e0bc0a9c27F7712A",
+    "referrerId": "0x8FDA0ff65A10F260506D659ba4a1222088cB42B7",
+    "name": "P 0945922419",
+    "tokenId": "616",
+    "d1Id": "1025",
+    "planB": {
+      "rateTHBPOL": 3.34,
+      "cumulativePol": 130.3655,
+      "requiredPol": 239.521,
+      "remainingPol": 115.105,
+      "appendPol": 224.2605,
+      "checkPol": 224.2605,
+      "dateTime": "18/12/2025, 08:14:52"
+    }
+  },
+  {
+    "userId": "0xfd09aCf15c61D987440AE816f1A72c1354feA0d9",
+    "referrerId": "0xC5C847848EeA77992e65D98Ea80672de4b4dBAaa",
+    "name": "thanawatthphet",
+    "tokenId": "629",
+    "d1Id": "1026",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 192.7405,
+      "requiredPol": 243.9024,
+      "remainingPol": 125.723,
+      "appendPol": 176.8849,
+      "checkPol": 176.8849,
+      "dateTime": "19/12/2025, 06:35:52"
+    }
+  },
+  {
+    "userId": "0xe87F00ffE74d0A1Ca910fb406175eAb3d691a41d",
+    "referrerId": "0x3BB1bBC33C1Bdb751A7B00B18Ad9dD9B88e7e618",
+    "name": "Junpen Tham",
+    "tokenId": "641",
+    "d1Id": "1027",
+    "planB": {
+      "rateTHBPOL": 6.12,
+      "cumulativePol": 1.2215,
+      "requiredPol": 130.719,
+      "remainingPol": 0.3815,
+      "appendPol": 129.879,
+      "checkPol": 129.879,
+      "dateTime": "24/10/2025, 02:48:19"
+    }
+  },
+  {
+    "userId": "0xaC54D536CEAaDC3Cc2B2791489A71d33aF9cbd40",
+    "referrerId": "0x69EBf3a9ded82270F67f2A4d6Ece1600a4F351D9",
+    "name": "Auy 204fx",
+    "tokenId": "655",
+    "d1Id": "1028",
+    "planB": {
+      "rateTHBPOL": 6.28,
+      "cumulativePol": 2.071,
+      "requiredPol": 127.3885,
+      "remainingPol": 0.391,
+      "appendPol": 125.7085,
+      "checkPol": 125.7085,
+      "dateTime": "24/10/2025, 15:05:48"
+    }
+  },
+  {
+    "userId": "0x996177880218213769Ce426C3Bd0B31E6D25394c",
+    "referrerId": "0xA5Fd41A6712439DaB493BBe2929D8ACD0657706A",
+    "name": "Nuinyc 2005",
+    "tokenId": "689",
+    "d1Id": "1029",
+    "planB": {
+      "rateTHBPOL": 5.32,
+      "cumulativePol": 2.0715,
+      "requiredPol": 150.3759,
+      "remainingPol": 0.3915,
+      "appendPol": 148.6959,
+      "checkPol": 148.6959,
+      "dateTime": "04/11/2025, 13:55:39"
+    }
+  },
+  {
+    "userId": "0x83fbfDDe58b39cA2a030172BA682C53a7C341c76",
+    "referrerId": "0xBbB2c94d2Eeeb8acf016ef7Dd64F1Bbc2C645155",
+    "name": "N_Boy 3795",
+    "tokenId": "696",
+    "d1Id": "1030",
+    "planB": {
+      "rateTHBPOL": 6.28,
+      "cumulativePol": 2.9115,
+      "requiredPol": 127.3885,
+      "remainingPol": 0.3915,
+      "appendPol": 124.8685,
+      "checkPol": 124.8685,
+      "dateTime": "25/10/2025, 09:34:45"
+    }
+  },
+  {
+    "userId": "0xd87cDF7ED0aDffE99C34b346967BA231050CD16f",
+    "referrerId": "0xbb2194116965004F9aaAe49fE2C4073d9f90ebF5",
+    "name": "Petmai 315",
+    "tokenId": "708",
+    "d1Id": "1031",
+    "planB": {
+      "rateTHBPOL": 5.3333,
+      "cumulativePol": 0,
+      "requiredPol": 150,
+      "remainingPol": 0,
+      "appendPol": 150,
+      "checkPol": 150,
+      "dateTime": "07/11/2025, 17:03:06"
+    }
+  },
+  {
+    "userId": "0x0c7c43990f99Ec3C314B6C121Ab1224B10eB769F",
+    "referrerId": "0x5B17cba29045dB56ba0ca552bf13139D548Bd050",
+    "name": "Suttanoi 100315",
+    "tokenId": "723",
+    "d1Id": "1032",
+    "planB": {
+      "rateTHBPOL": 6.1,
+      "cumulativePol": 86.0735,
+      "requiredPol": 131.1475,
+      "remainingPol": 0.3935,
+      "appendPol": 45.4675,
+      "checkPol": 45.4675,
+      "dateTime": "30/10/2025, 08:03:34"
+    }
+  },
+  {
+    "userId": "0x5E14fD0327e5655B43FA8D4237361c271eaEDeb1",
+    "referrerId": "0x6c228189509b77655c0F77A6e0bc0a9c27F7712A",
+    "name": "Ya Namkaew 2510",
+    "tokenId": "724",
+    "d1Id": "1033",
+    "planB": {
+      "rateTHBPOL": 6.29,
+      "cumulativePol": 8.0315,
+      "requiredPol": 127.186,
+      "remainingPol": 0.3915,
+      "appendPol": 119.546,
+      "checkPol": 119.546,
+      "dateTime": "14/10/2025, 08:12:16"
+    }
+  },
+  {
+    "userId": "0x1E9Cd1A705c92A1cE9b1C1E24d219675269760dd",
+    "referrerId": "0xd87cDF7ED0aDffE99C34b346967BA231050CD16f",
+    "name": "0819050729 AA",
+    "tokenId": "727",
+    "d1Id": "1034",
+    "planB": {
+      "rateTHBPOL": 6.22,
+      "cumulativePol": 1.231,
+      "requiredPol": 128.6174,
+      "remainingPol": 0.391,
+      "appendPol": 127.7774,
+      "checkPol": 127.7774,
+      "dateTime": "21/10/2025, 07:37:21"
+    }
+  },
+  {
+    "userId": "0x6cDB4de63f7584D40CeAC2626B059Fa81Fc4263B",
+    "referrerId": "0x2823f18c98B2774643Ba3eb12cCCB7E5E26cb060",
+    "name": "Suvannee 8253",
+    "tokenId": "752",
+    "d1Id": "1035",
+    "planB": {
+      "rateTHBPOL": 3.31,
+      "cumulativePol": 84.3925,
+      "requiredPol": 241.6918,
+      "remainingPol": 84.08,
+      "appendPol": 241.3793,
+      "checkPol": 241.3793,
+      "dateTime": "24/12/2025, 03:46:51"
+    }
+  },
+  {
+    "userId": "0x21a1A461Db0e73B17176C668323c68eb8877a766",
+    "referrerId": "0xd0181791883Fd4923BFCBCe8104bB1af2Edf771e",
+    "name": "Kamon 8887",
+    "tokenId": "765",
+    "d1Id": "1036",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 85.2305,
+      "requiredPol": 243.9024,
+      "remainingPol": 84.92,
+      "appendPol": 243.5919,
+      "checkPol": 243.5919,
+      "dateTime": "25/12/2025, 12:19:33"
+    }
+  },
+  {
+    "userId": "0x164BB813d84bfA196901eEe6fcCe9f711Ff0D830",
+    "referrerId": "0xD8BE84199Bc2b2fb84Ca06E62245bf6fc6B497Ad",
+    "name": "Thansita 0000",
+    "tokenId": "782",
+    "d1Id": "1037",
+    "planB": {
+      "rateTHBPOL": 3.33,
+      "cumulativePol": 85.3075,
+      "requiredPol": 240.2402,
+      "remainingPol": 85,
+      "appendPol": 239.9327,
+      "checkPol": 239.9327,
+      "dateTime": "23/12/2025, 09:02:40"
+    }
+  },
+  {
+    "userId": "0x9ddA11aC2B3e2c3Ec9A03De61F061c3b7d9f0a12",
+    "referrerId": "0xD01bD6e3084408EfE884c020bb0e3DbEe03E33F2",
+    "name": "Prapussara Kom",
+    "tokenId": "822",
+    "d1Id": "1038",
+    "planB": {
+      "rateTHBPOL": 7.9208,
+      "cumulativePol": 0,
+      "requiredPol": 101,
+      "remainingPol": 0,
+      "appendPol": 101,
+      "checkPol": 101,
+      "dateTime": "16/12/2025, 17:34:51"
+    }
+  },
+  {
+    "userId": "0x2b3Dab38F3FFa9e5d1Af2CfE4F7E20B0c9B74189",
+    "referrerId": "0xd7e10c13D4014942a7fdFA5690a1f06007B52f12",
+    "name": "Cklorate",
+    "tokenId": "855",
+    "d1Id": "1039",
+    "planB": {
+      "rateTHBPOL": 7.9208,
+      "cumulativePol": 0,
+      "requiredPol": 101,
+      "remainingPol": 0,
+      "appendPol": 101,
+      "checkPol": 101,
+      "dateTime": "16/12/2025, 17:34:53"
+    }
+  },
+  {
+    "userId": "0xf01645E83E16ce1CE093161AC198e52d4807B36A",
+    "referrerId": "0xd7e10c13D4014942a7fdFA5690a1f06007B52f12",
+    "name": "Kloratec",
+    "tokenId": "856",
+    "d1Id": "1040",
+    "planB": {
+      "rateTHBPOL": 7.9208,
+      "cumulativePol": 0,
+      "requiredPol": 101,
+      "remainingPol": 0,
+      "appendPol": 101,
+      "checkPol": 101,
+      "dateTime": "16/12/2025, 17:34:56"
+    }
+  },
+  {
+    "userId": "0xE91fbBD5A91956C56115A2Ad5E42Dbe3cE89955b",
+    "referrerId": "0xd0181791883Fd4923BFCBCe8104bB1af2Edf771e",
+    "name": "Bang 155197",
+    "tokenId": "931",
+    "d1Id": "1041",
+    "planB": {
+      "rateTHBPOL": 5.32,
+      "cumulativePol": 1.1565,
+      "requiredPol": 150.3759,
+      "remainingPol": 0.3165,
+      "appendPol": 149.5359,
+      "checkPol": 149.5359,
+      "dateTime": "04/11/2025, 10:06:25"
+    }
+  },
+  {
+    "userId": "0x2c0FAB7042f25002b645c82963A7B013eF5D0BbD",
+    "referrerId": "0x3BB1bBC33C1Bdb751A7B00B18Ad9dD9B88e7e618",
+    "name": "SS 5644 IY",
+    "tokenId": "932",
+    "d1Id": "1042",
+    "planB": {
+      "rateTHBPOL": 3.5714,
+      "cumulativePol": 0,
+      "requiredPol": 224,
+      "remainingPol": 0,
+      "appendPol": 224,
+      "checkPol": 224,
+      "dateTime": "15/12/2025, 21:22:06"
+    }
+  },
+  {
+    "userId": "0x2C48d6B9127cc05BF9287db5886bB45cedDE1380",
+    "referrerId": "0xD01bD6e3084408EfE884c020bb0e3DbEe03E33F2",
+    "name": "Khorate Ttreethep",
+    "tokenId": "949",
+    "d1Id": "1043",
+    "planB": {
+      "rateTHBPOL": 7.9208,
+      "cumulativePol": 0,
+      "requiredPol": 101,
+      "remainingPol": 0,
+      "appendPol": 101,
+      "checkPol": 101,
+      "dateTime": "16/12/2025, 17:34:59"
+    }
+  },
+  {
+    "userId": "0x694EBdbFB6b5Ab46E80c3b69192aA0D35D554e7D",
+    "referrerId": "0xeB7fB4dbA64D054600de46D11fed06Cfd1Ae3cED",
+    "name": "RTP Can",
+    "tokenId": "962",
+    "d1Id": "1044",
+    "planB": {
+      "rateTHBPOL": 3.7736,
+      "cumulativePol": 0,
+      "requiredPol": 212,
+      "remainingPol": 0,
+      "appendPol": 212,
+      "checkPol": 212,
+      "dateTime": "14/12/2025, 04:05:14"
+    }
+  },
+  {
+    "userId": "0x0e1D4A1BA22e3129B0469dB48Aa686AEC6f9e455",
+    "referrerId": "0xeB7fB4dbA64D054600de46D11fed06Cfd1Ae3cED",
+    "name": "Goong Gae",
+    "tokenId": "966",
+    "d1Id": "1045",
+    "planB": {
+      "rateTHBPOL": 3.7736,
+      "cumulativePol": 0,
+      "requiredPol": 212,
+      "remainingPol": 0,
+      "appendPol": 212,
+      "checkPol": 212,
+      "dateTime": "14/12/2025, 05:35:04"
+    }
+  },
+  {
+    "userId": "0xC6B58af3e168a9E1a35eA38135239Ed51Cb58B5F",
+    "referrerId": "0x47b7AeF2C835F938D30Fdd93AD1616490f499d7C",
+    "name": "Rossawanporn 7187",
+    "tokenId": "985",
+    "d1Id": "1046",
+    "planB": {
+      "rateTHBPOL": 3.34,
+      "cumulativePol": 102.462,
+      "requiredPol": 239.521,
+      "remainingPol": 96.44,
+      "appendPol": 233.499,
+      "checkPol": 233.499,
+      "dateTime": "18/12/2025, 08:12:11"
+    }
+  },
+  {
+    "userId": "0xC29BB46D4fD656F2792672e099eae8e08069C8b5",
+    "referrerId": "0x2823f18c98B2774643Ba3eb12cCCB7E5E26cb060",
+    "name": "Khanit 44925",
+    "tokenId": "1022",
+    "d1Id": "1047",
+    "planB": {
+      "rateTHBPOL": 3.8,
+      "cumulativePol": 0,
+      "requiredPol": 210.5263,
+      "remainingPol": 0,
+      "appendPol": 210.5263,
+      "checkPol": 210.5263,
+      "dateTime": "11/12/2025, 10:14:23"
+    }
+  },
+  {
+    "userId": "0xD703065aA3874767972baf70e504cFd81831ba19",
+    "referrerId": "0x2823f18c98B2774643Ba3eb12cCCB7E5E26cb060",
+    "name": "Wittaya 106568",
+    "tokenId": "1025",
+    "d1Id": "1048",
+    "planB": {
+      "rateTHBPOL": 3.6364,
+      "cumulativePol": 0,
+      "requiredPol": 220,
+      "remainingPol": 0,
+      "appendPol": 220,
+      "checkPol": 220,
+      "dateTime": "23/12/2025, 06:05:04"
+    }
+  },
+  {
+    "userId": "0x735DCaEAEBD7ac57C77e9c65D7106A76DAc4f500",
+    "referrerId": "0xD01bD6e3084408EfE884c020bb0e3DbEe03E33F2",
+    "name": "Arporn 1974 PP",
+    "tokenId": "1060",
+    "d1Id": "1049",
+    "planB": {
+      "rateTHBPOL": 7.9208,
+      "cumulativePol": 0,
+      "requiredPol": 101,
+      "remainingPol": 0,
+      "appendPol": 101,
+      "checkPol": 101,
+      "dateTime": "16/12/2025, 17:35:33"
+    }
+  },
+  {
+    "userId": "0x98019b5c7c5482410c9D4fbEF71ff0e9BCa9e0eF",
+    "referrerId": "0x6cDB4de63f7584D40CeAC2626B059Fa81Fc4263B",
+    "name": "Thanapon PDD",
+    "tokenId": "1087",
+    "d1Id": "1050",
+    "planB": {
+      "rateTHBPOL": 3.8095,
+      "cumulativePol": 0,
+      "requiredPol": 210,
+      "remainingPol": 0,
+      "appendPol": 210,
+      "checkPol": 210,
+      "dateTime": "14/12/2025, 06:06:08"
+    }
+  },
+  {
+    "userId": "0x26D9342758fEd6D64059C3526CE1FF6A3a77C7df",
+    "referrerId": "0x6cDB4de63f7584D40CeAC2626B059Fa81Fc4263B",
+    "name": "Suriy 3479",
+    "tokenId": "1089",
+    "d1Id": "1051",
+    "planB": {
+      "rateTHBPOL": 5.5,
+      "cumulativePol": 1.426,
+      "requiredPol": 145.4545,
+      "remainingPol": 0.186,
+      "appendPol": 144.2145,
+      "checkPol": 144.2145,
+      "dateTime": "12/11/2025, 07:35:07"
+    }
+  },
+  {
+    "userId": "0xDFc595992D7f848BA391028dc5AefA28d08111A9",
+    "referrerId": "0x47b7AeF2C835F938D30Fdd93AD1616490f499d7C",
+    "name": "Siripatson 97",
+    "tokenId": "1124",
+    "d1Id": "1052",
+    "planB": {
+      "rateTHBPOL": 3.7383,
+      "cumulativePol": 0,
+      "requiredPol": 214,
+      "remainingPol": 0,
+      "appendPol": 214,
+      "checkPol": 214,
+      "dateTime": "13/12/2025, 04:05:03"
+    }
+  },
+  {
+    "userId": "0x8d92390e83ED4b91366B45E6D411f54D4D7A6560",
+    "referrerId": "0x14AB2951b1B4e998bF10A34385d0C9ca40Ff04b5",
+    "name": "Jariny AABCD",
+    "tokenId": "1134",
+    "d1Id": "1053",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 85.8795,
+      "requiredPol": 243.9024,
+      "remainingPol": 85.48,
+      "appendPol": 243.5029,
+      "checkPol": 243.5029,
+      "dateTime": "19/12/2025, 07:02:09"
+    }
+  },
+  {
+    "userId": "0x79Ccebc31C966d40Ed1ed1393603cd17471d66e2",
+    "referrerId": "0x26638Aeda2df3c49f03765A5E235D01b5A6aBff5",
+    "name": "Wanna 06175",
+    "tokenId": "1158",
+    "d1Id": "1054",
+    "planB": {
+      "rateTHBPOL": 3.34,
+      "cumulativePol": 146.319,
+      "requiredPol": 239.521,
+      "remainingPol": 2.92,
+      "appendPol": 96.122,
+      "checkPol": 96.122,
+      "dateTime": "18/12/2025, 08:15:05"
+    }
+  },
+  {
+    "userId": "0x1740787AABb44a95B168c380D2699bD0f392243d",
+    "referrerId": "0xD75cC35997C2dDC389C8aF498ea42405Abf93c2B",
+    "name": "Susppmt",
+    "tokenId": "1202",
+    "d1Id": "1055",
+    "planB": {
+      "rateTHBPOL": 3.25,
+      "cumulativePol": 0.5995,
+      "requiredPol": 246.1538,
+      "remainingPol": 0.4,
+      "appendPol": 245.9543,
+      "checkPol": 245.9543,
+      "dateTime": "24/12/2025, 13:16:12"
+    }
+  },
+  {
+    "userId": "0x3c38b12D79f28ecFB49Dc4Bcde3e1B25C25D1411",
+    "referrerId": "0xD75cC35997C2dDC389C8aF498ea42405Abf93c2B",
+    "name": "PokPok Siri",
+    "tokenId": "1203",
+    "d1Id": "1056",
+    "planB": {
+      "rateTHBPOL": 3.25,
+      "cumulativePol": 0.5995,
+      "requiredPol": 246.1538,
+      "remainingPol": 0.4,
+      "appendPol": 245.9543,
+      "checkPol": 245.9543,
+      "dateTime": "24/12/2025, 13:20:45"
+    }
+  },
+  {
+    "userId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "referrerId": "0xfd09aCf15c61D987440AE816f1A72c1354feA0d9",
+    "name": "อรลี่",
+    "tokenId": "1300",
+    "d1Id": "1057",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 188.32,
+      "requiredPol": 243.9024,
+      "remainingPol": 120.563,
+      "appendPol": 176.1454,
+      "checkPol": 176.1454,
+      "dateTime": "19/12/2025, 06:56:57"
+    }
+  },
+  {
+    "userId": "0x7311CeB98Aa0D37C3693d39268403F6E38ada9e6",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "หนิง",
+    "tokenId": "1311",
+    "d1Id": "1058",
+    "planB": {
+      "rateTHBPOL": 4.9,
+      "cumulativePol": 2.31,
+      "requiredPol": 163.2653,
+      "remainingPol": 1.07,
+      "appendPol": 162.0253,
+      "checkPol": 162.0253,
+      "dateTime": "16/11/2025, 09:34:28"
+    }
+  },
+  {
+    "userId": "0xC10Df7f457363a3f9aAC951D1E7Aea60f1C677eE",
+    "referrerId": "0x8bcd0d82abA56934443B3c00f029422f80F2A251",
+    "name": "Korais GRP",
+    "tokenId": "1332",
+    "d1Id": "1059",
+    "planB": {
+      "rateTHBPOL": 5.77,
+      "cumulativePol": 380.49,
+      "requiredPol": 138.6482,
+      "remainingPol": 241.8418,
+      "appendPol": 0.01,
+      "checkPol": 0.01,
+      "dateTime": "17/10/2025, 07:21:46"
+    }
+  },
+  {
+    "userId": "0x437b861f790b2e78D636b69B5Ff7c59286952E89",
+    "referrerId": "0xC10Df7f457363a3f9aAC951D1E7Aea60f1C677eE",
+    "name": "Reworth 23",
+    "tokenId": "1335",
+    "d1Id": "1060",
+    "planB": {
+      "rateTHBPOL": 6.21,
+      "cumulativePol": 388.77,
+      "requiredPol": 128.8245,
+      "remainingPol": 259.9455,
+      "appendPol": 0.01,
+      "checkPol": 0.01,
+      "dateTime": "25/10/2025, 12:53:59"
+    }
+  },
+  {
+    "userId": "0x2D2BCfa1f9DB2546d2A5fab9623fd65B59B0Cd7e",
+    "referrerId": "0x6cDB4de63f7584D40CeAC2626B059Fa81Fc4263B",
+    "name": "Phanuchai 249111",
+    "tokenId": "1368",
+    "d1Id": "1061",
+    "planB": {
+      "rateTHBPOL": 6.4,
+      "cumulativePol": 0.529,
+      "requiredPol": 125,
+      "remainingPol": 0.129,
+      "appendPol": 124.6,
+      "checkPol": 124.6,
+      "dateTime": "27/10/2025, 16:32:42"
+    }
+  },
+  {
+    "userId": "0x0c5982454739bdC7bd7E4A47DA169C6d90e1f509",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "Tana Lonanant 1155",
+    "tokenId": "1375",
+    "d1Id": "1062",
+    "planB": {
+      "rateTHBPOL": 3.34,
+      "cumulativePol": 256.2025,
+      "requiredPol": 239.521,
+      "remainingPol": 91.237,
+      "appendPol": 74.5555,
+      "checkPol": 74.5555,
+      "dateTime": "18/12/2025, 08:12:16"
+    }
+  },
+  {
+    "userId": "0x5342A054Ea1dA15E57323eD48779750CdfA1B8b6",
+    "referrerId": "0xC6B58af3e168a9E1a35eA38135239Ed51Cb58B5F",
+    "name": "Ditt 42873",
+    "tokenId": "1381",
+    "d1Id": "1063",
+    "planB": {
+      "rateTHBPOL": 3.37,
+      "cumulativePol": 84.609,
+      "requiredPol": 237.3887,
+      "remainingPol": 84.48,
+      "appendPol": 237.2597,
+      "checkPol": 237.2597,
+      "dateTime": "23/12/2025, 02:23:08"
+    }
+  },
+  {
+    "userId": "0xae06cB3272d7A52e15D4dE57A2BAb1586b3b5D96",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "Kanyanat 06265",
+    "tokenId": "1391",
+    "d1Id": "1064",
+    "planB": {
+      "rateTHBPOL": 3.48,
+      "cumulativePol": 151.853,
+      "requiredPol": 229.8851,
+      "remainingPol": 5.305,
+      "appendPol": 83.3371,
+      "checkPol": 83.3371,
+      "dateTime": "20/12/2025, 13:36:40"
+    }
+  },
+  {
+    "userId": "0xDBbd0701aDCFB1CD1E9EbceB080EeFd1a010F435",
+    "referrerId": "0x2823f18c98B2774643Ba3eb12cCCB7E5E26cb060",
+    "name": "0967651531 Za",
+    "tokenId": "1400",
+    "d1Id": "1065",
+    "planB": {
+      "rateTHBPOL": 3.81,
+      "cumulativePol": 0,
+      "requiredPol": 209.9738,
+      "remainingPol": 0,
+      "appendPol": 209.9738,
+      "checkPol": 209.9738,
+      "dateTime": "13/12/2025, 10:44:45"
+    }
+  },
+  {
+    "userId": "0xa9C4e55BE02E53ec2A3810ae1A8d838391b23DD3",
+    "referrerId": "0x0c5982454739bdC7bd7E4A47DA169C6d90e1f509",
+    "name": "โอ",
+    "tokenId": "1421",
+    "d1Id": "1066",
+    "planB": {
+      "rateTHBPOL": 3.34,
+      "cumulativePol": 0,
+      "requiredPol": 239.521,
+      "remainingPol": 0,
+      "appendPol": 239.521,
+      "checkPol": 239.521,
+      "dateTime": "18/12/2025, 06:15:52"
+    }
+  },
+  {
+    "userId": "0x1975a1C1841a4E91817e4c627d132cA229e27408",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "Thanonpum",
+    "tokenId": "1426",
+    "d1Id": "1067",
+    "planB": {
+      "rateTHBPOL": 3.25,
+      "cumulativePol": 86.643,
+      "requiredPol": 246.1538,
+      "remainingPol": 84.7765,
+      "appendPol": 244.2873,
+      "checkPol": 244.2873,
+      "dateTime": "25/12/2025, 03:23:27"
+    }
+  },
+  {
+    "userId": "0xC140D042fb12431bcD5807f27f7aFe45c8C7879e",
+    "referrerId": "0x6A65bfc8b6BcA039070Ea7c9C9ba5e1E31B12b7F",
+    "name": "Nusinee 3690",
+    "tokenId": "1429",
+    "d1Id": "1068",
+    "planB": {
+      "rateTHBPOL": 5.7,
+      "cumulativePol": 21.4635,
+      "requiredPol": 140.3509,
+      "remainingPol": 5.8635,
+      "appendPol": 124.7509,
+      "checkPol": 124.7509,
+      "dateTime": "11/11/2025, 07:31:52"
+    }
+  },
+  {
+    "userId": "0xBD6Aab1FA7eF13534a390bb17039D08eC7F1edE6",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "Nuttira 7641",
+    "tokenId": "1467",
+    "d1Id": "1069",
+    "planB": {
+      "rateTHBPOL": 3.4,
+      "cumulativePol": 0,
+      "requiredPol": 235.2941,
+      "remainingPol": 0,
+      "appendPol": 235.2941,
+      "checkPol": 235.2941,
+      "dateTime": "20/12/2025, 08:12:27"
+    }
+  },
+  {
+    "userId": "0xc043E9ce1236c201E5ce920766AB7614b7F68942",
+    "referrerId": "0xeB7fB4dbA64D054600de46D11fed06Cfd1Ae3cED",
+    "name": "Witoon Nilrat",
+    "tokenId": "1485",
+    "d1Id": "1070",
+    "planB": {
+      "rateTHBPOL": 3.653,
+      "cumulativePol": 0,
+      "requiredPol": 219,
+      "remainingPol": 0,
+      "appendPol": 219,
+      "checkPol": 219,
+      "dateTime": "15/12/2025, 19:27:56"
+    }
+  },
+  {
+    "userId": "0xBCdb738dc1ceF57BDF6764fd613D79A5413C0c55",
+    "referrerId": "0x862f8ed7726176Fb052075957c7a9963Df9C4841",
+    "name": "Muay Inspire 789",
+    "tokenId": "1495",
+    "d1Id": "1071",
+    "planB": {
+      "rateTHBPOL": 3.4,
+      "cumulativePol": 89.2705,
+      "requiredPol": 235.2941,
+      "remainingPol": 87.56,
+      "appendPol": 233.5836,
+      "checkPol": 233.5836,
+      "dateTime": "18/12/2025, 06:03:05"
+    }
+  },
+  {
+    "userId": "0x8d34e3643850642dF98f91bCa4Fdd445Bd51C733",
+    "referrerId": "0xeB7fB4dbA64D054600de46D11fed06Cfd1Ae3cED",
+    "name": "Per Shop 156",
+    "tokenId": "1535",
+    "d1Id": "1072",
+    "planB": {
+      "rateTHBPOL": 3.31,
+      "cumulativePol": 0.5435,
+      "requiredPol": 241.6918,
+      "remainingPol": 0,
+      "appendPol": 241.1483,
+      "checkPol": 241.1483,
+      "dateTime": "25/12/2025, 07:56:50"
+    }
+  },
+  {
+    "userId": "0x86b8493c8114aDA2ed0149d2DdcDd5b31E12E3f0",
+    "referrerId": "0x8d92390e83ED4b91366B45E6D411f54D4D7A6560",
+    "name": "Parinya ASV",
+    "tokenId": "1558",
+    "d1Id": "1073",
+    "planB": {
+      "rateTHBPOL": 7.61,
+      "cumulativePol": 0.5425,
+      "requiredPol": 105.1248,
+      "remainingPol": 0.1315,
+      "appendPol": 104.7138,
+      "checkPol": 104.7138,
+      "dateTime": "09/10/2025, 03:18:26"
+    }
+  },
+  {
+    "userId": "0xd409d50723CE0aDB479807b34D8AfE87e7630AeD",
+    "referrerId": "0xae06cB3272d7A52e15D4dE57A2BAb1586b3b5D96",
+    "name": "Patchamon 48",
+    "tokenId": "1599",
+    "d1Id": "1074",
+    "planB": {
+      "rateTHBPOL": 3.4,
+      "cumulativePol": 34.405,
+      "requiredPol": 235.2941,
+      "remainingPol": 34.2775,
+      "appendPol": 235.1666,
+      "checkPol": 235.1666,
+      "dateTime": "20/12/2025, 07:19:07"
+    }
+  },
+  {
+    "userId": "0x84Cf88b895591ef38bbf3f3EA7201be9a8B4D110",
+    "referrerId": "0xC888A4cc8161ABfb2b8Ee44e84cd6F6185Ab43bF",
+    "name": "Manee 5099 G",
+    "tokenId": "1603",
+    "d1Id": "1075",
+    "planB": {
+      "rateTHBPOL": 5.26,
+      "cumulativePol": 85.3835,
+      "requiredPol": 152.0913,
+      "remainingPol": 0.132,
+      "appendPol": 66.8398,
+      "checkPol": 66.8398,
+      "dateTime": "07/11/2025, 13:50:55"
+    }
+  },
+  {
+    "userId": "0x3c7f1DE0060A743a462EFA597246227977F7aaCF",
+    "referrerId": "0xE3d3642A18692074E1a18B30Dee5A9471eeB10e3",
+    "name": "p98905328",
+    "tokenId": "1758",
+    "d1Id": "1076",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 03:02:35"
+    }
+  },
+  {
+    "userId": "0x5C691935cC66d98C06E34F15B32beB508AB667D8",
+    "referrerId": "0xb1f3c7F832EA25440C7279D4CFa52F957D8b0936",
+    "name": "somruthai1978",
+    "tokenId": "1935",
+    "d1Id": "1077",
+    "planB": {
+      "rateTHBPOL": 6.4,
+      "cumulativePol": 0.5435,
+      "requiredPol": 125,
+      "remainingPol": 0.1835,
+      "appendPol": 124.64,
+      "checkPol": 124.64,
+      "dateTime": "28/10/2025, 08:05:58"
+    }
+  },
+  {
+    "userId": "0x393286C13F04B93753C9eD0593a249B5e10E207C",
+    "referrerId": "0xC6B58af3e168a9E1a35eA38135239Ed51Cb58B5F",
+    "name": "tanyapatzapor2536",
+    "tokenId": "2032",
+    "d1Id": "1078",
+    "planB": {
+      "rateTHBPOL": 3.48,
+      "cumulativePol": 0.55,
+      "requiredPol": 229.8851,
+      "remainingPol": 0,
+      "appendPol": 229.3351,
+      "checkPol": 229.3351,
+      "dateTime": "20/12/2025, 14:43:28"
+    }
+  },
+  {
+    "userId": "0x4Eef249B0bd6bD44Df7f9bbf9d6f16d1DCEAd280",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "prasert2sri",
+    "tokenId": "2066",
+    "d1Id": "1079",
+    "planB": {
+      "rateTHBPOL": 4.35,
+      "cumulativePol": 0.281,
+      "requiredPol": 183.908,
+      "remainingPol": 0.121,
+      "appendPol": 183.748,
+      "checkPol": 183.748,
+      "dateTime": "27/11/2025, 03:27:19"
+    }
+  },
+  {
+    "userId": "0x8FE4A1606853Df3a473827280BEd49AA9d5f9C08",
+    "referrerId": "0xc550E56121D86f6c3aB4d77e05b977a9e9e47C3D",
+    "name": "sakul19572500",
+    "tokenId": "2100",
+    "d1Id": "1080",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 02:32:51"
+    }
+  },
+  {
+    "userId": "0xbEd955E37938629094819e8E43A2b67DfEf78450",
+    "referrerId": "0xc550E56121D86f6c3aB4d77e05b977a9e9e47C3D",
+    "name": "rachata327",
+    "tokenId": "2107",
+    "d1Id": "1081",
+    "planB": {
+      "rateTHBPOL": 3.8,
+      "cumulativePol": 0,
+      "requiredPol": 210.5263,
+      "remainingPol": 0,
+      "appendPol": 210.5263,
+      "checkPol": 210.5263,
+      "dateTime": "11/12/2025, 13:39:18"
+    }
+  },
+  {
+    "userId": "0x3Ae85Fd145e3CE3C56ba1c8b40eFdeC4FDf5CA81",
+    "referrerId": "0xC6B58af3e168a9E1a35eA38135239Ed51Cb58B5F",
+    "name": "ree05651",
+    "tokenId": "2305",
+    "d1Id": "1082",
+    "planB": {
+      "rateTHBPOL": 3.653,
+      "cumulativePol": 0,
+      "requiredPol": 219,
+      "remainingPol": 0,
+      "appendPol": 219,
+      "checkPol": 219,
+      "dateTime": "15/12/2025, 17:05:03"
+    }
+  },
+  {
+    "userId": "0x5b1Dd32D972b631cF43f59C6A0bb014375A96287",
+    "referrerId": "0xc550E56121D86f6c3aB4d77e05b977a9e9e47C3D",
+    "name": "somlak152987",
+    "tokenId": "2572",
+    "d1Id": "1083",
+    "planB": {
+      "rateTHBPOL": 3.84,
+      "cumulativePol": 0,
+      "requiredPol": 208.3333,
+      "remainingPol": 0,
+      "appendPol": 208.3333,
+      "checkPol": 208.3333,
+      "dateTime": "14/12/2025, 10:19:38"
+    }
+  },
+  {
+    "userId": "0x7F87c10B5a527943d0D0DF40855dEf7c5F5BF5f6",
+    "referrerId": "0xC4883E1Fc4c52b2641a26D3561cca3714c74d776",
+    "name": "digen_2007",
+    "tokenId": "2603",
+    "d1Id": "1084",
+    "planB": {
+      "rateTHBPOL": 3.48,
+      "cumulativePol": 0.224,
+      "requiredPol": 229.8851,
+      "remainingPol": 0,
+      "appendPol": 229.6611,
+      "checkPol": 229.6611,
+      "dateTime": "20/12/2025, 15:26:38"
+    }
+  },
+  {
+    "userId": "0xFED03a2637E7Fd6991d4de79304cd039C0128abE",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "kittithat062546",
+    "tokenId": "2654",
+    "d1Id": "1085",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 97.2135,
+      "requiredPol": 243.9024,
+      "remainingPol": 86.08,
+      "appendPol": 232.7689,
+      "checkPol": 232.7689,
+      "dateTime": "19/12/2025, 06:29:53"
+    }
+  },
+  {
+    "userId": "0x8B3Ce95D6210F477d22dA5fFfc6050d36b1462e1",
+    "referrerId": "0x2823f18c98B2774643Ba3eb12cCCB7E5E26cb060",
+    "name": "manit0751167",
+    "tokenId": "2681",
+    "d1Id": "1086",
+    "planB": {
+      "rateTHBPOL": 3.8095,
+      "cumulativePol": 0,
+      "requiredPol": 210,
+      "remainingPol": 0,
+      "appendPol": 210,
+      "checkPol": 210,
+      "dateTime": "14/12/2025, 09:13:04"
+    }
+  },
+  {
+    "userId": "0xc70d6d16FFCd8eF16D5598aa069254647530d30f",
+    "referrerId": "0xc550E56121D86f6c3aB4d77e05b977a9e9e47C3D",
+    "name": "m79690929",
+    "tokenId": "2828",
+    "d1Id": "1087",
+    "planB": {
+      "rateTHBPOL": 3.48,
+      "cumulativePol": 0.221,
+      "requiredPol": 229.8851,
+      "remainingPol": 0,
+      "appendPol": 229.6641,
+      "checkPol": 229.6641,
+      "dateTime": "20/12/2025, 11:16:25"
+    }
+  },
+  {
+    "userId": "0xc70d6d16FFCd8eF16D5598aa069254647530d30f",
+    "referrerId": "0xc550E56121D86f6c3aB4d77e05b977a9e9e47C3D",
+    "name": "m79690929",
+    "tokenId": "2828",
+    "d1Id": "1088",
+    "planB": {
+      "rateTHBPOL": 3.8,
+      "cumulativePol": 0,
+      "requiredPol": 210.5263,
+      "remainingPol": 0,
+      "appendPol": 210.5263,
+      "checkPol": 210.5263,
+      "dateTime": "11/12/2025, 13:24:33"
+    }
+  },
+  {
+    "userId": "0x40a0eF43f717cD83c1b39C16deE79814ABA24863",
+    "referrerId": "0xc550E56121D86f6c3aB4d77e05b977a9e9e47C3D",
+    "name": "d23106784",
+    "tokenId": "2871",
+    "d1Id": "1089",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 06:11:56"
+    }
+  },
+  {
+    "userId": "0xB4A88cc2C26C4ACe473F2b47c45a2b6906FacEdE",
+    "referrerId": "0xC4883E1Fc4c52b2641a26D3561cca3714c74d776",
+    "name": "kasirapengswang",
+    "tokenId": "2884",
+    "d1Id": "1090",
+    "planB": {
+      "rateTHBPOL": 3.52,
+      "cumulativePol": 0,
+      "requiredPol": 227.2727,
+      "remainingPol": 0,
+      "appendPol": 227.2727,
+      "checkPol": 227.2727,
+      "dateTime": "16/12/2025, 02:49:06"
+    }
+  },
+  {
+    "userId": "0xCD3827BE8269bd6dF4F27E63a4DB1656287Ab099",
+    "referrerId": "0xEbd93d528cBE04edb6f742047f3f6BEFcAd210D4",
+    "name": "b8400951",
+    "tokenId": "2898",
+    "d1Id": "1091",
+    "planB": {
+      "rateTHBPOL": 3.84,
+      "cumulativePol": 0,
+      "requiredPol": 208.3333,
+      "remainingPol": 0,
+      "appendPol": 208.3333,
+      "checkPol": 208.3333,
+      "dateTime": "14/12/2025, 08:13:29"
+    }
+  },
+  {
+    "userId": "0x641Bc0Cd1893065E41ad203EFaf60f2DF0086670",
+    "referrerId": "0x0a11986fd85AAe898Ee34757eBbA93454647C63D",
+    "name": "chaiyapont36",
+    "tokenId": "2905",
+    "d1Id": "1092",
+    "planB": {
+      "rateTHBPOL": 4.2,
+      "cumulativePol": 0.2225,
+      "requiredPol": 190.4762,
+      "remainingPol": 0.0625,
+      "appendPol": 190.3162,
+      "checkPol": 190.3162,
+      "dateTime": "23/11/2025, 08:27:16"
+    }
+  },
+  {
+    "userId": "0xE975e121a2d67573eeE603716C314b3C3C67198C",
+    "referrerId": "0xEbd93d528cBE04edb6f742047f3f6BEFcAd210D4",
+    "name": "phises163",
+    "tokenId": "3065",
+    "d1Id": "1093",
+    "planB": {
+      "rateTHBPOL": 3.84,
+      "cumulativePol": 0,
+      "requiredPol": 208.3333,
+      "remainingPol": 0,
+      "appendPol": 208.3333,
+      "checkPol": 208.3333,
+      "dateTime": "14/12/2025, 08:15:55"
+    }
+  },
+  {
+    "userId": "0x2834f915b361F304C7a9fEf67210fe3b85F70Dfb",
+    "referrerId": "0xEbd93d528cBE04edb6f742047f3f6BEFcAd210D4",
+    "name": "t38651440",
+    "tokenId": "3067",
+    "d1Id": "1094",
+    "planB": {
+      "rateTHBPOL": 3.84,
+      "cumulativePol": 0,
+      "requiredPol": 208.3333,
+      "remainingPol": 0,
+      "appendPol": 208.3333,
+      "checkPol": 208.3333,
+      "dateTime": "14/12/2025, 08:18:33"
+    }
+  },
+  {
+    "userId": "0x732a2A46861fd0BAFabD98BCf91F124d052FeDA3",
+    "referrerId": "0xEbd93d528cBE04edb6f742047f3f6BEFcAd210D4",
+    "name": "s95701385",
+    "tokenId": "3069",
+    "d1Id": "1095",
+    "planB": {
+      "rateTHBPOL": 3.84,
+      "cumulativePol": 0,
+      "requiredPol": 208.3333,
+      "remainingPol": 0,
+      "appendPol": 208.3333,
+      "checkPol": 208.3333,
+      "dateTime": "14/12/2025, 08:22:36"
+    }
+  },
+  {
+    "userId": "0xEa1734F4A26FbB4796063c0Fe4b0e236E57c238a",
+    "referrerId": "0xEbd93d528cBE04edb6f742047f3f6BEFcAd210D4",
+    "name": "w384780",
+    "tokenId": "3071",
+    "d1Id": "1096",
+    "planB": {
+      "rateTHBPOL": 3.52,
+      "cumulativePol": 0,
+      "requiredPol": 227.2727,
+      "remainingPol": 0,
+      "appendPol": 227.2727,
+      "checkPol": 227.2727,
+      "dateTime": "16/12/2025, 05:40:28"
+    }
+  },
+  {
+    "userId": "0x0Dd2bf8B9Bef5F72181A2dDfdd4b0Cb7cfCDc7a2",
+    "referrerId": "0xEbd93d528cBE04edb6f742047f3f6BEFcAd210D4",
+    "name": "s4035459",
+    "tokenId": "3076",
+    "d1Id": "1097",
+    "planB": {
+      "rateTHBPOL": 3.52,
+      "cumulativePol": 0,
+      "requiredPol": 227.2727,
+      "remainingPol": 0,
+      "appendPol": 227.2727,
+      "checkPol": 227.2727,
+      "dateTime": "16/12/2025, 05:43:27"
+    }
+  },
+  {
+    "userId": "0x4e267df70C089886fa08264BAcBc554d4707160b",
+    "referrerId": "0xFED03a2637E7Fd6991d4de79304cd039C0128abE",
+    "name": "dulyphllekhmas774",
+    "tokenId": "3209",
+    "d1Id": "1098",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 135.7765,
+      "requiredPol": 243.9024,
+      "remainingPol": 19.48,
+      "appendPol": 127.6059,
+      "checkPol": 127.6059,
+      "dateTime": "19/12/2025, 07:13:15"
+    }
+  },
+  {
+    "userId": "0xE3dB7864E970Fbc86a5346FA236AFb76c070F2e5",
+    "referrerId": "0x0c5982454739bdC7bd7E4A47DA169C6d90e1f509",
+    "name": "thanathatv5698",
+    "tokenId": "3279",
+    "d1Id": "1099",
+    "planB": {
+      "rateTHBPOL": 3.93,
+      "cumulativePol": 0,
+      "requiredPol": 203.5623,
+      "remainingPol": 0,
+      "appendPol": 203.5623,
+      "checkPol": 203.5623,
+      "dateTime": "10/12/2025, 15:24:10"
+    }
+  },
+  {
+    "userId": "0x5Db2CfAAB6fb5C5301CEba229c3C385d37640d4B",
+    "referrerId": "0x69EBf3a9ded82270F67f2A4d6Ece1600a4F351D9",
+    "name": "kowos3kok",
+    "tokenId": "3373",
+    "d1Id": "1100",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 12:40:09"
+    }
+  },
+  {
+    "userId": "0xc6a28e2FB48032808504b73a7e2a2340984Cb230",
+    "referrerId": "0x69EBf3a9ded82270F67f2A4d6Ece1600a4F351D9",
+    "name": "jira3kok",
+    "tokenId": "3374",
+    "d1Id": "1101",
+    "planB": {
+      "rateTHBPOL": 4,
+      "cumulativePol": 0.2245,
+      "requiredPol": 200,
+      "remainingPol": 0.0645,
+      "appendPol": 199.84,
+      "checkPol": 199.84,
+      "dateTime": "01/12/2025, 10:32:54"
+    }
+  },
+  {
+    "userId": "0x0a83cA0dF839b43b6C0B4f6b2f316b99a5290a29",
+    "referrerId": "0x69EBf3a9ded82270F67f2A4d6Ece1600a4F351D9",
+    "name": "patree3kok",
+    "tokenId": "3376",
+    "d1Id": "1102",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 12:49:11"
+    }
+  },
+  {
+    "userId": "0xe786b7dB6D5e09652cAbf0Fd46B14374F599d5A6",
+    "referrerId": "0x69EBf3a9ded82270F67f2A4d6Ece1600a4F351D9",
+    "name": "proto3kok",
+    "tokenId": "3377",
+    "d1Id": "1103",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 12:57:43"
+    }
+  },
+  {
+    "userId": "0x413ce6671ffEa9e4CE67ce9115938F07218639f8",
+    "referrerId": "0x69EBf3a9ded82270F67f2A4d6Ece1600a4F351D9",
+    "name": "pon3kok",
+    "tokenId": "3378",
+    "d1Id": "1104",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 13:17:23"
+    }
+  },
+  {
+    "userId": "0x4500B3331D25618BB0bF63D3377730Bbc42AB6cA",
+    "referrerId": "0x69EBf3a9ded82270F67f2A4d6Ece1600a4F351D9",
+    "name": "thiya3kok",
+    "tokenId": "3400",
+    "d1Id": "1105",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 13:34:54"
+    }
+  },
+  {
+    "userId": "0xba14Bb8bC0E0438abf53AC215E8cb80EaCf05b86",
+    "referrerId": "0xC6B58af3e168a9E1a35eA38135239Ed51Cb58B5F",
+    "name": "saythiphy703",
+    "tokenId": "3429",
+    "d1Id": "1106",
+    "planB": {
+      "rateTHBPOL": 3.7736,
+      "cumulativePol": 0,
+      "requiredPol": 212,
+      "remainingPol": 0,
+      "appendPol": 212,
+      "checkPol": 212,
+      "dateTime": "12/12/2025, 14:04:05"
+    }
+  },
+  {
+    "userId": "0x541ac4dF68b855E2D529D8c66aC461B8B4c8d95A",
+    "referrerId": "0xC6B58af3e168a9E1a35eA38135239Ed51Cb58B5F",
+    "name": "kirsr6027",
+    "tokenId": "3440",
+    "d1Id": "1107",
+    "planB": {
+      "rateTHBPOL": 3.653,
+      "cumulativePol": 0,
+      "requiredPol": 219,
+      "remainingPol": 0,
+      "appendPol": 219,
+      "checkPol": 219,
+      "dateTime": "15/12/2025, 18:16:04"
+    }
+  },
+  {
+    "userId": "0x990c703Cb5a0c998620a4176c8134b152e948DDa",
+    "referrerId": "0xC6B58af3e168a9E1a35eA38135239Ed51Cb58B5F",
+    "name": "r16604088",
+    "tokenId": "3459",
+    "d1Id": "1108",
+    "planB": {
+      "rateTHBPOL": 3.653,
+      "cumulativePol": 0,
+      "requiredPol": 219,
+      "remainingPol": 0,
+      "appendPol": 219,
+      "checkPol": 219,
+      "dateTime": "15/12/2025, 21:05:07"
+    }
+  },
+  {
+    "userId": "0x89867F6a6407d45541B3Af61769724fb429ab87b",
+    "referrerId": "0x69EBf3a9ded82270F67f2A4d6Ece1600a4F351D9",
+    "name": "soto359",
+    "tokenId": "3630",
+    "d1Id": "1109",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 14:19:45"
+    }
+  },
+  {
+    "userId": "0xBC858128832B8C06cBd4d244b095EaFA4b2E90d2",
+    "referrerId": "0x69EBf3a9ded82270F67f2A4d6Ece1600a4F351D9",
+    "name": "yupa359",
+    "tokenId": "3635",
+    "d1Id": "1110",
+    "planB": {
+      "rateTHBPOL": 3.83,
+      "cumulativePol": 0,
+      "requiredPol": 208.8773,
+      "remainingPol": 0,
+      "appendPol": 208.8773,
+      "checkPol": 208.8773,
+      "dateTime": "12/12/2025, 14:48:53"
+    }
+  },
+  {
+    "userId": "0x9D25c847f1412f9Ee881Ca7e8A3EbC78bbb1437E",
+    "referrerId": "0x69EBf3a9ded82270F67f2A4d6Ece1600a4F351D9",
+    "name": "eagka359",
+    "tokenId": "3638",
+    "d1Id": "1111",
+    "planB": {
+      "rateTHBPOL": 3.83,
+      "cumulativePol": 0,
+      "requiredPol": 208.8773,
+      "remainingPol": 0,
+      "appendPol": 208.8773,
+      "checkPol": 208.8773,
+      "dateTime": "12/12/2025, 15:00:56"
+    }
+  },
+  {
+    "userId": "0xFBAEFB408AF4a4CA1Ba1e77Ff1D659D65881846C",
+    "referrerId": "0x69EBf3a9ded82270F67f2A4d6Ece1600a4F351D9",
+    "name": "hora359",
+    "tokenId": "3640",
+    "d1Id": "1112",
+    "planB": {
+      "rateTHBPOL": 3.83,
+      "cumulativePol": 0,
+      "requiredPol": 208.8773,
+      "remainingPol": 0,
+      "appendPol": 208.8773,
+      "checkPol": 208.8773,
+      "dateTime": "12/12/2025, 15:10:47"
+    }
+  },
+  {
+    "userId": "0x6fcf71b93e2bAAC4580c8a1bDD3885F4E95fF184",
+    "referrerId": "0x69EBf3a9ded82270F67f2A4d6Ece1600a4F351D9",
+    "name": "nera359",
+    "tokenId": "3641",
+    "d1Id": "1113",
+    "planB": {
+      "rateTHBPOL": 3.75,
+      "cumulativePol": 0,
+      "requiredPol": 213.3333,
+      "remainingPol": 0,
+      "appendPol": 213.3333,
+      "checkPol": 213.3333,
+      "dateTime": "13/12/2025, 00:34:08"
+    }
+  },
+  {
+    "userId": "0xf9B4300606282f806A7B6e561EB595491B38F411",
+    "referrerId": "0x26638Aeda2df3c49f03765A5E235D01b5A6aBff5",
+    "name": "aree65656",
+    "tokenId": "3917",
+    "d1Id": "1114",
+    "planB": {
+      "rateTHBPOL": 7.6923,
+      "cumulativePol": 0,
+      "requiredPol": 104,
+      "remainingPol": 0,
+      "appendPol": 104,
+      "checkPol": 104,
+      "dateTime": "06/10/2025, 17:34:52"
+    }
+  },
+  {
+    "userId": "0x55C1194cbAF05478E0f74Da662F2bEc476a9fDAf",
+    "referrerId": "0x26638Aeda2df3c49f03765A5E235D01b5A6aBff5",
+    "name": "bigji6999",
+    "tokenId": "3919",
+    "d1Id": "1115",
+    "planB": {
+      "rateTHBPOL": 7.6923,
+      "cumulativePol": 0,
+      "requiredPol": 104,
+      "remainingPol": 0,
+      "appendPol": 104,
+      "checkPol": 104,
+      "dateTime": "06/10/2025, 17:35:51"
+    }
+  },
+  {
+    "userId": "0x569014F0B28299FF27949d87D20499824F063c07",
+    "referrerId": "0x26638Aeda2df3c49f03765A5E235D01b5A6aBff5",
+    "name": "somyos6569",
+    "tokenId": "3924",
+    "d1Id": "1116",
+    "planB": {
+      "rateTHBPOL": 7.6923,
+      "cumulativePol": 0,
+      "requiredPol": 104,
+      "remainingPol": 0,
+      "appendPol": 104,
+      "checkPol": 104,
+      "dateTime": "06/10/2025, 17:37:48"
+    }
+  },
+  {
+    "userId": "0xED23fa35fB9a6C9DDa50EF97C6E6277Bc4c5184c",
+    "referrerId": "0x26638Aeda2df3c49f03765A5E235D01b5A6aBff5",
+    "name": "bigji69996",
+    "tokenId": "3926",
+    "d1Id": "1117",
+    "planB": {
+      "rateTHBPOL": 7.6923,
+      "cumulativePol": 0,
+      "requiredPol": 104,
+      "remainingPol": 0,
+      "appendPol": 104,
+      "checkPol": 104,
+      "dateTime": "06/10/2025, 17:37:58"
+    }
+  },
+  {
+    "userId": "0x070d121dDB78757cfab99018415b80f67f7702EB",
+    "referrerId": "0x26638Aeda2df3c49f03765A5E235D01b5A6aBff5",
+    "name": "paitoon4295",
+    "tokenId": "4081",
+    "d1Id": "1118",
+    "planB": {
+      "rateTHBPOL": 7.6923,
+      "cumulativePol": 0,
+      "requiredPol": 104,
+      "remainingPol": 0,
+      "appendPol": 104,
+      "checkPol": 104,
+      "dateTime": "06/10/2025, 17:38:27"
+    }
+  },
+  {
+    "userId": "0x72ED8C4E887A404994281a112e32564B29a42288",
+    "referrerId": "0x3BB1bBC33C1Bdb751A7B00B18Ad9dD9B88e7e618",
+    "name": "jkjirasak1",
+    "tokenId": "4177",
+    "d1Id": "1119",
+    "planB": {
+      "rateTHBPOL": 6.22,
+      "cumulativePol": 1.7725,
+      "requiredPol": 128.6174,
+      "remainingPol": 0.0525,
+      "appendPol": 126.8974,
+      "checkPol": 126.8974,
+      "dateTime": "21/10/2025, 07:26:04"
+    }
+  },
+  {
+    "userId": "0x97af4Cc2E8e0e9Fea82F3eFDF0b45dC79daCBaAE",
+    "referrerId": "0x26638Aeda2df3c49f03765A5E235D01b5A6aBff5",
+    "name": "kraeng6596",
+    "tokenId": "4208",
+    "d1Id": "1120",
+    "planB": {
+      "rateTHBPOL": 7.6923,
+      "cumulativePol": 0,
+      "requiredPol": 104,
+      "remainingPol": 0,
+      "appendPol": 104,
+      "checkPol": 104,
+      "dateTime": "06/10/2025, 17:40:03"
+    }
+  },
+  {
+    "userId": "0x7F003281B1e268c4419c93970672c1A14257D28e",
+    "referrerId": "0x6A65bfc8b6BcA039070Ea7c9C9ba5e1E31B12b7F",
+    "name": "b09370398",
+    "tokenId": "4289",
+    "d1Id": "1121",
+    "planB": {
+      "rateTHBPOL": 3.81,
+      "cumulativePol": 0,
+      "requiredPol": 209.9738,
+      "remainingPol": 0,
+      "appendPol": 209.9738,
+      "checkPol": 209.9738,
+      "dateTime": "13/12/2025, 06:04:32"
+    }
+  },
+  {
+    "userId": "0x8929f5d005006d319479B7e325b17354bc2469B7",
+    "referrerId": "0x6A65bfc8b6BcA039070Ea7c9C9ba5e1E31B12b7F",
+    "name": "thinkrpulanramy2",
+    "tokenId": "4317",
+    "d1Id": "1122",
+    "planB": {
+      "rateTHBPOL": 3.81,
+      "cumulativePol": 0,
+      "requiredPol": 209.9738,
+      "remainingPol": 0,
+      "appendPol": 209.9738,
+      "checkPol": 209.9738,
+      "dateTime": "13/12/2025, 06:20:21"
+    }
+  },
+  {
+    "userId": "0x02b248be1772691912bfB5446E9824BBc6002658",
+    "referrerId": "0x6A65bfc8b6BcA039070Ea7c9C9ba5e1E31B12b7F",
+    "name": "nakhthxng300",
+    "tokenId": "4319",
+    "d1Id": "1123",
+    "planB": {
+      "rateTHBPOL": 3.81,
+      "cumulativePol": 0,
+      "requiredPol": 209.9738,
+      "remainingPol": 0,
+      "appendPol": 209.9738,
+      "checkPol": 209.9738,
+      "dateTime": "13/12/2025, 06:26:33"
+    }
+  },
+  {
+    "userId": "0xa3C71A928f5c8d814f87FF5576AA3e3D29BceDFb",
+    "referrerId": "0x69EBf3a9ded82270F67f2A4d6Ece1600a4F351D9",
+    "name": "dr.aswin2506",
+    "tokenId": "4642",
+    "d1Id": "1124",
+    "planB": {
+      "rateTHBPOL": 7.58,
+      "cumulativePol": 0.104,
+      "requiredPol": 105.5409,
+      "remainingPol": 0.064,
+      "appendPol": 105.5009,
+      "checkPol": 105.5009,
+      "dateTime": "09/10/2025, 09:52:18"
+    }
+  },
+  {
+    "userId": "0xf7BDE546b72C7F2335D9627c299ca9A2A2fdfB99",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "onrlysamui",
+    "tokenId": "4707",
+    "d1Id": "1125",
+    "planB": {
+      "rateTHBPOL": 3.97,
+      "cumulativePol": 2.0655,
+      "requiredPol": 201.5113,
+      "remainingPol": 0.0655,
+      "appendPol": 199.5113,
+      "checkPol": 199.5113,
+      "dateTime": "09/12/2025, 03:37:40"
+    }
+  },
+  {
+    "userId": "0x3831C259dDca5cF0E77fE4a5Ed42237906634215",
+    "referrerId": "0x470bA740a60d059eb349654359Caa7Eb0B2258Df",
+    "name": "nopparat5k4",
+    "tokenId": "4952",
+    "d1Id": "1126",
+    "planB": {
+      "rateTHBPOL": 4.08,
+      "cumulativePol": 0.1025,
+      "requiredPol": 196.0784,
+      "remainingPol": 0.0625,
+      "appendPol": 196.0384,
+      "checkPol": 196.0384,
+      "dateTime": "07/12/2025, 11:31:11"
+    }
+  },
+  {
+    "userId": "0x3A26819Bc367E91F8c1B3e920C2d3f65D8653146",
+    "referrerId": "0xC6B58af3e168a9E1a35eA38135239Ed51Cb58B5F",
+    "name": "thnawant062",
+    "tokenId": "5044",
+    "d1Id": "1127",
+    "planB": {
+      "rateTHBPOL": 3.653,
+      "cumulativePol": 0,
+      "requiredPol": 219,
+      "remainingPol": 0,
+      "appendPol": 219,
+      "checkPol": 219,
+      "dateTime": "15/12/2025, 20:35:16"
+    }
+  },
+  {
+    "userId": "0x2fC269f6473F0e4cA3d1f3Cf32268D48B0791e1D",
+    "referrerId": "0xC5C847848EeA77992e65D98Ea80672de4b4dBAaa",
+    "name": "pekki3725",
+    "tokenId": "5124",
+    "d1Id": "1128",
+    "planB": {
+      "rateTHBPOL": 3.84,
+      "cumulativePol": 0,
+      "requiredPol": 208.3333,
+      "remainingPol": 0,
+      "appendPol": 208.3333,
+      "checkPol": 208.3333,
+      "dateTime": "14/12/2025, 07:34:03"
+    }
+  },
+  {
+    "userId": "0xCF6606DfE4AE44eE7BBC67Ed4fE355c7f6c9f4c5",
+    "referrerId": "0xC4883E1Fc4c52b2641a26D3561cca3714c74d776",
+    "name": "thiphawan652",
+    "tokenId": "5442",
+    "d1Id": "1129",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 0.1045,
+      "requiredPol": 243.9024,
+      "remainingPol": 0,
+      "appendPol": 243.7979,
+      "checkPol": 243.7979,
+      "dateTime": "25/12/2025, 11:04:24"
+    }
+  },
+  {
+    "userId": "0x22c44bA2632A89A24A9D032716acf6Ec3C7b902E",
+    "referrerId": "0xDf6c053c3dc20167EB00b171Df8f77485604c890",
+    "name": "p7324229",
+    "tokenId": "5623",
+    "d1Id": "1130",
+    "planB": {
+      "rateTHBPOL": 3.84,
+      "cumulativePol": 0,
+      "requiredPol": 208.3333,
+      "remainingPol": 0,
+      "appendPol": 208.3333,
+      "checkPol": 208.3333,
+      "dateTime": "14/12/2025, 07:50:30"
+    }
+  },
+  {
+    "userId": "0xD61e13501b6a2af7687f6f9fB310F7FBAA6aae7c",
+    "referrerId": "0xFED03a2637E7Fd6991d4de79304cd039C0128abE",
+    "name": "wiratnpa87",
+    "tokenId": "5953",
+    "d1Id": "1131",
+    "planB": {
+      "rateTHBPOL": 5.85,
+      "cumulativePol": 0.956,
+      "requiredPol": 136.7521,
+      "remainingPol": 0.076,
+      "appendPol": 135.8721,
+      "checkPol": 135.8721,
+      "dateTime": "17/10/2025, 07:03:46"
+    }
+  },
+  {
+    "userId": "0xbaB1f729C28c1243055e6171Cf8aF3A58649C163",
+    "referrerId": "0xbc99Ff8935A4383C6Ad0da4416A654f8153D6119",
+    "name": "luan1234leo",
+    "tokenId": "6221",
+    "d1Id": "1132",
+    "planB": {
+      "rateTHBPOL": 5.41,
+      "cumulativePol": 0.11,
+      "requiredPol": 147.8743,
+      "remainingPol": 0.07,
+      "appendPol": 147.8343,
+      "checkPol": 147.8343,
+      "dateTime": "07/11/2025, 08:45:44"
+    }
+  },
+  {
+    "userId": "0x64D1e1eb1f613f71F0EDDFABE3141E4377e1c7C2",
+    "referrerId": "0x470bA740a60d059eb349654359Caa7Eb0B2258Df",
+    "name": "waraphon.npr",
+    "tokenId": "6418",
+    "d1Id": "1133",
+    "planB": {
+      "rateTHBPOL": 3.7,
+      "cumulativePol": 0,
+      "requiredPol": 216.2162,
+      "remainingPol": 0,
+      "appendPol": 216.2162,
+      "checkPol": 216.2162,
+      "dateTime": "15/12/2025, 01:42:46"
+    }
+  },
+  {
+    "userId": "0xf8A238Bd52d5e05c34113b416Ee7731c76F00FFD",
+    "referrerId": "0x6c228189509b77655c0F77A6e0bc0a9c27F7712A",
+    "name": "patinyarsut",
+    "tokenId": "6554",
+    "d1Id": "1134",
+    "planB": {
+      "rateTHBPOL": 3.4,
+      "cumulativePol": 0,
+      "requiredPol": 235.2941,
+      "remainingPol": 0,
+      "appendPol": 235.2941,
+      "checkPol": 235.2941,
+      "dateTime": "20/12/2025, 07:50:35"
+    }
+  },
+  {
+    "userId": "0x7A36148dfc75fD1804fBB9d6AE55730Ce7Cb5ebD",
+    "referrerId": "0xE391f95065584715e1dB6dbc32b131722A6fa043",
+    "name": "sisopa516",
+    "tokenId": "7452",
+    "d1Id": "1135",
+    "planB": {
+      "rateTHBPOL": 3.84,
+      "cumulativePol": 0,
+      "requiredPol": 208.3333,
+      "remainingPol": 0,
+      "appendPol": 208.3333,
+      "checkPol": 208.3333,
+      "dateTime": "14/12/2025, 07:53:50"
+    }
+  },
+  {
+    "userId": "0x2a02974D96B8FFEbdd3045A11b9Da466Ec7d71cD",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut76161",
+    "tokenId": "7673",
+    "d1Id": "1136",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 05:25:44"
+    }
+  },
+  {
+    "userId": "0x2476A8539bd2d5d0CDCdAF340c58f9A67BA4A4AE",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut615117",
+    "tokenId": "7674",
+    "d1Id": "1137",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 08:53:11"
+    }
+  },
+  {
+    "userId": "0xdEA40B0a92A1B4f2bF4010c397260dcffCb3aB0e",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut70293",
+    "tokenId": "7675",
+    "d1Id": "1138",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 09:08:40"
+    }
+  },
+  {
+    "userId": "0xF71CA5806B3aF946A9C4c728f6F4132F93cb1FD3",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "ayootaya513",
+    "tokenId": "7677",
+    "d1Id": "1139",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 09:34:10"
+    }
+  },
+  {
+    "userId": "0xdA16087Dc420eA8911b77D99B48885ae3B4a8e71",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut833465",
+    "tokenId": "7678",
+    "d1Id": "1140",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 09:43:48"
+    }
+  },
+  {
+    "userId": "0x2e41383635Cd88ec117327f69465b4fa98bEE76d",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut85514",
+    "tokenId": "7680",
+    "d1Id": "1141",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 09:52:02"
+    }
+  },
+  {
+    "userId": "0xA041041Fff61B2e5CEDe87d1b9cb1797f7d22c8C",
+    "referrerId": "0x51B78D9B758e4445f5b56D5B367B94e73566a892",
+    "name": "timy4536",
+    "tokenId": "7905",
+    "d1Id": "1142",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 07:56:37"
+    }
+  },
+  {
+    "userId": "0x8DC8491ebe90c6eb6EE6b48058298Ac7a9488B79",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut92195",
+    "tokenId": "7907",
+    "d1Id": "1143",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 09:58:11"
+    }
+  },
+  {
+    "userId": "0xd9e489f8eA4c93F38a6a60E2e3aE6873e0fB43F4",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut946914",
+    "tokenId": "7908",
+    "d1Id": "1144",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 10:05:17"
+    }
+  },
+  {
+    "userId": "0xE616Cd342d5651725F4ECDaC18dE06199e4761D1",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut32820",
+    "tokenId": "7909",
+    "d1Id": "1145",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 10:22:35"
+    }
+  },
+  {
+    "userId": "0x7e75B3d06f4E0FE08a66e3374335Db05daAFccA9",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut001678",
+    "tokenId": "7912",
+    "d1Id": "1146",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 10:28:38"
+    }
+  },
+  {
+    "userId": "0xc7F8c9529C8ec9b94dbCeD998b4e67a1E3AA95Cb",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut69404",
+    "tokenId": "7913",
+    "d1Id": "1147",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 10:33:53"
+    }
+  },
+  {
+    "userId": "0x3Ee34F878ec2ACeB3Ea3E215776aa7da4bd224DD",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut398858",
+    "tokenId": "7916",
+    "d1Id": "1148",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 10:48:46"
+    }
+  },
+  {
+    "userId": "0x29d23550e45867559bC2d19De8Ae0a9C42c6AD00",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "a69370412",
+    "tokenId": "7918",
+    "d1Id": "1149",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 10:58:08"
+    }
+  },
+  {
+    "userId": "0x9BD0Ed42583863050C3E8ed340DFb0C91Cd916d3",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut16377",
+    "tokenId": "7920",
+    "d1Id": "1150",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 11:03:42"
+    }
+  },
+  {
+    "userId": "0x6396AA41B150341Fc7eBD0cb4cd4E3AE694F9E49",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut355422",
+    "tokenId": "7921",
+    "d1Id": "1151",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 11:09:38"
+    }
+  },
+  {
+    "userId": "0xa769039a0AF7338047FD59b383dDd2B9A6466B8E",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut491039",
+    "tokenId": "7923",
+    "d1Id": "1152",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 11:18:38"
+    }
+  },
+  {
+    "userId": "0xBF3d6c1109bcf8D0ECc6F38ccB97F77bA86Fc3D3",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut88601",
+    "tokenId": "7924",
+    "d1Id": "1153",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 11:24:29"
+    }
+  },
+  {
+    "userId": "0x248AB48dadC4aA6C112FD968A9A7950DCeca05f5",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut4485",
+    "tokenId": "7928",
+    "d1Id": "1154",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 11:30:26"
+    }
+  },
+  {
+    "userId": "0xD6c05A6e2Dd34776Ae67265446F9ef46A936e0ae",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut32381",
+    "tokenId": "7936",
+    "d1Id": "1155",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 11:35:10"
+    }
+  },
+  {
+    "userId": "0xA28FA5562Ebd3Fa95Def3F6D13D0E363451A7e87",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut6746",
+    "tokenId": "7944",
+    "d1Id": "1156",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 03:45:48"
+    }
+  },
+  {
+    "userId": "0xF2090641532739060Bd40D085d694D48622d04CD",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut68242",
+    "tokenId": "7945",
+    "d1Id": "1157",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 03:55:07"
+    }
+  },
+  {
+    "userId": "0xCEd00fE5F97D83543Aa4A32Cc699218F4E308aEa",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut574490",
+    "tokenId": "7947",
+    "d1Id": "1158",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 04:00:39"
+    }
+  },
+  {
+    "userId": "0x00E4102b985Fa2b758ff036F3e1349e3Bab27B2A",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut7310",
+    "tokenId": "7953",
+    "d1Id": "1159",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 04:07:43"
+    }
+  },
+  {
+    "userId": "0x780f695478DcC61F375C88d99c21ee0F2A37eD22",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut466640",
+    "tokenId": "7954",
+    "d1Id": "1160",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 04:16:22"
+    }
+  },
+  {
+    "userId": "0xD11EC4a26075f7493db17f770083E4d7A5fE5334",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut469026",
+    "tokenId": "7956",
+    "d1Id": "1161",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 04:27:32"
+    }
+  },
+  {
+    "userId": "0x84091eb5922194F2854eB2047889eb23f1Dc7a92",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut3073",
+    "tokenId": "7957",
+    "d1Id": "1162",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 04:43:24"
+    }
+  },
+  {
+    "userId": "0xe07C5Fa7e21C49387b9EE2fD513e5314F2E8b3D9",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "a63425415",
+    "tokenId": "7959",
+    "d1Id": "1163",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 04:49:15"
+    }
+  },
+  {
+    "userId": "0xA3DE75B256EF92bFAfB8000F4b018d0FC148a1C8",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut515446",
+    "tokenId": "7962",
+    "d1Id": "1164",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 05:29:33"
+    }
+  },
+  {
+    "userId": "0xEa900f5c614fab66EF3B671C95af5dF7799031Ed",
+    "referrerId": "0x51B78D9B758e4445f5b56D5B367B94e73566a892",
+    "name": "tal012528",
+    "tokenId": "7980",
+    "d1Id": "1165",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 08:05:26"
+    }
+  },
+  {
+    "userId": "0xda88752db563338700C29dbaF7B9Dc03C1b3c407",
+    "referrerId": "0x51B78D9B758e4445f5b56D5B367B94e73566a892",
+    "name": "oud88639",
+    "tokenId": "8004",
+    "d1Id": "1166",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 08:11:20"
+    }
+  },
+  {
+    "userId": "0xC31C42A9Cb1bCa5A0fe1a4A1eB5cC625714CceAb",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut27326",
+    "tokenId": "8063",
+    "d1Id": "1167",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 06:36:15"
+    }
+  },
+  {
+    "userId": "0x38593631D4420C5481097b30a177B86163FD5C8D",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut474362",
+    "tokenId": "8065",
+    "d1Id": "1168",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 07:58:51"
+    }
+  },
+  {
+    "userId": "0x230cF30556923Ceb1b63509BefAC071f79047ab4",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut058198",
+    "tokenId": "8066",
+    "d1Id": "1169",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 08:05:51"
+    }
+  },
+  {
+    "userId": "0x233A329F3844690b47F085785e69AC927E79Ac11",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut61138",
+    "tokenId": "8068",
+    "d1Id": "1170",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 08:11:48"
+    }
+  },
+  {
+    "userId": "0x62A7dB46e91E10731a77d3487c76E34491860ed9",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "a77370381",
+    "tokenId": "8071",
+    "d1Id": "1171",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 08:17:51"
+    }
+  },
+  {
+    "userId": "0x2981CE9DF637Cf53d1D8f8A20a7A00bA202b3a3a",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut9608",
+    "tokenId": "8072",
+    "d1Id": "1172",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 08:23:51"
+    }
+  },
+  {
+    "userId": "0xBE424113351808D5684f991d8a6B24CD7C0b303B",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut3252",
+    "tokenId": "8073",
+    "d1Id": "1173",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 08:29:20"
+    }
+  },
+  {
+    "userId": "0xD8E0FE31D7d7379642d8F7dAb0C712ec05e907aC",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut31069",
+    "tokenId": "8076",
+    "d1Id": "1174",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 08:34:41"
+    }
+  },
+  {
+    "userId": "0x7E823C5DFDCa4110BaFeE6dbB93e6C5F6362f195",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut453940",
+    "tokenId": "8077",
+    "d1Id": "1175",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 08:40:02"
+    }
+  },
+  {
+    "userId": "0xf95FBFc03B79f20F4913Bc8e992774E7CF6E34FE",
+    "referrerId": "0x1daf3f550AC5dE117C1E562593759C89009706b4",
+    "name": "aut76600",
+    "tokenId": "8078",
+    "d1Id": "1176",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 08:46:57"
+    }
+  },
+  {
+    "userId": "0x718663cA16c4391b8F77fDF9e4fFf53cBf8E89e9",
+    "referrerId": "0x51B78D9B758e4445f5b56D5B367B94e73566a892",
+    "name": "pear3905",
+    "tokenId": "8149",
+    "d1Id": "1177",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 08:27:17"
+    }
+  },
+  {
+    "userId": "0xEEc869bB74cBC0aaBB5E08643B9207b7A5299Cf7",
+    "referrerId": "0xE3d3642A18692074E1a18B30Dee5A9471eeB10e3",
+    "name": "qeentum304",
+    "tokenId": "8153",
+    "d1Id": "1178",
+    "planB": {
+      "rateTHBPOL": 3.84,
+      "cumulativePol": 0,
+      "requiredPol": 208.3333,
+      "remainingPol": 0,
+      "appendPol": 208.3333,
+      "checkPol": 208.3333,
+      "dateTime": "14/12/2025, 10:43:11"
+    }
+  },
+  {
+    "userId": "0x14E34746128De9345e54aa64c03CbE51757e5672",
+    "referrerId": "0xE3d3642A18692074E1a18B30Dee5A9471eeB10e3",
+    "name": "wromfrom",
+    "tokenId": "8155",
+    "d1Id": "1179",
+    "planB": {
+      "rateTHBPOL": 3.84,
+      "cumulativePol": 0,
+      "requiredPol": 208.3333,
+      "remainingPol": 0,
+      "appendPol": 208.3333,
+      "checkPol": 208.3333,
+      "dateTime": "14/12/2025, 10:57:54"
+    }
+  },
+  {
+    "userId": "0xd0D18252e18a383318ccC464b2d7c8de893b77aC",
+    "referrerId": "0xE3d3642A18692074E1a18B30Dee5A9471eeB10e3",
+    "name": "tesaetu",
+    "tokenId": "8156",
+    "d1Id": "1180",
+    "planB": {
+      "rateTHBPOL": 3.84,
+      "cumulativePol": 0,
+      "requiredPol": 208.3333,
+      "remainingPol": 0,
+      "appendPol": 208.3333,
+      "checkPol": 208.3333,
+      "dateTime": "14/12/2025, 11:06:45"
+    }
+  },
+  {
+    "userId": "0x9FAC8412dC19254F6916C06E461a2C48B54a6e25",
+    "referrerId": "0xd409d50723CE0aDB479807b34D8AfE87e7630AeD",
+    "name": "ol0124541",
+    "tokenId": "8713",
+    "d1Id": "1181",
+    "planB": {
+      "rateTHBPOL": 4.08,
+      "cumulativePol": 0,
+      "requiredPol": 196.0784,
+      "remainingPol": 0,
+      "appendPol": 196.0784,
+      "checkPol": 196.0784,
+      "dateTime": "07/12/2025, 15:01:49"
+    }
+  },
+  {
+    "userId": "0x7d62b522Db736cE41D101B314aEfB8ab13900C51",
+    "referrerId": "0xd409d50723CE0aDB479807b34D8AfE87e7630AeD",
+    "name": "laop40017",
+    "tokenId": "8725",
+    "d1Id": "1182",
+    "planB": {
+      "rateTHBPOL": 4.08,
+      "cumulativePol": 0,
+      "requiredPol": 196.0784,
+      "remainingPol": 0,
+      "appendPol": 196.0784,
+      "checkPol": 196.0784,
+      "dateTime": "07/12/2025, 14:50:10"
+    }
+  },
+  {
+    "userId": "0x62a3da87391FE8a097CAf4526c94e1038E8470a5",
+    "referrerId": "0xd409d50723CE0aDB479807b34D8AfE87e7630AeD",
+    "name": "laland2505",
+    "tokenId": "8726",
+    "d1Id": "1183",
+    "planB": {
+      "rateTHBPOL": 4.08,
+      "cumulativePol": 0,
+      "requiredPol": 196.0784,
+      "remainingPol": 0,
+      "appendPol": 196.0784,
+      "checkPol": 196.0784,
+      "dateTime": "07/12/2025, 12:49:46"
+    }
+  },
+  {
+    "userId": "0xFc9D81d2bF3291BbeF31f5189415f74Bc35a5EC0",
+    "referrerId": "0xd409d50723CE0aDB479807b34D8AfE87e7630AeD",
+    "name": "galee1566",
+    "tokenId": "8979",
+    "d1Id": "1184",
+    "planB": {
+      "rateTHBPOL": 4.08,
+      "cumulativePol": 0,
+      "requiredPol": 196.0784,
+      "remainingPol": 0,
+      "appendPol": 196.0784,
+      "checkPol": 196.0784,
+      "dateTime": "07/12/2025, 08:33:58"
+    }
+  },
+  {
+    "userId": "0x0744008FdF2c16de7D26C1BD628132c2bc6f03da",
+    "referrerId": "0x26638Aeda2df3c49f03765A5E235D01b5A6aBff5",
+    "name": "kaeyingyai99",
+    "tokenId": "9100",
+    "d1Id": "1185",
+    "planB": {
+      "rateTHBPOL": 7.58,
+      "cumulativePol": 0,
+      "requiredPol": 105.5409,
+      "remainingPol": 0,
+      "appendPol": 105.5409,
+      "checkPol": 105.5409,
+      "dateTime": "09/10/2025, 09:43:33"
+    }
+  },
+  {
+    "userId": "0x5E24a0FEec388C7A415C883c6379d77F675cCA00",
+    "referrerId": "0xA5345C87839A86a81aaB3c4bb7Ca51D0fD723794",
+    "name": "bubugrace33",
+    "tokenId": "9320",
+    "d1Id": "1186",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 0,
+      "requiredPol": 243.9024,
+      "remainingPol": 0,
+      "appendPol": 243.9024,
+      "checkPol": 243.9024,
+      "dateTime": "19/12/2025, 15:01:23"
+    }
+  },
+  {
+    "userId": "0x1067E0c803a186264D3a022999bf55bEc70265f0",
+    "referrerId": "0xA5345C87839A86a81aaB3c4bb7Ca51D0fD723794",
+    "name": "bubugrace323",
+    "tokenId": "9322",
+    "d1Id": "1187",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 0,
+      "requiredPol": 243.9024,
+      "remainingPol": 0,
+      "appendPol": 243.9024,
+      "checkPol": 243.9024,
+      "dateTime": "19/12/2025, 15:26:27"
+    }
+  },
+  {
+    "userId": "0xc938F626E61AEA3d87F5C7cDFd6C394CD92278e8",
+    "referrerId": "0x418516201065D2954B3E5d2321a896f3A884c82e",
+    "name": "atikran156",
+    "tokenId": "9363",
+    "d1Id": "1188",
+    "planB": {
+      "rateTHBPOL": 3.9,
+      "cumulativePol": 0,
+      "requiredPol": 205.1282,
+      "remainingPol": 0,
+      "appendPol": 205.1282,
+      "checkPol": 205.1282,
+      "dateTime": "05/12/2025, 14:28:47"
+    }
+  },
+  {
+    "userId": "0x722F10816F55711D6F23B9866Bc9437B06193C81",
+    "referrerId": "0xA5345C87839A86a81aaB3c4bb7Ca51D0fD723794",
+    "name": "powerpig8824",
+    "tokenId": "9413",
+    "d1Id": "1189",
+    "planB": {
+      "rateTHBPOL": 5.7,
+      "cumulativePol": 0,
+      "requiredPol": 140.3509,
+      "remainingPol": 0,
+      "appendPol": 140.3509,
+      "checkPol": 140.3509,
+      "dateTime": "11/11/2025, 15:20:36"
+    }
+  },
+  {
+    "userId": "0xf40E4E8562bc919e4547c58E3e487Be3918f3c00",
+    "referrerId": "0xd409d50723CE0aDB479807b34D8AfE87e7630AeD",
+    "name": "mpp85492",
+    "tokenId": "9607",
+    "d1Id": "1190",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 0,
+      "requiredPol": 243.9024,
+      "remainingPol": 0,
+      "appendPol": 243.9024,
+      "checkPol": 243.9024,
+      "dateTime": "24/12/2025, 08:41:25"
+    }
+  },
+  {
+    "userId": "0xc63Ce8e18300fd7a66Ad0CDb11b364D254517627",
+    "referrerId": "0x6cDB4de63f7584D40CeAC2626B059Fa81Fc4263B",
+    "name": "t09092684",
+    "tokenId": "9904",
+    "d1Id": "1191",
+    "planB": {
+      "rateTHBPOL": 4.97,
+      "cumulativePol": 0,
+      "requiredPol": 160.9658,
+      "remainingPol": 0,
+      "appendPol": 160.9658,
+      "checkPol": 160.9658,
+      "dateTime": "15/11/2025, 08:29:57"
+    }
+  },
+  {
+    "userId": "0x7015b70063FCCaB6A98c82E151db6E7c75B3bd12",
+    "referrerId": "0xFaF694493E8b3286176b126e220a791B283DB0C6",
+    "name": "pathitta.mai28",
+    "tokenId": "10549",
+    "d1Id": "1192",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 05:40:21"
+    }
+  },
+  {
+    "userId": "0xCF4E9067cB12C345421098bA0F8CD3231e4B3Ca9",
+    "referrerId": "0x7dcC5e2950A3296B35387EceCd2AE93ec60484e9",
+    "name": "orasa5599",
+    "tokenId": "11227",
+    "d1Id": "1193",
+    "planB": {
+      "rateTHBPOL": 6.4516,
+      "cumulativePol": 0,
+      "requiredPol": 124,
+      "remainingPol": 0,
+      "appendPol": 124,
+      "checkPol": 124,
+      "dateTime": "27/10/2025, 06:34:51"
+    }
+  },
+  {
+    "userId": "0xf8AfB61454275eC333D09Ce443a950193b2125f1",
+    "referrerId": "0x7dcC5e2950A3296B35387EceCd2AE93ec60484e9",
+    "name": "rsaco5959",
+    "tokenId": "11228",
+    "d1Id": "1194",
+    "planB": {
+      "rateTHBPOL": 6.4516,
+      "cumulativePol": 0,
+      "requiredPol": 124,
+      "remainingPol": 0,
+      "appendPol": 124,
+      "checkPol": 124,
+      "dateTime": "27/10/2025, 15:03:06"
+    }
+  },
+  {
+    "userId": "0xEA0265C9eeC500B7baEf178F865E37BaB0Cbc7Ad",
+    "referrerId": "0x79Ccebc31C966d40Ed1ed1393603cd17471d66e2",
+    "name": "jongkollaba",
+    "tokenId": "11485",
+    "d1Id": "1195",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 134.6,
+      "requiredPol": 243.9024,
+      "remainingPol": 0,
+      "appendPol": 109.3024,
+      "checkPol": 109.3024,
+      "dateTime": "19/12/2025, 09:26:13"
+    }
+  },
+  {
+    "userId": "0x290fdE10fFC8452e2E5a87038a021365cFD9b03F",
+    "referrerId": "0xb1f3c7F832EA25440C7279D4CFa52F957D8b0936",
+    "name": "kobt70757",
+    "tokenId": "11778",
+    "d1Id": "1196",
+    "planB": {
+      "rateTHBPOL": 3.3,
+      "cumulativePol": 0,
+      "requiredPol": 242.4242,
+      "remainingPol": 0,
+      "appendPol": 242.4242,
+      "checkPol": 242.4242,
+      "dateTime": "26/12/2025, 02:53:50"
+    }
+  },
+  {
+    "userId": "0x84E26E67C3791F62f3Fa4Bd0E40864087366891E",
+    "referrerId": "0xd409d50723CE0aDB479807b34D8AfE87e7630AeD",
+    "name": "lalalove7171",
+    "tokenId": "11819",
+    "d1Id": "1197",
+    "planB": {
+      "rateTHBPOL": 3.52,
+      "cumulativePol": 0,
+      "requiredPol": 227.2727,
+      "remainingPol": 0,
+      "appendPol": 227.2727,
+      "checkPol": 227.2727,
+      "dateTime": "16/12/2025, 09:02:37"
+    }
+  },
+  {
+    "userId": "0xEc202f1714Aa0628F6E2949BE07C0BCC390431B0",
+    "referrerId": "0xd409d50723CE0aDB479807b34D8AfE87e7630AeD",
+    "name": "armandair39",
+    "tokenId": "11848",
+    "d1Id": "1198",
+    "planB": {
+      "rateTHBPOL": 3.4,
+      "cumulativePol": 0,
+      "requiredPol": 235.2941,
+      "remainingPol": 0,
+      "appendPol": 235.2941,
+      "checkPol": 235.2941,
+      "dateTime": "20/12/2025, 07:11:16"
+    }
+  },
+  {
+    "userId": "0xFAcb31EEc8e6dE993499348CF64ffD7F83Ce64C5",
+    "referrerId": "0xd409d50723CE0aDB479807b34D8AfE87e7630AeD",
+    "name": "lalalovelyza",
+    "tokenId": "11885",
+    "d1Id": "1199",
+    "planB": {
+      "rateTHBPOL": 3.52,
+      "cumulativePol": 0,
+      "requiredPol": 227.2727,
+      "remainingPol": 0,
+      "appendPol": 227.2727,
+      "checkPol": 227.2727,
+      "dateTime": "16/12/2025, 08:58:24"
+    }
+  },
+  {
+    "userId": "0x373F8587671076A1Da6B35407D92AFbc4FB4E4d3",
+    "referrerId": "0x15C67E830A61bD211D0a8E84244ce7aac591fB02",
+    "name": "bbum4158",
+    "tokenId": "11939",
+    "d1Id": "1200",
+    "planB": {
+      "rateTHBPOL": 6.28,
+      "cumulativePol": 0,
+      "requiredPol": 127.3885,
+      "remainingPol": 0,
+      "appendPol": 127.3885,
+      "checkPol": 127.3885,
+      "dateTime": "16/10/2025, 03:43:03"
+    }
+  },
+  {
+    "userId": "0xCc5959cB43E71B3317d17C3198303044F9552698",
+    "referrerId": "0x77a66893E2Be3E6BA9d86B2ba9B606620f699C50",
+    "name": "zaw060432",
+    "tokenId": "11969",
+    "d1Id": "1201",
+    "planB": {
+      "rateTHBPOL": 4.01,
+      "cumulativePol": 0,
+      "requiredPol": 199.5012,
+      "remainingPol": 0,
+      "appendPol": 199.5012,
+      "checkPol": 199.5012,
+      "dateTime": "05/12/2025, 02:32:54"
+    }
+  },
+  {
+    "userId": "0x0fE660a9F36DB09dd5830B48D4De92Cf18022617",
+    "referrerId": "0x9f40098899A03E1a400db33772cb81a7C4585133",
+    "name": "thaiger14021991",
+    "tokenId": "12176",
+    "d1Id": "1202",
+    "planB": {
+      "rateTHBPOL": 3.56,
+      "cumulativePol": 0,
+      "requiredPol": 224.7191,
+      "remainingPol": 0,
+      "appendPol": 224.7191,
+      "checkPol": 224.7191,
+      "dateTime": "17/12/2025, 06:39:09"
+    }
+  },
+  {
+    "userId": "0xB9734E680710aeFb4971cB5DF7369FF443d7Eff4",
+    "referrerId": "0x0c5982454739bdC7bd7E4A47DA169C6d90e1f509",
+    "name": "italianmode0",
+    "tokenId": "12284",
+    "d1Id": "1203",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 03:57:46"
+    }
+  },
+  {
+    "userId": "0x440c17466747a9099BfAa11959975337D4A95DC5",
+    "referrerId": "0x9f40098899A03E1a400db33772cb81a7C4585133",
+    "name": "jongmanee12345",
+    "tokenId": "12295",
+    "d1Id": "1204",
+    "planB": {
+      "rateTHBPOL": 5.4,
+      "cumulativePol": 0,
+      "requiredPol": 148.1481,
+      "remainingPol": 0,
+      "appendPol": 148.1481,
+      "checkPol": 148.1481,
+      "dateTime": "06/11/2025, 06:23:17"
+    }
+  },
+  {
+    "userId": "0x55b142312Daec66879FaC1c65ddEAcE7299D430f",
+    "referrerId": "0x77a66893E2Be3E6BA9d86B2ba9B606620f699C50",
+    "name": "oppolove8657",
+    "tokenId": "12309",
+    "d1Id": "1205",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 11:53:27"
+    }
+  },
+  {
+    "userId": "0xF1123ecdce7b1cbE90b7668Ef6D912A0F6aA0cf2",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "thanaboon964",
+    "tokenId": "12348",
+    "d1Id": "1206",
+    "planB": {
+      "rateTHBPOL": 4.9,
+      "cumulativePol": 0,
+      "requiredPol": 163.2653,
+      "remainingPol": 0,
+      "appendPol": 163.2653,
+      "checkPol": 163.2653,
+      "dateTime": "16/11/2025, 08:46:12"
+    }
+  },
+  {
+    "userId": "0x7Db6d6EA8F8CACcf7629c0b2E67B2897bf3dE264",
+    "referrerId": "0x79Ccebc31C966d40Ed1ed1393603cd17471d66e2",
+    "name": "preangrodjakkhen",
+    "tokenId": "12355",
+    "d1Id": "1207",
+    "planB": {
+      "rateTHBPOL": 6.09,
+      "cumulativePol": 0,
+      "requiredPol": 131.3629,
+      "remainingPol": 0,
+      "appendPol": 131.3629,
+      "checkPol": 131.3629,
+      "dateTime": "12/10/2025, 06:43:48"
+    }
+  },
+  {
+    "userId": "0x334A9b5a945a4aAEc0FB2C29b3F7499728f407A6",
+    "referrerId": "0xfA2ACB9B41bB218384A2771f8532cFb18e40e7a1",
+    "name": "BangkokCryp",
+    "tokenId": "12373",
+    "d1Id": "1208",
+    "planB": {
+      "rateTHBPOL": 3.56,
+      "cumulativePol": 1.3635,
+      "requiredPol": 224.7191,
+      "remainingPol": 0,
+      "appendPol": 223.3556,
+      "checkPol": 223.3556,
+      "dateTime": "16/12/2025, 16:24:14"
+    }
+  },
+  {
+    "userId": "0x1C8051073137F7428611dC3C1dc7B8cEF252957B",
+    "referrerId": "0xae06cB3272d7A52e15D4dE57A2BAb1586b3b5D96",
+    "name": "smayphi173",
+    "tokenId": "12393",
+    "d1Id": "1209",
+    "planB": {
+      "rateTHBPOL": 4.08,
+      "cumulativePol": 0,
+      "requiredPol": 196.0784,
+      "remainingPol": 0,
+      "appendPol": 196.0784,
+      "checkPol": 196.0784,
+      "dateTime": "07/12/2025, 08:30:34"
+    }
+  },
+  {
+    "userId": "0xf43560E002D5538a0280D36951293C53FD160b07",
+    "referrerId": "0xae06cB3272d7A52e15D4dE57A2BAb1586b3b5D96",
+    "name": "xsra27137",
+    "tokenId": "12394",
+    "d1Id": "1210",
+    "planB": {
+      "rateTHBPOL": 4.8,
+      "cumulativePol": 0,
+      "requiredPol": 166.6667,
+      "remainingPol": 0,
+      "appendPol": 166.6667,
+      "checkPol": 166.6667,
+      "dateTime": "21/11/2025, 13:07:38"
+    }
+  },
+  {
+    "userId": "0xDa96105A4db23aba13Db0c1756D82C4f380e0e61",
+    "referrerId": "0xae06cB3272d7A52e15D4dE57A2BAb1586b3b5D96",
+    "name": "rnpha3825",
+    "tokenId": "12395",
+    "d1Id": "1211",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 04:53:41"
+    }
+  },
+  {
+    "userId": "0x73CDBdc95D38C5F462c322Bb04375A41bd136d78",
+    "referrerId": "0xae06cB3272d7A52e15D4dE57A2BAb1586b3b5D96",
+    "name": "tces42846",
+    "tokenId": "12397",
+    "d1Id": "1212",
+    "planB": {
+      "rateTHBPOL": 4.08,
+      "cumulativePol": 0,
+      "requiredPol": 196.0784,
+      "remainingPol": 0,
+      "appendPol": 196.0784,
+      "checkPol": 196.0784,
+      "dateTime": "07/12/2025, 08:55:35"
+    }
+  },
+  {
+    "userId": "0x426F42344eF8745A325Db2ea955CA7f4ECaE2E32",
+    "referrerId": "0x9f40098899A03E1a400db33772cb81a7C4585133",
+    "name": "kamolrat.tri",
+    "tokenId": "12411",
+    "d1Id": "1213",
+    "planB": {
+      "rateTHBPOL": 5.92,
+      "cumulativePol": 0,
+      "requiredPol": 135.1351,
+      "remainingPol": 0,
+      "appendPol": 135.1351,
+      "checkPol": 135.1351,
+      "dateTime": "01/11/2025, 07:51:33"
+    }
+  },
+  {
+    "userId": "0x06Ff1035EE1E22d9bF7A0f3d35011b6095274f6a",
+    "referrerId": "0x426F42344eF8745A325Db2ea955CA7f4ECaE2E32",
+    "name": "typ03129",
+    "tokenId": "12412",
+    "d1Id": "1214",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 0,
+      "requiredPol": 243.9024,
+      "remainingPol": 0,
+      "appendPol": 243.9024,
+      "checkPol": 243.9024,
+      "dateTime": "19/12/2025, 08:34:48"
+    }
+  },
+  {
+    "userId": "0xbfE4cbBb4dAd64cc73A0A2ae9a8e19B4034710DC",
+    "referrerId": "0xEB0E9F66bB02779786475Ac89a94D2452A810789",
+    "name": "cintnaswydi630",
+    "tokenId": "12416",
+    "d1Id": "1215",
+    "planB": {
+      "rateTHBPOL": 6.28,
+      "cumulativePol": 0,
+      "requiredPol": 127.3885,
+      "remainingPol": 0,
+      "appendPol": 127.3885,
+      "checkPol": 127.3885,
+      "dateTime": "25/10/2025, 09:05:32"
+    }
+  },
+  {
+    "userId": "0x08a0DC33951196bdBcB7785cEA6f4464F0C548B7",
+    "referrerId": "0xCc5959cB43E71B3317d17C3198303044F9552698",
+    "name": "wincho5356",
+    "tokenId": "12423",
+    "d1Id": "1216",
+    "planB": {
+      "rateTHBPOL": 3.97,
+      "cumulativePol": 0,
+      "requiredPol": 201.5113,
+      "remainingPol": 0,
+      "appendPol": 201.5113,
+      "checkPol": 201.5113,
+      "dateTime": "10/12/2025, 11:53:13"
+    }
+  },
+  {
+    "userId": "0x31786A078BdA716eE305ed8f114339382b47162b",
+    "referrerId": "0xEbd93d528cBE04edb6f742047f3f6BEFcAd210D4",
+    "name": "nongyao.s1956",
+    "tokenId": "12424",
+    "d1Id": "1217",
+    "planB": {
+      "rateTHBPOL": 6.59,
+      "cumulativePol": 0,
+      "requiredPol": 121.3961,
+      "remainingPol": 0,
+      "appendPol": 121.3961,
+      "checkPol": 121.3961,
+      "dateTime": "14/10/2025, 04:41:38"
+    }
+  },
+  {
+    "userId": "0x5613e2a684c72b99a108526BD17B5512F0CF0945",
+    "referrerId": "0xC4883E1Fc4c52b2641a26D3561cca3714c74d776",
+    "name": "supanee86471",
+    "tokenId": "12425",
+    "d1Id": "1218",
+    "planB": {
+      "rateTHBPOL": 6.1,
+      "cumulativePol": 0,
+      "requiredPol": 131.1475,
+      "remainingPol": 0,
+      "appendPol": 131.1475,
+      "checkPol": 131.1475,
+      "dateTime": "30/10/2025, 08:10:08"
+    }
+  },
+  {
+    "userId": "0x47D58b9f0b92Fc322999Bd2D2d4AbD1F29eA276F",
+    "referrerId": "0x15C67E830A61bD211D0a8E84244ce7aac591fB02",
+    "name": "t9873425",
+    "tokenId": "12428",
+    "d1Id": "1219",
+    "planB": {
+      "rateTHBPOL": 6.29,
+      "cumulativePol": 0,
+      "requiredPol": 127.186,
+      "remainingPol": 0,
+      "appendPol": 127.186,
+      "checkPol": 127.186,
+      "dateTime": "16/10/2025, 03:46:55"
+    }
+  },
+  {
+    "userId": "0x75ab394d4F2Ae5E0BA1c4641F3d7EF0B1Bcfcc43",
+    "referrerId": "0x15C67E830A61bD211D0a8E84244ce7aac591fB02",
+    "name": "wika.property",
+    "tokenId": "12435",
+    "d1Id": "1220",
+    "planB": {
+      "rateTHBPOL": 6.26,
+      "cumulativePol": 0,
+      "requiredPol": 127.7955,
+      "remainingPol": 0,
+      "appendPol": 127.7955,
+      "checkPol": 127.7955,
+      "dateTime": "16/10/2025, 09:32:55"
+    }
+  },
+  {
+    "userId": "0xF501B99fb323A4E795ef1eb50011cCEee3663804",
+    "referrerId": "0x79Ccebc31C966d40Ed1ed1393603cd17471d66e2",
+    "name": "Mae Kratae",
+    "tokenId": "12476",
+    "d1Id": "1221",
+    "planB": {
+      "rateTHBPOL": 6.17,
+      "cumulativePol": 0,
+      "requiredPol": 129.6596,
+      "remainingPol": 0,
+      "appendPol": 129.6596,
+      "checkPol": 129.6596,
+      "dateTime": "02/11/2025, 14:03:34"
+    }
+  },
+  {
+    "userId": "0x493D2B71e9471E9E15de6F2e66CECAE086FE85eF",
+    "referrerId": "0x79Ccebc31C966d40Ed1ed1393603cd17471d66e2",
+    "name": "thanapon.kam242540",
+    "tokenId": "12493",
+    "d1Id": "1222",
+    "planB": {
+      "rateTHBPOL": 3.4,
+      "cumulativePol": 0,
+      "requiredPol": 235.2941,
+      "remainingPol": 0,
+      "appendPol": 235.2941,
+      "checkPol": 235.2941,
+      "dateTime": "20/12/2025, 10:15:19"
+    }
+  },
+  {
+    "userId": "0xd82d56E71Ff93ae93a195CB1f62ff3D806A10dC9",
+    "referrerId": "0xC4883E1Fc4c52b2641a26D3561cca3714c74d776",
+    "name": "aunyanat9581",
+    "tokenId": "12513",
+    "d1Id": "1223",
+    "planB": {
+      "rateTHBPOL": 6.4,
+      "cumulativePol": 0,
+      "requiredPol": 125,
+      "remainingPol": 0,
+      "appendPol": 125,
+      "checkPol": 125,
+      "dateTime": "28/10/2025, 03:52:18"
+    }
+  },
+  {
+    "userId": "0x5aa5919b1168E94911A3b1E747203Adeb1163E04",
+    "referrerId": "0xC4883E1Fc4c52b2641a26D3561cca3714c74d776",
+    "name": "arkomphimchangmai",
+    "tokenId": "12639",
+    "d1Id": "1224",
+    "planB": {
+      "rateTHBPOL": 5.98,
+      "cumulativePol": 0,
+      "requiredPol": 133.7793,
+      "remainingPol": 0,
+      "appendPol": 133.7793,
+      "checkPol": 133.7793,
+      "dateTime": "31/10/2025, 11:28:42"
+    }
+  },
+  {
+    "userId": "0xfb1528e5631A63f1413c7b6260497FFA7b5b2B80",
+    "referrerId": "0x6f1035f7DA66501F4C00D210BD9674b3e878b5f1",
+    "name": "wiwatchai8339",
+    "tokenId": "12650",
+    "d1Id": "1225",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 13:01:53"
+    }
+  },
+  {
+    "userId": "0x2e59250f1e48853511bbb41DF86e40e0Dbb4E316",
+    "referrerId": "0x79Ccebc31C966d40Ed1ed1393603cd17471d66e2",
+    "name": "jvhvbfh1",
+    "tokenId": "12652",
+    "d1Id": "1226",
+    "planB": {
+      "rateTHBPOL": 5.85,
+      "cumulativePol": 0,
+      "requiredPol": 136.7521,
+      "remainingPol": 0,
+      "appendPol": 136.7521,
+      "checkPol": 136.7521,
+      "dateTime": "11/11/2025, 03:03:21"
+    }
+  },
+  {
+    "userId": "0x0e2Ef3A03e0979278030Fd1e583bEfFAcBC72215",
+    "referrerId": "0x9f40098899A03E1a400db33772cb81a7C4585133",
+    "name": "xa.dpro5342",
+    "tokenId": "12899",
+    "d1Id": "1227",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 0,
+      "requiredPol": 243.9024,
+      "remainingPol": 0,
+      "appendPol": 243.9024,
+      "checkPol": 243.9024,
+      "dateTime": "19/12/2025, 11:40:40"
+    }
+  },
+  {
+    "userId": "0x0ecF2Daf190F84dAB811Fed0669667C29089DA5a",
+    "referrerId": "0xEB0E9F66bB02779786475Ac89a94D2452A810789",
+    "name": "phathompongsir",
+    "tokenId": "12938",
+    "d1Id": "1228",
+    "planB": {
+      "rateTHBPOL": 6.12,
+      "cumulativePol": 0,
+      "requiredPol": 130.719,
+      "remainingPol": 0,
+      "appendPol": 130.719,
+      "checkPol": 130.719,
+      "dateTime": "24/10/2025, 06:25:10"
+    }
+  },
+  {
+    "userId": "0xC1Ea85a4F081e4eeF7724892B9c0E3514dc3aa9A",
+    "referrerId": "0x9f40098899A03E1a400db33772cb81a7C4585133",
+    "name": "v.dpro6445",
+    "tokenId": "12977",
+    "d1Id": "1229",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 0,
+      "requiredPol": 243.9024,
+      "remainingPol": 0,
+      "appendPol": 243.9024,
+      "checkPol": 243.9024,
+      "dateTime": "19/12/2025, 11:04:52"
+    }
+  },
+  {
+    "userId": "0x1f7342DD169d01e00F9Ccc4a0fDa378490Dbd38e",
+    "referrerId": "0x9f40098899A03E1a400db33772cb81a7C4585133",
+    "name": "khunsa6445",
+    "tokenId": "13003",
+    "d1Id": "1230",
+    "planB": {
+      "rateTHBPOL": 3.53,
+      "cumulativePol": 0,
+      "requiredPol": 226.6289,
+      "remainingPol": 0,
+      "appendPol": 226.6289,
+      "checkPol": 226.6289,
+      "dateTime": "17/12/2025, 10:18:22"
+    }
+  },
+  {
+    "userId": "0x56629dBdC5bF84EF464D8B5C1ecce305f0a50aD9",
+    "referrerId": "0xEB0E9F66bB02779786475Ac89a94D2452A810789",
+    "name": "tashasomt",
+    "tokenId": "13027",
+    "d1Id": "1231",
+    "planB": {
+      "rateTHBPOL": 6.28,
+      "cumulativePol": 0,
+      "requiredPol": 127.3885,
+      "remainingPol": 0,
+      "appendPol": 127.3885,
+      "checkPol": 127.3885,
+      "dateTime": "25/10/2025, 09:30:45"
+    }
+  },
+  {
+    "userId": "0x90cd7365C0981b19fc0401b8309E908E2BE25836",
+    "referrerId": "0x8E04B6257Fa527350890A357e8647D3606b37B9F",
+    "name": "intiben2504",
+    "tokenId": "13061",
+    "d1Id": "1232",
+    "planB": {
+      "rateTHBPOL": 6.21,
+      "cumulativePol": 0,
+      "requiredPol": 128.8245,
+      "remainingPol": 0,
+      "appendPol": 128.8245,
+      "checkPol": 128.8245,
+      "dateTime": "26/10/2025, 10:07:56"
+    }
+  },
+  {
+    "userId": "0xFd6f482C9C37Ef144613435471Dc62320d89f451",
+    "referrerId": "0xa86101c5d542735a240951913672B586D9dA4300",
+    "name": "charoen220729",
+    "tokenId": "13067",
+    "d1Id": "1233",
+    "planB": {
+      "rateTHBPOL": 6.21,
+      "cumulativePol": 0,
+      "requiredPol": 128.8245,
+      "remainingPol": 0,
+      "appendPol": 128.8245,
+      "checkPol": 128.8245,
+      "dateTime": "26/10/2025, 10:59:23"
+    }
+  },
+  {
+    "userId": "0x130c8bc9e0c9e9a173dB6a704AA5155978345aE9",
+    "referrerId": "0xEB0E9F66bB02779786475Ac89a94D2452A810789",
+    "name": "kason242501",
+    "tokenId": "13094",
+    "d1Id": "1234",
+    "planB": {
+      "rateTHBPOL": 6.55,
+      "cumulativePol": 0,
+      "requiredPol": 122.1374,
+      "remainingPol": 0,
+      "appendPol": 122.1374,
+      "checkPol": 122.1374,
+      "dateTime": "27/10/2025, 09:08:21"
+    }
+  },
+  {
+    "userId": "0xB8Ceb804fe8742A347854Ea2EC1908F7BDc07ac2",
+    "referrerId": "0x1975a1C1841a4E91817e4c627d132cA229e27408",
+    "name": "reyapithchicha",
+    "tokenId": "13099",
+    "d1Id": "1235",
+    "planB": {
+      "rateTHBPOL": 3.8,
+      "cumulativePol": 0,
+      "requiredPol": 210.5263,
+      "remainingPol": 0,
+      "appendPol": 210.5263,
+      "checkPol": 210.5263,
+      "dateTime": "11/12/2025, 04:08:19"
+    }
+  },
+  {
+    "userId": "0xf835d5243E1584d6980dAB32AaBdE6D47834eA66",
+    "referrerId": "0x4073E2695d716491E7E8Db9Ae39bD541652e1bd9",
+    "name": "jrunee39",
+    "tokenId": "13151",
+    "d1Id": "1236",
+    "planB": {
+      "rateTHBPOL": 3.6364,
+      "cumulativePol": 0,
+      "requiredPol": 220,
+      "remainingPol": 0,
+      "appendPol": 220,
+      "checkPol": 220,
+      "dateTime": "23/12/2025, 07:07:14"
+    }
+  },
+  {
+    "userId": "0xEb54223266C1B31Da6f4672225A73D65bA1f6Dfe",
+    "referrerId": "0x4073E2695d716491E7E8Db9Ae39bD541652e1bd9",
+    "name": "aree77889",
+    "tokenId": "13159",
+    "d1Id": "1237",
+    "planB": {
+      "rateTHBPOL": 3.6364,
+      "cumulativePol": 0,
+      "requiredPol": 220,
+      "remainingPol": 0,
+      "appendPol": 220,
+      "checkPol": 220,
+      "dateTime": "23/12/2025, 18:16:06"
+    }
+  },
+  {
+    "userId": "0x67487AC08D6e9006bd008dAd17A7a05B4968C32D",
+    "referrerId": "0x53f08624b7f219E8D340dE310302190d09253862",
+    "name": "vongpping",
+    "tokenId": "13626",
+    "d1Id": "1238",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 04:27:58"
+    }
+  },
+  {
+    "userId": "0xFB38A714d9BB3548dB8D8e2A67C8A11BF105EBd0",
+    "referrerId": "0x53f08624b7f219E8D340dE310302190d09253862",
+    "name": "pakpingkok",
+    "tokenId": "13627",
+    "d1Id": "1239",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 04:42:14"
+    }
+  },
+  {
+    "userId": "0xE1515F30D4088D10BcA32A1e4758A1Ef4d9eE901",
+    "referrerId": "0x53f08624b7f219E8D340dE310302190d09253862",
+    "name": "vongpping+1",
+    "tokenId": "13629",
+    "d1Id": "1240",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 04:34:04"
+    }
+  },
+  {
+    "userId": "0x6E9026d6EBEB80C23607E8f06bE6679405D7392d",
+    "referrerId": "0x53f08624b7f219E8D340dE310302190d09253862",
+    "name": "pakpingkok+1",
+    "tokenId": "13630",
+    "d1Id": "1241",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 04:46:16"
+    }
+  },
+  {
+    "userId": "0x86936F3b6e6A0c3d20E6cc49c4bfd63a6EC4Ec8e",
+    "referrerId": "0x53f08624b7f219E8D340dE310302190d09253862",
+    "name": "pakpingkok+3",
+    "tokenId": "13634",
+    "d1Id": "1242",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 04:54:10"
+    }
+  },
+  {
+    "userId": "0xDf0f80795A8AEa356F7447D6254a422f956202a3",
+    "referrerId": "0x53f08624b7f219E8D340dE310302190d09253862",
+    "name": "pak365578",
+    "tokenId": "13650",
+    "d1Id": "1243",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 05:00:32"
+    }
+  },
+  {
+    "userId": "0x2BB74352230421b9eDcc32D7d1c9aFDe4daEF254",
+    "referrerId": "0x53f08624b7f219E8D340dE310302190d09253862",
+    "name": "pak365578+1",
+    "tokenId": "13653",
+    "d1Id": "1244",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 05:05:47"
+    }
+  },
+  {
+    "userId": "0xC61E45aCeB97A2f010aD838326dD71629a66De8D",
+    "referrerId": "0x53f08624b7f219E8D340dE310302190d09253862",
+    "name": "hongpakki",
+    "tokenId": "13654",
+    "d1Id": "1245",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 05:10:29"
+    }
+  },
+  {
+    "userId": "0x489ab357a23667036cDBA5787088DE494FDe7cFB",
+    "referrerId": "0x53f08624b7f219E8D340dE310302190d09253862",
+    "name": "hongpakki+1",
+    "tokenId": "13657",
+    "d1Id": "1246",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "15/12/2025, 05:15:15"
+    }
+  },
+  {
+    "userId": "0x6D5F58718EF6428533e0cB09e008503348f050a6",
+    "referrerId": "0x53f08624b7f219E8D340dE310302190d09253862",
+    "name": "pakkivong",
+    "tokenId": "13704",
+    "d1Id": "1247",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 06:25:41"
+    }
+  },
+  {
+    "userId": "0xD234949CBCc9c06d00fF76574A233Fa8e5957ad1",
+    "referrerId": "0x53f08624b7f219E8D340dE310302190d09253862",
+    "name": "pakkivong+1",
+    "tokenId": "13705",
+    "d1Id": "1248",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 06:31:08"
+    }
+  },
+  {
+    "userId": "0x2E93A881018dA50658B4CAA90D8D2a5C338C6b79",
+    "referrerId": "0xB16561f9B71d9d784e7F8f344d979C5523522d5b",
+    "name": "preeyaphon1845+101",
+    "tokenId": "13753",
+    "d1Id": "1249",
+    "planB": {
+      "rateTHBPOL": 6.27,
+      "cumulativePol": 0,
+      "requiredPol": 127.5917,
+      "remainingPol": 0,
+      "appendPol": 127.5917,
+      "checkPol": 127.5917,
+      "dateTime": "29/10/2025, 15:12:27"
+    }
+  },
+  {
+    "userId": "0xf64990029138aFd3afD4016411240f8a88B13595",
+    "referrerId": "0x8E04B6257Fa527350890A357e8647D3606b37B9F",
+    "name": "paichai229",
+    "tokenId": "13922",
+    "d1Id": "1250",
+    "planB": {
+      "rateTHBPOL": 5.98,
+      "cumulativePol": 0,
+      "requiredPol": 133.7793,
+      "remainingPol": 0,
+      "appendPol": 133.7793,
+      "checkPol": 133.7793,
+      "dateTime": "31/10/2025, 10:04:25"
+    }
+  },
+  {
+    "userId": "0x43F71E3f85c7689E61d59a184DC6FC88c9A94d32",
+    "referrerId": "0x8E04B6257Fa527350890A357e8647D3606b37B9F",
+    "name": "happynewlife.789",
+    "tokenId": "13924",
+    "d1Id": "1251",
+    "planB": {
+      "rateTHBPOL": 5.98,
+      "cumulativePol": 0,
+      "requiredPol": 133.7793,
+      "remainingPol": 0,
+      "appendPol": 133.7793,
+      "checkPol": 133.7793,
+      "dateTime": "31/10/2025, 09:50:48"
+    }
+  },
+  {
+    "userId": "0x0ec530C73Fa514ce66388aCb88e3719A905A1613",
+    "referrerId": "0xeB7fB4dbA64D054600de46D11fed06Cfd1Ae3cED",
+    "name": "jamsri389",
+    "tokenId": "13926",
+    "d1Id": "1252",
+    "planB": {
+      "rateTHBPOL": 5.98,
+      "cumulativePol": 0,
+      "requiredPol": 133.7793,
+      "remainingPol": 0,
+      "appendPol": 133.7793,
+      "checkPol": 133.7793,
+      "dateTime": "01/11/2025, 15:51:36"
+    }
+  },
+  {
+    "userId": "0x6CfD269336f10548607156490f34B2bbbf0f4dF7",
+    "referrerId": "0xDb6D6AAc402E5281f2BDA47e56e05349621b1346",
+    "name": "wwithiyuthth",
+    "tokenId": "13928",
+    "d1Id": "1253",
+    "planB": {
+      "rateTHBPOL": 4.08,
+      "cumulativePol": 0,
+      "requiredPol": 196.0784,
+      "remainingPol": 0,
+      "appendPol": 196.0784,
+      "checkPol": 196.0784,
+      "dateTime": "06/12/2025, 11:59:29"
+    }
+  },
+  {
+    "userId": "0x3247f0a0429ABD03E356Fb14CAbdFF9A4DEac7a7",
+    "referrerId": "0x8972992cA7D4Bc0D7e935Bd6d8F200ab79Ec49c1",
+    "name": "orawadeeboonrod497",
+    "tokenId": "13929",
+    "d1Id": "1254",
+    "planB": {
+      "rateTHBPOL": 6.05,
+      "cumulativePol": 0,
+      "requiredPol": 132.2314,
+      "remainingPol": 0,
+      "appendPol": 132.2314,
+      "checkPol": 132.2314,
+      "dateTime": "03/11/2025, 02:00:11"
+    }
+  },
+  {
+    "userId": "0xa2a997D8A63C3817235892158A1993462dDCd415",
+    "referrerId": "0x3247f0a0429ABD03E356Fb14CAbdFF9A4DEac7a7",
+    "name": "kpawinee002",
+    "tokenId": "13931",
+    "d1Id": "1255",
+    "planB": {
+      "rateTHBPOL": 6.05,
+      "cumulativePol": 0,
+      "requiredPol": 132.2314,
+      "remainingPol": 0,
+      "appendPol": 132.2314,
+      "checkPol": 132.2314,
+      "dateTime": "03/11/2025, 02:14:58"
+    }
+  },
+  {
+    "userId": "0x7bE6258d01B3E620948FE256dA978c3373C6e557",
+    "referrerId": "0x3247f0a0429ABD03E356Fb14CAbdFF9A4DEac7a7",
+    "name": "doungnat1966",
+    "tokenId": "13934",
+    "d1Id": "1256",
+    "planB": {
+      "rateTHBPOL": 5.92,
+      "cumulativePol": 0,
+      "requiredPol": 135.1351,
+      "remainingPol": 0,
+      "appendPol": 135.1351,
+      "checkPol": 135.1351,
+      "dateTime": "03/11/2025, 03:04:32"
+    }
+  },
+  {
+    "userId": "0x36C6d2BC8c8F240d76A82cbeA67FCEf09d1E728d",
+    "referrerId": "0x3247f0a0429ABD03E356Fb14CAbdFF9A4DEac7a7",
+    "name": "rawankusaka123",
+    "tokenId": "13936",
+    "d1Id": "1257",
+    "planB": {
+      "rateTHBPOL": 5.92,
+      "cumulativePol": 0,
+      "requiredPol": 135.1351,
+      "remainingPol": 0,
+      "appendPol": 135.1351,
+      "checkPol": 135.1351,
+      "dateTime": "03/11/2025, 03:37:17"
+    }
+  },
+  {
+    "userId": "0x245b401aC09906D124fD0b5307Ab21602B993b27",
+    "referrerId": "0xDb6D6AAc402E5281f2BDA47e56e05349621b1346",
+    "name": "sunets1963",
+    "tokenId": "14119",
+    "d1Id": "1258",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 12:20:49"
+    }
+  },
+  {
+    "userId": "0x857db8a33A4DaD421Da62d98fce09A3F20464cE4",
+    "referrerId": "0x8dB22A5dD5a630bD747BbB344A18C8Ad4313742E",
+    "name": "suwannee.tanlang",
+    "tokenId": "14124",
+    "d1Id": "1259",
+    "planB": {
+      "rateTHBPOL": 5.25,
+      "cumulativePol": 0,
+      "requiredPol": 152.381,
+      "remainingPol": 0,
+      "appendPol": 152.381,
+      "checkPol": 152.381,
+      "dateTime": "05/11/2025, 08:07:55"
+    }
+  },
+  {
+    "userId": "0x58265f00E2b34885Fe1472baBd83E5BA45eaf61f",
+    "referrerId": "0xB16561f9B71d9d784e7F8f344d979C5523522d5b",
+    "name": "preeyaphon1960",
+    "tokenId": "14289",
+    "d1Id": "1260",
+    "planB": {
+      "rateTHBPOL": 4.01,
+      "cumulativePol": 0,
+      "requiredPol": 199.5012,
+      "remainingPol": 0,
+      "appendPol": 199.5012,
+      "checkPol": 199.5012,
+      "dateTime": "05/12/2025, 09:50:42"
+    }
+  },
+  {
+    "userId": "0x01770893cd35A7f9c7c9b96FE974fF242a0f20da",
+    "referrerId": "0x1fe03Bf6bAAfB29961419daAd33a83C55B7Ae5Fb",
+    "name": "rindaka58",
+    "tokenId": "14310",
+    "d1Id": "1261",
+    "planB": {
+      "rateTHBPOL": 5.89,
+      "cumulativePol": 0,
+      "requiredPol": 135.8234,
+      "remainingPol": 0,
+      "appendPol": 135.8234,
+      "checkPol": 135.8234,
+      "dateTime": "08/11/2025, 03:06:01"
+    }
+  },
+  {
+    "userId": "0x88432B7445DddC538c19FabD22CCfdeAd5ACAB63",
+    "referrerId": "0x7Db6d6EA8F8CACcf7629c0b2E67B2897bf3dE264",
+    "name": "narongsakkhamthala2520",
+    "tokenId": "14370",
+    "d1Id": "1262",
+    "planB": {
+      "rateTHBPOL": 5.8,
+      "cumulativePol": 0,
+      "requiredPol": 137.931,
+      "remainingPol": 0,
+      "appendPol": 137.931,
+      "checkPol": 137.931,
+      "dateTime": "10/11/2025, 03:18:59"
+    }
+  },
+  {
+    "userId": "0xb496efCCCBb43208A142C878110cdc8f8e72331d",
+    "referrerId": "0xA5345C87839A86a81aaB3c4bb7Ca51D0fD723794",
+    "name": "prasit61434",
+    "tokenId": "14376",
+    "d1Id": "1263",
+    "planB": {
+      "rateTHBPOL": 5.8,
+      "cumulativePol": 0,
+      "requiredPol": 137.931,
+      "remainingPol": 0,
+      "appendPol": 137.931,
+      "checkPol": 137.931,
+      "dateTime": "10/11/2025, 05:39:54"
+    }
+  },
+  {
+    "userId": "0x1a8F0873956c5D8be3Db38e3A0a01A7998292b19",
+    "referrerId": "0x8E04B6257Fa527350890A357e8647D3606b37B9F",
+    "name": "chayphvksxxd",
+    "tokenId": "14675",
+    "d1Id": "1264",
+    "planB": {
+      "rateTHBPOL": 4.8,
+      "cumulativePol": 0,
+      "requiredPol": 166.6667,
+      "remainingPol": 0,
+      "appendPol": 166.6667,
+      "checkPol": 166.6667,
+      "dateTime": "17/11/2025, 08:40:34"
+    }
+  },
+  {
+    "userId": "0xf82624CA13A539dA9546Cf2e05e0261DB5d6CdDE",
+    "referrerId": "0x8E04B6257Fa527350890A357e8647D3606b37B9F",
+    "name": "boonchoo12131415",
+    "tokenId": "14676",
+    "d1Id": "1265",
+    "planB": {
+      "rateTHBPOL": 4.7,
+      "cumulativePol": 0,
+      "requiredPol": 170.2128,
+      "remainingPol": 0,
+      "appendPol": 170.2128,
+      "checkPol": 170.2128,
+      "dateTime": "18/11/2025, 06:04:26"
+    }
+  },
+  {
+    "userId": "0xEB3f6b2c15039b0F0A8f0C7edccF75223bfB2D33",
+    "referrerId": "0xF1123ecdce7b1cbE90b7668Ef6D912A0F6aA0cf2",
+    "name": "chaniphakhawkhawong",
+    "tokenId": "14683",
+    "d1Id": "1266",
+    "planB": {
+      "rateTHBPOL": 4.35,
+      "cumulativePol": 0,
+      "requiredPol": 183.908,
+      "remainingPol": 0,
+      "appendPol": 183.908,
+      "checkPol": 183.908,
+      "dateTime": "29/11/2025, 08:32:02"
+    }
+  },
+  {
+    "userId": "0x6F13195f09Cfe8558590F70cD84Da16707F6112c",
+    "referrerId": "0xF1123ecdce7b1cbE90b7668Ef6D912A0F6aA0cf2",
+    "name": "kanjanesssongsri",
+    "tokenId": "14684",
+    "d1Id": "1267",
+    "planB": {
+      "rateTHBPOL": 4.08,
+      "cumulativePol": 0,
+      "requiredPol": 196.0784,
+      "remainingPol": 0,
+      "appendPol": 196.0784,
+      "checkPol": 196.0784,
+      "dateTime": "07/12/2025, 08:27:52"
+    }
+  },
+  {
+    "userId": "0x1a28CBA1C47B4db4C070E4a60790746F359072eA",
+    "referrerId": "0x130c8bc9e0c9e9a173dB6a704AA5155978345aE9",
+    "name": "nphada28",
+    "tokenId": "14688",
+    "d1Id": "1268",
+    "planB": {
+      "rateTHBPOL": 4.3,
+      "cumulativePol": 0,
+      "requiredPol": 186.0465,
+      "remainingPol": 0,
+      "appendPol": 186.0465,
+      "checkPol": 186.0465,
+      "dateTime": "24/11/2025, 09:21:01"
+    }
+  },
+  {
+    "userId": "0x3422E537506cFa5Dc72532A97A8B3ba44CeB2F30",
+    "referrerId": "0x2823f18c98B2774643Ba3eb12cCCB7E5E26cb060",
+    "name": "tuktarecycle",
+    "tokenId": "14689",
+    "d1Id": "1269",
+    "planB": {
+      "rateTHBPOL": 4.35,
+      "cumulativePol": 0,
+      "requiredPol": 183.908,
+      "remainingPol": 0,
+      "appendPol": 183.908,
+      "checkPol": 183.908,
+      "dateTime": "27/11/2025, 01:17:31"
+    }
+  },
+  {
+    "userId": "0xbCF20Fb078748Faed2056EDAf00a2E52671E9AA5",
+    "referrerId": "0xa86101c5d542735a240951913672B586D9dA4300",
+    "name": "bangxrphengchunmadan",
+    "tokenId": "14690",
+    "d1Id": "1270",
+    "planB": {
+      "rateTHBPOL": 4.35,
+      "cumulativePol": 0,
+      "requiredPol": 183.908,
+      "remainingPol": 0,
+      "appendPol": 183.908,
+      "checkPol": 183.908,
+      "dateTime": "27/11/2025, 09:44:25"
+    }
+  },
+  {
+    "userId": "0x9cae9D14AbE4395da878b2f81907D3bb43292aA3",
+    "referrerId": "0xa86101c5d542735a240951913672B586D9dA4300",
+    "name": "patthira6560",
+    "tokenId": "14691",
+    "d1Id": "1271",
+    "planB": {
+      "rateTHBPOL": 4.35,
+      "cumulativePol": 0,
+      "requiredPol": 183.908,
+      "remainingPol": 0,
+      "appendPol": 183.908,
+      "checkPol": 183.908,
+      "dateTime": "27/11/2025, 15:06:54"
+    }
+  },
+  {
+    "userId": "0x5c79249245b533854f05Cc1Dfa14cab1229C6043",
+    "referrerId": "0x8E04B6257Fa527350890A357e8647D3606b37B9F",
+    "name": "anon07062009",
+    "tokenId": "14692",
+    "d1Id": "1272",
+    "planB": {
+      "rateTHBPOL": 4.35,
+      "cumulativePol": 0,
+      "requiredPol": 183.908,
+      "remainingPol": 0,
+      "appendPol": 183.908,
+      "checkPol": 183.908,
+      "dateTime": "27/11/2025, 15:52:54"
+    }
+  },
+  {
+    "userId": "0x0F161885577c0Be148dF33F96A7Ab5129A5E1Dc3",
+    "referrerId": "0xC4883E1Fc4c52b2641a26D3561cca3714c74d776",
+    "name": "supalak3971",
+    "tokenId": "14703",
+    "d1Id": "1273",
+    "planB": {
+      "rateTHBPOL": 4.25,
+      "cumulativePol": 0,
+      "requiredPol": 188.2353,
+      "remainingPol": 0,
+      "appendPol": 188.2353,
+      "checkPol": 188.2353,
+      "dateTime": "30/11/2025, 11:52:08"
+    }
+  },
+  {
+    "userId": "0xF5f7f448bDFf05Cb548806Cc79491109F49307Ec",
+    "referrerId": "0xc8009b09AeF60e8f49a3F3330C7CF3B8584bE5Bb",
+    "name": "yinganchasa309",
+    "tokenId": "14712",
+    "d1Id": "1274",
+    "planB": {
+      "rateTHBPOL": 3.77,
+      "cumulativePol": 0,
+      "requiredPol": 212.2016,
+      "remainingPol": 0,
+      "appendPol": 212.2016,
+      "checkPol": 212.2016,
+      "dateTime": "14/12/2025, 16:27:23"
+    }
+  },
+  {
+    "userId": "0x38836bf142DAb5148b7A8A9520AA3a1e25E47ca8",
+    "referrerId": "0x79Ccebc31C966d40Ed1ed1393603cd17471d66e2",
+    "name": "smnukthxngmaxeng7",
+    "tokenId": "14722",
+    "d1Id": "1275",
+    "planB": {
+      "rateTHBPOL": 4.16,
+      "cumulativePol": 0,
+      "requiredPol": 192.3077,
+      "remainingPol": 0,
+      "appendPol": 192.3077,
+      "checkPol": 192.3077,
+      "dateTime": "03/12/2025, 06:11:26"
+    }
+  },
+  {
+    "userId": "0x465cf152A1a917DB6b74d0834B9E6dAE5F3F860F",
+    "referrerId": "0x6CfD269336f10548607156490f34B2bbbf0f4dF7",
+    "name": "ww7921906",
+    "tokenId": "14724",
+    "d1Id": "1276",
+    "planB": {
+      "rateTHBPOL": 4.1,
+      "cumulativePol": 0,
+      "requiredPol": 195.122,
+      "remainingPol": 0,
+      "appendPol": 195.122,
+      "checkPol": 195.122,
+      "dateTime": "03/12/2025, 13:56:15"
+    }
+  },
+  {
+    "userId": "0x1a10038A269b6C23A89D3Dc6876CE710DA9037AC",
+    "referrerId": "0x0c5982454739bdC7bd7E4A47DA169C6d90e1f509",
+    "name": "nichakorn17022526",
+    "tokenId": "14725",
+    "d1Id": "1277",
+    "planB": {
+      "rateTHBPOL": 4.08,
+      "cumulativePol": 0,
+      "requiredPol": 196.0784,
+      "remainingPol": 0,
+      "appendPol": 196.0784,
+      "checkPol": 196.0784,
+      "dateTime": "06/12/2025, 12:34:34"
+    }
+  },
+  {
+    "userId": "0xf61690C7DEAB679C5D0934D5516C4a0A8955dde7",
+    "referrerId": "0x6CfD269336f10548607156490f34B2bbbf0f4dF7",
+    "name": "wwithiyuthth+1",
+    "tokenId": "14735",
+    "d1Id": "1278",
+    "planB": {
+      "rateTHBPOL": 3.81,
+      "cumulativePol": 0,
+      "requiredPol": 209.9738,
+      "remainingPol": 0,
+      "appendPol": 209.9738,
+      "checkPol": 209.9738,
+      "dateTime": "13/12/2025, 05:34:08"
+    }
+  },
+  {
+    "userId": "0xD0A49050B27f2476e3114B0B4B949356227D914c",
+    "referrerId": "0x6CfD269336f10548607156490f34B2bbbf0f4dF7",
+    "name": "wwithiyuthth+2",
+    "tokenId": "14736",
+    "d1Id": "1279",
+    "planB": {
+      "rateTHBPOL": 3.81,
+      "cumulativePol": 0,
+      "requiredPol": 209.9738,
+      "remainingPol": 0,
+      "appendPol": 209.9738,
+      "checkPol": 209.9738,
+      "dateTime": "13/12/2025, 05:38:56"
+    }
+  },
+  {
+    "userId": "0xECAb7111b1Af9494Eb97D44d525D7d93A66F3404",
+    "referrerId": "0x6CfD269336f10548607156490f34B2bbbf0f4dF7",
+    "name": "wwithiyuthth+3",
+    "tokenId": "14737",
+    "d1Id": "1280",
+    "planB": {
+      "rateTHBPOL": 3.81,
+      "cumulativePol": 0,
+      "requiredPol": 209.9738,
+      "remainingPol": 0,
+      "appendPol": 209.9738,
+      "checkPol": 209.9738,
+      "dateTime": "13/12/2025, 05:43:01"
+    }
+  },
+  {
+    "userId": "0xaF61D90D4Ab7a45B64d7431cd0BE7594Ff097d19",
+    "referrerId": "0x6CfD269336f10548607156490f34B2bbbf0f4dF7",
+    "name": "wwithiyuthth+4",
+    "tokenId": "14738",
+    "d1Id": "1281",
+    "planB": {
+      "rateTHBPOL": 3.81,
+      "cumulativePol": 0,
+      "requiredPol": 209.9738,
+      "remainingPol": 0,
+      "appendPol": 209.9738,
+      "checkPol": 209.9738,
+      "dateTime": "13/12/2025, 05:47:30"
+    }
+  },
+  {
+    "userId": "0x8d23A9d8C4658108c4A42CEF30dD20243A88df0d",
+    "referrerId": "0x6CfD269336f10548607156490f34B2bbbf0f4dF7",
+    "name": "wwithiyuthth+5",
+    "tokenId": "14739",
+    "d1Id": "1282",
+    "planB": {
+      "rateTHBPOL": 3.81,
+      "cumulativePol": 0,
+      "requiredPol": 209.9738,
+      "remainingPol": 0,
+      "appendPol": 209.9738,
+      "checkPol": 209.9738,
+      "dateTime": "13/12/2025, 05:51:11"
+    }
+  },
+  {
+    "userId": "0xC7B169D23DFdf65FdA5e9dB0F5EE1CB6b1a3CFd2",
+    "referrerId": "0x6CfD269336f10548607156490f34B2bbbf0f4dF7",
+    "name": "wwithiyuthth+6",
+    "tokenId": "14740",
+    "d1Id": "1283",
+    "planB": {
+      "rateTHBPOL": 3.81,
+      "cumulativePol": 0,
+      "requiredPol": 209.9738,
+      "remainingPol": 0,
+      "appendPol": 209.9738,
+      "checkPol": 209.9738,
+      "dateTime": "13/12/2025, 05:54:56"
+    }
+  },
+  {
+    "userId": "0x17510bF95AAbc660cdf85048B2c2d11bb1EAFE09",
+    "referrerId": "0x2e59250f1e48853511bbb41DF86e40e0Dbb4E316",
+    "name": "ladawannaka1959",
+    "tokenId": "14741",
+    "d1Id": "1284",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 09:30:47"
+    }
+  },
+  {
+    "userId": "0xeBB3b58231cF1Ca57e5ABb67ceA11A096659fe0e",
+    "referrerId": "0xF1123ecdce7b1cbE90b7668Ef6D912A0F6aA0cf2",
+    "name": "aekasit.aus",
+    "tokenId": "14742",
+    "d1Id": "1285",
+    "planB": {
+      "rateTHBPOL": 4.08,
+      "cumulativePol": 0,
+      "requiredPol": 196.0784,
+      "remainingPol": 0,
+      "appendPol": 196.0784,
+      "checkPol": 196.0784,
+      "dateTime": "07/12/2025, 08:59:12"
+    }
+  },
+  {
+    "userId": "0xcc22dca5073bB7c9A83546AB9610a49A72E57e8C",
+    "referrerId": "0x0c5982454739bdC7bd7E4A47DA169C6d90e1f509",
+    "name": "chunny2u",
+    "tokenId": "14904",
+    "d1Id": "1286",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 08:34:12"
+    }
+  },
+  {
+    "userId": "0xC6C1483c326f59863e0A4ab206CbA868748288C7",
+    "referrerId": "0xa86101c5d542735a240951913672B586D9dA4300",
+    "name": "nongnaga08",
+    "tokenId": "14905",
+    "d1Id": "1287",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 06:19:40"
+    }
+  },
+  {
+    "userId": "0xde60d90f8879086D4e994acd10d4611821eD9ec4",
+    "referrerId": "0x9f40098899A03E1a400db33772cb81a7C4585133",
+    "name": "sorawit.dprojec6462",
+    "tokenId": "14906",
+    "d1Id": "1288",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 06:45:33"
+    }
+  },
+  {
+    "userId": "0x2B64Ca6fA830C02B2b97c7298Ad533791478e979",
+    "referrerId": "0xC6C1483c326f59863e0A4ab206CbA868748288C7",
+    "name": "nam3459",
+    "tokenId": "14907",
+    "d1Id": "1289",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 07:45:59"
+    }
+  },
+  {
+    "userId": "0xbAB3e72600001D23e05A7a4c081BC5eB8F7A0E48",
+    "referrerId": "0x8E04B6257Fa527350890A357e8647D3606b37B9F",
+    "name": "far_untraman",
+    "tokenId": "14908",
+    "d1Id": "1290",
+    "planB": {
+      "rateTHBPOL": 3.87,
+      "cumulativePol": 0,
+      "requiredPol": 206.7183,
+      "remainingPol": 0,
+      "appendPol": 206.7183,
+      "checkPol": 206.7183,
+      "dateTime": "12/12/2025, 08:22:59"
+    }
+  },
+  {
+    "userId": "0xaAb48199b6c817d271774038dEA41E5189161A52",
+    "referrerId": "0x049E08E60125396880190E1Eb08910861D9553C7",
+    "name": "pongsakgong1983",
+    "tokenId": "14915",
+    "d1Id": "1291",
+    "planB": {
+      "rateTHBPOL": 3.81,
+      "cumulativePol": 0,
+      "requiredPol": 209.9738,
+      "remainingPol": 0,
+      "appendPol": 209.9738,
+      "checkPol": 209.9738,
+      "dateTime": "13/12/2025, 13:01:15"
+    }
+  },
+  {
+    "userId": "0x8df58Aa98008500761A07b515Fd34A2CBAf62648",
+    "referrerId": "0x4481Cb9AD6D1e0DcC7DCa8f6868b0397965dEAea",
+    "name": "lolekhmsant",
+    "tokenId": "14922",
+    "d1Id": "1292",
+    "planB": {
+      "rateTHBPOL": 3.84,
+      "cumulativePol": 0,
+      "requiredPol": 208.3333,
+      "remainingPol": 0,
+      "appendPol": 208.3333,
+      "checkPol": 208.3333,
+      "dateTime": "14/12/2025, 05:15:14"
+    }
+  },
+  {
+    "userId": "0xE6108fF9aB183B4702BbF2524331eB59CA6Cc6b7",
+    "referrerId": "0x4f20Ee37A9bA1748E72E0f68113a32A80df15Efb",
+    "name": "kaewsmuy8",
+    "tokenId": "14923",
+    "d1Id": "1293",
+    "planB": {
+      "rateTHBPOL": 3.84,
+      "cumulativePol": 0,
+      "requiredPol": 208.3333,
+      "remainingPol": 0,
+      "appendPol": 208.3333,
+      "checkPol": 208.3333,
+      "dateTime": "14/12/2025, 06:16:19"
+    }
+  },
+  {
+    "userId": "0xFD9A662E57ad300Dc4B391943941443e79A2Adb9",
+    "referrerId": "0x440c17466747a9099BfAa11959975337D4A95DC5",
+    "name": "piyaporn.dproject0944",
+    "tokenId": "14929",
+    "d1Id": "1294",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 06:53:54"
+    }
+  },
+  {
+    "userId": "0x8426aE958a3b07062152a95dC8994dCd1380d095",
+    "referrerId": "0x0c5982454739bdC7bd7E4A47DA169C6d90e1f509",
+    "name": "sriyaphai.gift",
+    "tokenId": "14931",
+    "d1Id": "1295",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 07:17:58"
+    }
+  },
+  {
+    "userId": "0x846b6D973C603e83B8e87eE8cff3faDF9bfcC47D",
+    "referrerId": "0x426F42344eF8745A325Db2ea955CA7f4ECaE2E32",
+    "name": "tusawon.tri",
+    "tokenId": "14932",
+    "d1Id": "1296",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 11:47:38"
+    }
+  },
+  {
+    "userId": "0x3D452c7783BEcFaB76A2496aDf027d32cAa4F023",
+    "referrerId": "0xF501B99fb323A4E795ef1eb50011cCEee3663804",
+    "name": "katat.alon",
+    "tokenId": "14933",
+    "d1Id": "1297",
+    "planB": {
+      "rateTHBPOL": 3.82,
+      "cumulativePol": 0,
+      "requiredPol": 209.4241,
+      "remainingPol": 0,
+      "appendPol": 209.4241,
+      "checkPol": 209.4241,
+      "dateTime": "15/12/2025, 12:46:56"
+    }
+  },
+  {
+    "userId": "0xDcEA6C8176B0ECc9EdF5cabB7673340f732968d2",
+    "referrerId": "0xF501B99fb323A4E795ef1eb50011cCEee3663804",
+    "name": "iisala.dproject",
+    "tokenId": "14934",
+    "d1Id": "1298",
+    "planB": {
+      "rateTHBPOL": 3.31,
+      "cumulativePol": 0,
+      "requiredPol": 241.6918,
+      "remainingPol": 0,
+      "appendPol": 241.6918,
+      "checkPol": 241.6918,
+      "dateTime": "24/12/2025, 02:33:22"
+    }
+  },
+  {
+    "userId": "0x25cB520fB8cd09A1282d8c3903d020e62c8ce98b",
+    "referrerId": "0x8df58Aa98008500761A07b515Fd34A2CBAf62648",
+    "name": "komsanteamnontha",
+    "tokenId": "14956",
+    "d1Id": "1299",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 0,
+      "requiredPol": 243.9024,
+      "remainingPol": 0,
+      "appendPol": 243.9024,
+      "checkPol": 243.9024,
+      "dateTime": "24/12/2025, 09:36:01"
+    }
+  },
+  {
+    "userId": "0xA2774B7Bf26730C3531e3217ce8B03d39Bf39Cd4",
+    "referrerId": "0xaAb48199b6c817d271774038dEA41E5189161A52",
+    "name": "gongkittiwatteam",
+    "tokenId": "14957",
+    "d1Id": "1300",
+    "planB": {
+      "rateTHBPOL": 3.25,
+      "cumulativePol": 0,
+      "requiredPol": 246.1538,
+      "remainingPol": 0,
+      "appendPol": 246.1538,
+      "checkPol": 246.1538,
+      "dateTime": "24/12/2025, 14:54:06"
+    }
+  },
+  {
+    "userId": "0xcfE80B8E2BEdDee0F4F1c63dF7e4B0d1201Dffad",
+    "referrerId": "0x0c5982454739bdC7bd7E4A47DA169C6d90e1f509",
+    "name": "cumpang155",
+    "tokenId": "14963",
+    "d1Id": "1301",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 0,
+      "requiredPol": 243.9024,
+      "remainingPol": 0,
+      "appendPol": 243.9024,
+      "checkPol": 243.9024,
+      "dateTime": "25/12/2025, 14:16:31"
+    }
+  },
+    {
+    "userId": "0x334A9b5a945a4aAEc0FB2C29b3F7499728f407A6",
+    "referrerId": "0xfA2ACB9B41bB218384A2771f8532cFb18e40e7a1",
+    "name": "BangkokCryp",
+    "tokenId": "12373",
+    "d1Id": "1302",
+    "planB": {
+      "rateTHBPOL": 3.56,
+      "cumulativePol": 0,
+      "requiredPol": 224.7191,
+      "remainingPol": 0,
+      "appendPol": 224.7191,
+      "checkPol": 224.7191,
+      "dateTime": "16/12/2025, 16:32:09"
+    }
+  },
+  {
+    "userId": "0x3B16949e2fec02E1f9A2557cE7FEBe74f780fADc",
+    "referrerId": "0x12E43878Ab2a41ACA0545a7dCa3536D92e16E8b7",
+    "name": "Eastern Cyber Co., Ltd. aaa",
+    "tokenId": "370",
+    "d1Id": "1303",
+    "planB": {
+      "rateTHBPOL": 3.56,
+      "cumulativePol": 0,
+      "requiredPol": 224.7191,
+      "remainingPol": 0,
+      "appendPol": 224.7191,
+      "checkPol": 224.7191,
+      "dateTime": "17/12/2025, 01:59:23"
+    }
+  },
+  {
+    "userId": "0x3B16949e2fec02E1f9A2557cE7FEBe74f780fADc",
+    "referrerId": "0x12E43878Ab2a41ACA0545a7dCa3536D92e16E8b7",
+    "name": "Eastern Cyber Co., Ltd. aaa",
+    "tokenId": "370",
+    "d1Id": "1304",
+    "planB": {
+      "rateTHBPOL": 3.56,
+      "cumulativePol": 0,
+      "requiredPol": 224.7191,
+      "remainingPol": 0,
+      "appendPol": 224.7191,
+      "checkPol": 224.7191,
+      "dateTime": "17/12/2025, 02:04:02"
+    }
+  },
+  {
+    "userId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "referrerId": "0x4B7db47A586d5b7D3d8e9aFC6E78CDD35a909040",
+    "name": "อ.กิจการ",
+    "tokenId": "256",
+    "d1Id": "1305",
+    "planB": {
+      "rateTHBPOL": 3.34,
+      "cumulativePol": 901.6987,
+      "requiredPol": 239.521,
+      "remainingPol": 662.1778,
+      "appendPol": 0.01,
+      "checkPol": 0.01,
+      "dateTime": "18/12/2025, 06:58:24"
+    }
+  },
+  {
+    "userId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "referrerId": "0x4B7db47A586d5b7D3d8e9aFC6E78CDD35a909040",
+    "name": "อ.กิจการ",
+    "tokenId": "256",
+    "d1Id": "1306",
+    "planB": {
+      "rateTHBPOL": 3.34,
+      "cumulativePol": 662.1778,
+      "requiredPol": 239.521,
+      "remainingPol": 422.6568,
+      "appendPol": 0.01,
+      "checkPol": 0.01,
+      "dateTime": "18/12/2025, 06:59:03"
+    }
+  },
+  {
+    "userId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "referrerId": "0x4B7db47A586d5b7D3d8e9aFC6E78CDD35a909040",
+    "name": "อ.กิจการ",
+    "tokenId": "256",
+    "d1Id": "1307",
+    "planB": {
+      "rateTHBPOL": 3.34,
+      "cumulativePol": 422.6568,
+      "requiredPol": 239.521,
+      "remainingPol": 183.1358,
+      "appendPol": 0.01,
+      "checkPol": 0.01,
+      "dateTime": "18/12/2025, 06:59:26"
+    }
+  },
+  {
+    "userId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "referrerId": "0x4B7db47A586d5b7D3d8e9aFC6E78CDD35a909040",
+    "name": "อ.กิจการ",
+    "tokenId": "256",
+    "d1Id": "1308",
+    "planB": {
+      "rateTHBPOL": 3.34,
+      "cumulativePol": 183.1358,
+      "requiredPol": 239.521,
+      "remainingPol": 0,
+      "appendPol": 56.3833,
+      "checkPol": 56.3833,
+      "dateTime": "18/12/2025, 06:59:57"
+    }
+  },
+  {
+    "userId": "0x0a11986fd85AAe898Ee34757eBbA93454647C63D",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "Sunyapakorn 1958",
+    "tokenId": "257",
+    "d1Id": "1309",
+    "planB": {
+      "rateTHBPOL": 3.34,
+      "cumulativePol": 0,
+      "requiredPol": 239.521,
+      "remainingPol": 0,
+      "appendPol": 239.521,
+      "checkPol": 239.521,
+      "dateTime": "18/12/2025, 07:34:21"
+    }
+  },
+  {
+    "userId": "0x0c5982454739bdC7bd7E4A47DA169C6d90e1f509",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "Tana Lonanant 1155",
+    "tokenId": "1375",
+    "d1Id": "1310",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 0,
+      "requiredPol": 243.9024,
+      "remainingPol": 0,
+      "appendPol": 243.9024,
+      "checkPol": 243.9024,
+      "dateTime": "19/12/2025, 03:27:08"
+    }
+  },
+  {
+    "userId": "0x26638Aeda2df3c49f03765A5E235D01b5A6aBff5",
+    "referrerId": "0xb73044218386E1462Fae125489B38dE273Ee6b05",
+    "name": "Khun Ying 659",
+    "tokenId": "413",
+    "d1Id": "1311",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 0,
+      "requiredPol": 243.9024,
+      "remainingPol": 0,
+      "appendPol": 243.9024,
+      "checkPol": 243.9024,
+      "dateTime": "19/12/2025, 03:27:54"
+    }
+  },
+  {
+    "userId": "0x0c5982454739bdC7bd7E4A47DA169C6d90e1f509",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "Tana Lonanant 1155",
+    "tokenId": "1375",
+    "d1Id": "1312",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 0,
+      "requiredPol": 243.9024,
+      "remainingPol": 0,
+      "appendPol": 243.9024,
+      "checkPol": 243.9024,
+      "dateTime": "19/12/2025, 03:27:57"
+    }
+  },
+  {
+    "userId": "0xBCdb738dc1ceF57BDF6764fd613D79A5413C0c55",
+    "referrerId": "0x862f8ed7726176Fb052075957c7a9963Df9C4841",
+    "name": "Muay Inspire 789",
+    "tokenId": "1495",
+    "d1Id": "1313",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 0,
+      "requiredPol": 243.9024,
+      "remainingPol": 0,
+      "appendPol": 243.9024,
+      "checkPol": 243.9024,
+      "dateTime": "19/12/2025, 06:53:41"
+    }
+  },
+  {
+    "userId": "0xbc99Ff8935A4383C6Ad0da4416A654f8153D6119",
+    "referrerId": "0xb9cB4e7C1174877C9D06A7D519eD0edcf97E4DbF",
+    "name": "Dedagoodra",
+    "tokenId": "297",
+    "d1Id": "1314",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 0,
+      "requiredPol": 243.9024,
+      "remainingPol": 0,
+      "appendPol": 243.9024,
+      "checkPol": 243.9024,
+      "dateTime": "19/12/2025, 07:18:16"
+    }
+  },
+  {
+    "userId": "0xd409d50723CE0aDB479807b34D8AfE87e7630AeD",
+    "referrerId": "0xae06cB3272d7A52e15D4dE57A2BAb1586b3b5D96",
+    "name": "Patchamon 48",
+    "tokenId": "1599",
+    "d1Id": "1315",
+    "planB": {
+      "rateTHBPOL": 3.4,
+      "cumulativePol": 0,
+      "requiredPol": 235.2941,
+      "remainingPol": 0,
+      "appendPol": 235.2941,
+      "checkPol": 235.2941,
+      "dateTime": "20/12/2025, 07:19:47"
+    }
+  },
+  {
+    "userId": "0xae06cB3272d7A52e15D4dE57A2BAb1586b3b5D96",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "Kanyanat 06265",
+    "tokenId": "1391",
+    "d1Id": "1316",
+    "planB": {
+      "rateTHBPOL": 3.48,
+      "cumulativePol": 0,
+      "requiredPol": 229.8851,
+      "remainingPol": 0,
+      "appendPol": 229.8851,
+      "checkPol": 229.8851,
+      "dateTime": "20/12/2025, 14:06:27"
+    }
+  },
+  {
+    "userId": "0x3B16949e2fec02E1f9A2557cE7FEBe74f780fADc",
+    "referrerId": "0x12E43878Ab2a41ACA0545a7dCa3536D92e16E8b7",
+    "name": "Eastern Cyber Co., Ltd. aaa",
+    "tokenId": "370",
+    "d1Id": "1317",
+    "planB": {
+      "rateTHBPOL": 3.48,
+      "cumulativePol": 0,
+      "requiredPol": 229.8851,
+      "remainingPol": 0,
+      "appendPol": 229.8851,
+      "checkPol": 229.8851,
+      "dateTime": "20/12/2025, 16:15:27"
+    }
+  },
+  {
+    "userId": "0x3B16949e2fec02E1f9A2557cE7FEBe74f780fADc",
+    "referrerId": "0x12E43878Ab2a41ACA0545a7dCa3536D92e16E8b7",
+    "name": "Eastern Cyber Co., Ltd. aaa",
+    "tokenId": "370",
+    "d1Id": "1318",
+    "planB": {
+      "rateTHBPOL": 3.48,
+      "cumulativePol": 0,
+      "requiredPol": 229.8851,
+      "remainingPol": 0,
+      "appendPol": 229.8851,
+      "checkPol": 229.8851,
+      "dateTime": "20/12/2025, 16:16:30"
+    }
+  },
+  {
+    "userId": "0x3B16949e2fec02E1f9A2557cE7FEBe74f780fADc",
+    "referrerId": "0x12E43878Ab2a41ACA0545a7dCa3536D92e16E8b7",
+    "name": "Eastern Cyber Co., Ltd. aaa",
+    "tokenId": "370",
+    "d1Id": "1319",
+    "planB": {
+      "rateTHBPOL": 3.48,
+      "cumulativePol": 0,
+      "requiredPol": 229.8851,
+      "remainingPol": 0,
+      "appendPol": 229.8851,
+      "checkPol": 229.8851,
+      "dateTime": "20/12/2025, 16:18:04"
+    }
+  },
+  {
+    "userId": "0xF1123ecdce7b1cbE90b7668Ef6D912A0F6aA0cf2",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "thanaboon964",
+    "tokenId": "12348",
+    "d1Id": "1320",
+    "planB": {
+      "rateTHBPOL": 3.42,
+      "cumulativePol": 0,
+      "requiredPol": 233.9181,
+      "remainingPol": 0,
+      "appendPol": 233.9181,
+      "checkPol": 233.9181,
+      "dateTime": "21/12/2025, 08:09:03"
+    }
+  },
+  {
+    "userId": "0xF1123ecdce7b1cbE90b7668Ef6D912A0F6aA0cf2",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "thanaboon964",
+    "tokenId": "12348",
+    "d1Id": "1321",
+    "planB": {
+      "rateTHBPOL": 3.42,
+      "cumulativePol": 0,
+      "requiredPol": 233.9181,
+      "remainingPol": 0,
+      "appendPol": 233.9181,
+      "checkPol": 233.9181,
+      "dateTime": "21/12/2025, 08:09:43"
+    }
+  },
+  {
+    "userId": "0xF1123ecdce7b1cbE90b7668Ef6D912A0F6aA0cf2",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "thanaboon964",
+    "tokenId": "12348",
+    "d1Id": "1322",
+    "planB": {
+      "rateTHBPOL": 3.42,
+      "cumulativePol": 0,
+      "requiredPol": 233.9181,
+      "remainingPol": 0,
+      "appendPol": 233.9181,
+      "checkPol": 233.9181,
+      "dateTime": "21/12/2025, 08:10:11"
+    }
+  },
+  {
+    "userId": "0xF1123ecdce7b1cbE90b7668Ef6D912A0F6aA0cf2",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "thanaboon964",
+    "tokenId": "12348",
+    "d1Id": "1323",
+    "planB": {
+      "rateTHBPOL": 3.42,
+      "cumulativePol": 0,
+      "requiredPol": 233.9181,
+      "remainingPol": 0,
+      "appendPol": 233.9181,
+      "checkPol": 233.9181,
+      "dateTime": "21/12/2025, 08:10:43"
+    }
+  },
+  {
+    "userId": "0xF1123ecdce7b1cbE90b7668Ef6D912A0F6aA0cf2",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "thanaboon964",
+    "tokenId": "12348",
+    "d1Id": "1324",
+    "planB": {
+      "rateTHBPOL": 3.42,
+      "cumulativePol": 0,
+      "requiredPol": 233.9181,
+      "remainingPol": 0,
+      "appendPol": 233.9181,
+      "checkPol": 233.9181,
+      "dateTime": "21/12/2025, 08:11:09"
+    }
+  },
+  {
+    "userId": "0xF1123ecdce7b1cbE90b7668Ef6D912A0F6aA0cf2",
+    "referrerId": "0xd3A8eF8a959bCF3a11eA3EfCe70f4dA9B99924fe",
+    "name": "thanaboon964",
+    "tokenId": "12348",
+    "d1Id": "1325",
+    "planB": {
+      "rateTHBPOL": 3.42,
+      "cumulativePol": 0,
+      "requiredPol": 233.9181,
+      "remainingPol": 0,
+      "appendPol": 233.9181,
+      "checkPol": 233.9181,
+      "dateTime": "21/12/2025, 08:11:40"
+    }
+  },
+  {
+    "userId": "0x79Ccebc31C966d40Ed1ed1393603cd17471d66e2",
+    "referrerId": "0x26638Aeda2df3c49f03765A5E235D01b5A6aBff5",
+    "name": "Wanna 06175",
+    "tokenId": "1158",
+    "d1Id": "1326",
+    "planB": {
+      "rateTHBPOL": 3.34,
+      "cumulativePol": 0,
+      "requiredPol": 239.521,
+      "remainingPol": 0,
+      "appendPol": 239.521,
+      "checkPol": 239.521,
+      "dateTime": "22/12/2025, 08:49:18"
+    }
+  },
+  {
+    "userId": "0xD8BE84199Bc2b2fb84Ca06E62245bf6fc6B497Ad",
+    "referrerId": "0xc5D27268E858fAB26CFA2bd29511E214D9d8f779",
+    "name": "Nuttaya 8",
+    "tokenId": "389",
+    "d1Id": "1327",
+    "planB": {
+      "rateTHBPOL": 3.37,
+      "cumulativePol": 0,
+      "requiredPol": 237.3887,
+      "remainingPol": 0,
+      "appendPol": 237.3887,
+      "checkPol": 237.3887,
+      "dateTime": "23/12/2025, 02:47:38"
+    }
+  },
+  {
+    "userId": "0xc5D27268E858fAB26CFA2bd29511E214D9d8f779",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "หัวหน้าสายัณห์",
+    "tokenId": "258",
+    "d1Id": "1328",
+    "planB": {
+      "rateTHBPOL": 3.31,
+      "cumulativePol": 0,
+      "requiredPol": 241.6918,
+      "remainingPol": 0,
+      "appendPol": 241.6918,
+      "checkPol": 241.6918,
+      "dateTime": "23/12/2025, 23:49:24"
+    }
+  },
+  {
+    "userId": "0xc5D27268E858fAB26CFA2bd29511E214D9d8f779",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "หัวหน้าสายัณห์",
+    "tokenId": "258",
+    "d1Id": "1329",
+    "planB": {
+      "rateTHBPOL": 3.31,
+      "cumulativePol": 0,
+      "requiredPol": 241.6918,
+      "remainingPol": 0,
+      "appendPol": 241.6918,
+      "checkPol": 241.6918,
+      "dateTime": "23/12/2025, 23:50:06"
+    }
+  },
+  {
+    "userId": "0xc5D27268E858fAB26CFA2bd29511E214D9d8f779",
+    "referrerId": "0xe10E469d765F51e1a46488f08403dCB87f4292be",
+    "name": "หัวหน้าสายัณห์",
+    "tokenId": "258",
+    "d1Id": "1330",
+    "planB": {
+      "rateTHBPOL": 3.31,
+      "cumulativePol": 0,
+      "requiredPol": 241.6918,
+      "remainingPol": 0,
+      "appendPol": 241.6918,
+      "checkPol": 241.6918,
+      "dateTime": "23/12/2025, 23:56:45"
+    }
+  },
+  {
+    "userId": "0xD8BE84199Bc2b2fb84Ca06E62245bf6fc6B497Ad",
+    "referrerId": "0xc5D27268E858fAB26CFA2bd29511E214D9d8f779",
+    "name": "Nuttaya 8",
+    "tokenId": "389",
+    "d1Id": "1331",
+    "planB": {
+      "rateTHBPOL": 3.31,
+      "cumulativePol": 0,
+      "requiredPol": 241.6918,
+      "remainingPol": 0,
+      "appendPol": 241.6918,
+      "checkPol": 241.6918,
+      "dateTime": "24/12/2025, 01:25:17"
+    }
+  },
+  {
+    "userId": "0xD8BE84199Bc2b2fb84Ca06E62245bf6fc6B497Ad",
+    "referrerId": "0xc5D27268E858fAB26CFA2bd29511E214D9d8f779",
+    "name": "Nuttaya 8",
+    "tokenId": "389",
+    "d1Id": "1332",
+    "planB": {
+      "rateTHBPOL": 3.31,
+      "cumulativePol": 0,
+      "requiredPol": 241.6918,
+      "remainingPol": 0,
+      "appendPol": 241.6918,
+      "checkPol": 241.6918,
+      "dateTime": "24/12/2025, 01:25:37"
+    }
+  },
+  {
+    "userId": "0xd409d50723CE0aDB479807b34D8AfE87e7630AeD",
+    "referrerId": "0xae06cB3272d7A52e15D4dE57A2BAb1586b3b5D96",
+    "name": "Patchamon 48",
+    "tokenId": "1599",
+    "d1Id": "1333",
+    "planB": {
+      "rateTHBPOL": 3.25,
+      "cumulativePol": 0,
+      "requiredPol": 246.1538,
+      "remainingPol": 0,
+      "appendPol": 246.1538,
+      "checkPol": 246.1538,
+      "dateTime": "25/12/2025, 03:47:54"
+    }
+  },
+  {
+    "userId": "0xd409d50723CE0aDB479807b34D8AfE87e7630AeD",
+    "referrerId": "0xae06cB3272d7A52e15D4dE57A2BAb1586b3b5D96",
+    "name": "Patchamon 48",
+    "tokenId": "1599",
+    "d1Id": "1334",
+    "planB": {
+      "rateTHBPOL": 3.25,
+      "cumulativePol": 0,
+      "requiredPol": 246.1538,
+      "remainingPol": 0,
+      "appendPol": 246.1538,
+      "checkPol": 246.1538,
+      "dateTime": "25/12/2025, 03:48:29"
+    }
+  },
+  {
+    "userId": "0x3B16949e2fec02E1f9A2557cE7FEBe74f780fADc",
+    "referrerId": "0x12E43878Ab2a41ACA0545a7dCa3536D92e16E8b7",
+    "name": "Eastern Cyber Co., Ltd. aaa",
+    "tokenId": "370",
+    "d1Id": "1335",
+    "planB": {
+      "rateTHBPOL": 3.28,
+      "cumulativePol": 0,
+      "requiredPol": 243.9024,
+      "remainingPol": 0,
+      "appendPol": 243.9024,
+      "checkPol": 243.9024,
+      "dateTime": "25/12/2025, 19:14:59"
+    }
+  },
+  {
+    "userId": "0xB86c3270D984978c7d16DC80F2C1B4C94a725b17",
+    "referrerId": "0xEA0265C9eeC500B7baEf178F865E37BaB0Cbc7Ad",
+    "name": "xihwa673",
+    "tokenId": "14985",
+    "d1Id": "1336",
+    "planB": {
+      "rateTHBPOL": 3.27,
+      "cumulativePol": 0,
+      "requiredPol": 244.6483,
+      "remainingPol": 0,
+      "appendPol": 244.6483,
+      "checkPol": 244.6483,
+      "dateTime": "27/12/2025, 10:17:00"
+    }
+  },
+  {
+    "userId": "0x7a067f83B74e124fC6C2127EE0e01B272E46392D",
+    "referrerId": "0xC4883E1Fc4c52b2641a26D3561cca3714c74d776",
+    "name": "Arpapron Sakunee 2008",
+    "tokenId": "963",
+    "d1Id": "1337",
+    "planB": {
+      "rateTHBPOL": 3.34,
+      "cumulativePol": 1.156,
+      "requiredPol": 239.521,
+      "remainingPol": 0,
+      "appendPol": 238.365,
+      "checkPol": 238.365,
+      "dateTime": "28/12/2025, 08:57:08"
+    }
+  },
+  {
+    "userId": "0xAf3627d790C5F5350384F8b8E9539a519219c0E7",
+    "referrerId": "0xC4883E1Fc4c52b2641a26D3561cca3714c74d776",
+    "name": "Nirankron 2514",
+    "tokenId": "964",
+    "d1Id": "1338",
+    "planB": {
+      "rateTHBPOL": 3.34,
+      "cumulativePol": 1.156,
+      "requiredPol": 239.521,
+      "remainingPol": 0,
+      "appendPol": 238.365,
+      "checkPol": 238.365,
+      "dateTime": "28/12/2025, 09:11:16"
+    }
   }
 ]
