@@ -1,5 +1,5 @@
 {
-  "fallbackExchangeRate": 2.6,
+  "fallbackExchangeRate": 2.62,
   "exchangeRateBuffer": 0,
   "refreshInterval": 300000
 }
